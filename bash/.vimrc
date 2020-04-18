@@ -75,8 +75,10 @@ highlight QuickScopeSecondary guifg='#5fffff' gui=underline ctermfg=81 cterm=und
 :nnoremap <c-0> :m+<CR>
 :nnoremap <S-J> 10jzz
 :nnoremap <S-K> 10kzz
-:nnoremap <S-L> <C-W><C-L>
-:nnoremap <S-H> <C-W><C-H>
+":nnoremap <S-L> <C-W><C-L>
+":nnoremap <S-H> <C-W><C-H>
+:nnoremap <S-L> w
+:nnoremap <S-H> b
 :nnoremap j gj
 :nnoremap k gk
 :noremap <C-@> a
@@ -107,9 +109,7 @@ autocmd filetype tex noremap <space><space> :/<++><cr>knca<
 :map <C-n> :Goyo<CR>
 :map <C-\> :set rnu! nu!<CR>
 :map q: <nop>
-:map <D-r> :source ~/.vimrc<CR>
-:map <D-g> :Goyo<CR>
-:map <D-`> :NERDTreeToggle<CR>
+
 "FOLD
 
 :set foldenable

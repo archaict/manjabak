@@ -10,7 +10,7 @@
 
 alias src='sudo raspi-config'
 alias suv='sudo vim'
-alias x='exit'
+alias x='clear'
 alias q='exit'
 alias df='df -h'
 alias disk='df'
@@ -20,6 +20,8 @@ alias rbt='sudo shutdown -r now'
 alias hm='cd ~'
 alias sv='sudo -E vim'
 alias rm='rm -rf' 
+alias :q='exit'
+alias shtdwn='sudo shutdown -h now'
 
 
 #PYTHON
@@ -34,6 +36,8 @@ alias mx='cmatrix'
 alias vrc='vim ~/.vimrc'
 alias v='vim'
 alias ta='tmux attach -t NULLØ || tmux new-session -s NULLØ \;'
+alias capsup='setxkbmap -option caps:super'
+alias capsctrl='setxkbmap -option caps:ctrl_modifier'
 
 #DIRECTORY
 
@@ -108,7 +112,7 @@ alias vin='sv /var/www/html/index.html'
 
 #I3WM
 alias i3conf='v ~/.i3/config'
-alias xr='v .Xresources'
+alias xr='v ~/.Xresources'
 alias xrs='xrdb ~/.Xresources'
 alias vcom='v ~/.config/compton.conf'
 alias trms='~/.scripts/terminal.sh > /dev/null 2>&1 && clear'
