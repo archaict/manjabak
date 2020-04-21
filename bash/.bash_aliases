@@ -22,6 +22,9 @@ alias sv='sudo -E vim'
 alias rm='rm -rf' 
 alias :q='exit'
 alias shtdwn='sudo shutdown -h now'
+alias tlpc='sv /etc/tlp.conf'
+alias ytla="cd ~/Music && youtube-dl --metadata-from-title -x -o '%(title)s.%(ext)s' --audio-format mp3 --no-overwrite --add-metdata"
+alias cl='clear'
 
 
 #PYTHON
@@ -31,13 +34,15 @@ alias pinstall='pip install'
 
 #APPLICATION
 
+alias vsx='v ~/.config/sxhkd/sxhkdrc'
 alias tconf='vim ~/.tmux.conf'
-alias mx='cmatrix'
 alias vrc='vim ~/.vimrc'
 alias v='vim'
 alias ta='tmux attach -t NULLØ || tmux new-session -s NULLØ \;'
 alias capsup='setxkbmap -option caps:super'
 alias capsctrl='setxkbmap -option caps:ctrl_modifier'
+alias spl='spotdl --song'
+alias spa='spotdl --album'
 
 #DIRECTORY
 
@@ -47,8 +52,11 @@ alias classes='cd ~/dotfiles/class'
 alias bp='vim ~/.bash_profile'
 alias brc='vim ~/.bashrc'
 alias pline='vim ~/.config/powerline-shell/config.json'
-alias sshdconf='sudo vim /etc/ssh/sshd_config'
+alias sshdconf='sv /etc/ssh/sshd_config'
 alias vundle='cd ~/.vim/bundle'
+alias cdo='cd ~/Downloads'
+alias cmconf='v ~/.config/compton.conf'
+alias rconf='v ~/.config/ranger/rc.conf'
 
 
 #LIST
@@ -101,8 +109,8 @@ alias gmpl='gmanpull'
 
 #LIGHTTPD
 alias ltpd='cd /var/www/html/'
-alias lrt='sudo /etc/init.d/lighttpd start'
-alias ltp='sudo /etc/init.d/lighttpd stop'
+alias lrt='systemctl start lighttpd.service'
+alias ltp='systemctl stop lighttpd.service'
 
 #HTML
 alias ghtml='cd ~/semicolon.project/'
@@ -115,8 +123,7 @@ alias i3conf='v ~/.i3/config'
 alias xr='v ~/.Xresources'
 alias xrs='xrdb ~/.Xresources'
 alias vcom='v ~/.config/compton.conf'
-alias trms='~/.scripts/terminal.sh > /dev/null 2>&1 && clear'
-alias vtrms='v ~/.scripts/terminal.sh'
+alias mus='cd ~/Music && . xdo.sh > /dev/null 2>&1'
 
 #POLYBAR
 alias pthemes='v ~/.config/polybar/config'

@@ -109,6 +109,7 @@ autocmd filetype tex noremap <space><space> :/<++><cr>knca<
 :map <C-n> :Goyo<CR>
 :map <C-\> :set rnu! nu!<CR>
 :map q: <nop>
+:vnoremap <S-J> 10jzz
 
 "FOLD
 
