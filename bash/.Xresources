@@ -28,8 +28,9 @@ URxvt.font:                       xft:mononoki Nerd Font:size=11
 
 
 URxvt.depth:                      32
-!URxvt.background:                 [100]#181818
-URxvt.background: rgba:1111/1111/1111/dddd
+URxvt.internalBorder:             30
+URxvt.background:                 [100]#181818
+!URxvt.background: rgba:1111/1111/1111/dddd
 URxvt*blurRadius:                 10
 URxvt*scrollBar:                  false
 URxvt*mouseWheelScrollPage:       true
@@ -39,9 +40,9 @@ URxvt*foreground:                 grey
 URxvt*saveLines:                  5000
 
 !TRANSPARENCY
- URxvt*inheritPixmap:            true
- URxvt*transparent:              true
- URxvt*shading:                  80
+ !URxvt*inheritPixmap:            true
+ !URxvt*transparent:              true
+ !URxvt*shading:                  80
 
 URxvt.iso14755:                   false
 URxvt.keysym.Shift-Control-V:     eval:paste_clipboard
@@ -77,8 +78,8 @@ URxvt.keysym.Shift-Control-Down:  \033[1;6B
 *.foreground:   nord4
 *.background:   nord0
 *.cursorColor:  nord4
-*fading: 35
-*fadeColor: nord3
+#*fading: 35
+#*fadeColor: nord3
 
 *.color0: nord1
 *.color1: nord11

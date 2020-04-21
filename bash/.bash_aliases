@@ -57,6 +57,8 @@ alias vundle='cd ~/.vim/bundle'
 alias cdo='cd ~/Downloads'
 alias cmconf='v ~/.config/compton.conf'
 alias rconf='v ~/.config/ranger/rc.conf'
+alias hm1='xrandr --output HDMI1 --mode 1360x768'
+alias pvc='pavucontrol'
 
 
 #LIST
