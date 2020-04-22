@@ -23,8 +23,9 @@ alias rm='rm -rf'
 alias :q='exit'
 alias shtdwn='sudo shutdown -h now'
 alias tlpc='sv /etc/tlp.conf'
-alias ytla="cd ~/Music && youtube-dl --metadata-from-title -x -o '%(title)s.%(ext)s' --audio-format mp3 --no-overwrite --add-metdata"
+alias ytla="cd ~/Music && youtube-dl -x -o '%(title)s.%(ext)s' --audio-format mp3 --no-overwrite"
 alias cl='clear'
+alias pk='pkill -x'
 
 
 #PYTHON
@@ -55,11 +56,12 @@ alias pline='vim ~/.config/powerline-shell/config.json'
 alias sshdconf='sv /etc/ssh/sshd_config'
 alias vundle='cd ~/.vim/bundle'
 alias cdo='cd ~/Downloads'
-alias cmconf='v ~/.config/compton.conf'
+alias cmconf='v ~/.config/picom.conf'
 alias rconf='v ~/.config/ranger/rc.conf'
 alias hm1='xrandr --output HDMI1 --mode 1360x768'
 alias pvc='pavucontrol'
-
+alias brr='source ~/.bashrc'
+alias cco='cd ~/.config'
 
 #LIST
 

@@ -28,10 +28,10 @@ URxvt.font:                       xft:mononoki Nerd Font:size=11
 
 
 URxvt.depth:                      32
-URxvt.internalBorder:             30
-URxvt.background:                 [98]#181818
+URxvt.internalBorder:             35
+URxvt.background:                 [100]#181818
 !URxvt.background: rgba:1111/1111/1111/dddd
-URxvt*blurRadius:                 10
+URxvt*blurRadius:                 5
 URxvt*scrollBar:                  false
 URxvt*mouseWheelScrollPage:       true
 URxvt*cursorBlink:                true
