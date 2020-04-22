@@ -48,6 +48,7 @@ hi Comment ctermfg=214
 :set smartcase
 :set incsearch
 :set hlsearch
+
 "LET
 
 let g:NERDTreeWinSize=20
@@ -59,6 +60,7 @@ let g:netrw_banner = 0
 let g:qs_highlight_on_keys = ['f', 'F', 't', 'T']
 highlight QuickScopePrimary guifg='#afff5f' gui=underline ctermfg=155 cterm=underline
 highlight QuickScopeSecondary guifg='#5fffff' gui=underline ctermfg=81 cterm=underline
+
 "REMAP
 
 "NORMAL MODE REMAP
@@ -87,6 +89,7 @@ autocmd filetype tex noremap <space><space> :/<++><cr>knca<
 :noremap <leader>1 1gt
 :noremap <leader>2 2gt
 :noremap <leader>3 3gt
+
 "INPUT MODE REMAP
 :inoremap <Up> <Nop>
 :inoremap <Down> <Nop>
@@ -95,6 +98,7 @@ autocmd filetype tex noremap <space><space> :/<++><cr>knca<
 :inoremap <expr> j pumvisible() ? "\<C-N>" : "j"
 :inoremap <expr> k pumvisible() ? "\<C-P>" : "k"
 :inoremap ii <esc>
+
 "COMMAND & VISUAL  MODE REMAP
 :cnoremap <Up> <Nop>
 :cnoremap <Down> <Nop>
@@ -110,6 +114,8 @@ autocmd filetype tex noremap <space><space> :/<++><cr>knca<
 :map <C-\> :set rnu! nu!<CR>
 :map q: <nop>
 :vnoremap <S-J> 10jzz
+:vnoremap <S-k> 10kzz
+
 
 "FOLD
 
@@ -182,6 +188,7 @@ hi User3 ctermfg=240 ctermbg=NONE guifg=#585858 guibg=#1c1c1c
 hi User4 ctermfg=244 ctermbg=235 guifg=#808080 guibg=NONE
 "hi User4 ctermfg=244 ctermbg=235 guifg=#808080 guibg=#262626
 
+
 "TAB COMPLETION
 
 function! InsertTabWrapper()
@@ -195,12 +202,6 @@ endfunction
 
 inoremap <expr> <tab> InsertTabWrapper()
 inoremap <s-tab> <c-n>
-
-
-
-
-
-
 
 
 
