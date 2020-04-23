@@ -139,6 +139,14 @@ bindsym $mod+Ctrl+0 move container to workspace $ws0
 
 
 
+#### F L O A T ####
+bindsym $mod+a floating toggle
+floating_minimum_size 95 x 100
+for_window [class="URxvt"] [floating] resize set 1366 640
+floating_maximum_size -1 x -1
+
+
+
 ### C O L O R I Z E ###
 
 set_from_resource $term_background background
@@ -198,4 +206,26 @@ bar {
 
   client.background       #2B2C2B
 
+
+
+#### M O V E W D W ####
+#
+bindsym $mod+z mode "move" focus floating
+mode "move" {
+    bindsym $mod+Tab focus right
+
+    bindsym Left  move left
+    bindsym Down  move down
+    bindsym Up    move up
+    bindsym Right move right
+
+    bindsym h     move left
+    bindsym j     move down
+    bindsym k     move up
+    bindsym l     move right
+
+    # back to normal: Enter or Escape
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
+}
 

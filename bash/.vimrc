@@ -24,6 +24,7 @@ colorscheme sierra
 hi Normal guibg=NONE ctermbg=NONE
 hi Folded ctermfg=243
 hi Comment ctermfg=214
+highlight EndOfBuffer ctermfg=234
 
 "SET
 
@@ -33,9 +34,7 @@ hi Comment ctermfg=214
 :set so=7
 :set path+=**
 :set cursorline
-:set number
 :set showcmd
-:set rnu
 :set wildmode=longest,list
 :set wildmenu
 :set lazyredraw
@@ -115,7 +114,6 @@ autocmd filetype tex noremap <space><space> :/<++><cr>knca<
 :map q: <nop>
 :vnoremap <S-J> 10jzz
 :vnoremap <S-k> 10kzz
-
 
 "FOLD
 
@@ -202,6 +200,5 @@ endfunction
 
 inoremap <expr> <tab> InsertTabWrapper()
 inoremap <s-tab> <c-n>
-
 
 
