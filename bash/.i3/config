@@ -88,14 +88,18 @@ bindsym $mod+Shift+h move left
 bindsym $mod+Shift+j move down
 bindsym $mod+Shift+k move up
 bindsym $mod+Shift+l move right
-bindsym $mod+mod1+h resize shrink width 5 px or 5 ppt
-bindsym $mod+mod1+j resize grow height 5 px or 5 ppt
-bindsym $mod+mod1+k resize shrink height 5 px or 5 ppt
-bindsym $mod+mod1+l resize grow width 5 px or 5 ppt
-bindsym mod1+h resize shrink width 5 px or 5 ppt
-bindsym mod1+j resize grow height 5 px or 5 ppt
-bindsym mod1+k resize shrink height 5 px or 5 ppt
-bindsym mod1+l resize grow width 5 px or 5 ppt
+bindsym mod1+h resize shrink width 10 px or 10 ppt
+bindsym mod1+j resize grow height 10 px or 10 ppt
+bindsym mod1+k resize shrink height 10 px or 10 ppt
+bindsym mod1+l resize grow width 10 px or 10 ppt
+bindsym mod1+$mod+h resize shrink width 20 px or 20 ppt
+bindsym mod1+$mod+j resize grow height 20 px or 20 ppt
+bindsym mod1+$mod+k resize shrink height 20 px or 20 ppt
+bindsym mod1+$mod+l resize grow width 20 px or 20 ppt
+bindsym mod1+Shift+h resize shrink width 50 px or 50 ppt
+bindsym mod1+Shift+j resize grow height 50 px or 50 ppt
+bindsym mod1+Shift+k resize shrink height 50 px or 50 ppt
+bindsym mod1+Shift+l resize grow width 50 px or 50 ppt
 
 set $ws1 1  
 set $ws2 2  
@@ -227,5 +231,7 @@ mode "move" {
     # back to normal: Enter or Escape
     bindsym Return mode "default"
     bindsym Escape mode "default"
+    bindsym $mod+z mode "default"
 }
+
 

@@ -155,7 +155,7 @@ export EDITOR='vim'
 
 
 #BANNERFORBASH
-echo -e "\e[31m Arandel"
+echo -e "\e[31m ARANDEL"
 echo -e "\e[95;38;5;214m os	\e[37m Manjaro Linux x86_64"
 echo -e "\e[95;38;5;214m host	\e[37m 20428 Lenovo Yoga 2 11"
 echo -e "\e[95;38;5;214m kernel	\e[37m $(uname -r)"
@@ -191,8 +191,8 @@ fi
 
 #CHANGE TERMINAL ADDRESS
 #export PS1='\[\033[01;33m\] nullØ:\w$ \[\033[00;01m\]'
-export PS1='\[\033[1;38;5;214m\] NULLØ \W \[\033[00;01m\]'
-
+#export PS1='\[\033[1;38;5;214m\] NULLØ \W \[\033[00;01m\]'
+export PS1='\[\033[1;38;5;214m\] ARANDELØ \W \[\033[00;01m\]'
 
 #AUTO COMMAND
 
