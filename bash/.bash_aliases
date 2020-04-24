@@ -26,6 +26,8 @@ alias tlpc='sv /etc/tlp.conf'
 alias ytla="cd ~/Music && youtube-dl -x -o '%(title)s.%(ext)s' --audio-format mp3 --no-overwrite"
 alias cl='clear'
 alias pk='pkill -x'
+alias ksx='pkill -x sxhkd'
+alias sx='sxhkd &'
 
 
 #PYTHON
@@ -59,6 +61,7 @@ alias cdo='cd ~/Downloads'
 alias cmconf='v ~/.config/picom.conf'
 alias rconf='v ~/.config/ranger/rc.conf'
 alias hm1='xrandr --output HDMI1 --mode 1360x768'
+alias hmn='xrandr -s 1366x768'
 alias pvc='pavucontrol'
 alias brr='source ~/.bashrc'
 alias cco='cd ~/.config'

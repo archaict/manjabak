@@ -12,10 +12,10 @@ XF86AudioMute
   pactl set-sink-mute 0 toggle
 
 XF86AudioRaiseVolume
-  pactl -- set-sink-volume 0 +5%; notify-send 'volume up'
+  pactl -- set-sink-volume 0 +2%; notify-send 'volume up'
 
 XF86AudioLowerVolume
-  pactl -- set-sink-volume 0 -5%; notify-send 'volume down'
+  pactl -- set-sink-volume 0 -2%; notify-send 'volume down'
 
 super + Delete
   betterlockscreen --lock blur
@@ -23,6 +23,14 @@ super + Delete
 super + {XF86AudioMute, XF86AudioRaiseVolume,XF86AudioLowerVolume}
   {rhythmbox-client --play-pause, rhythmbox-client --next, rhythmbox-client --previous}
 
+
+XF86MonBrightnessDown
+  xbacklight -2
+XF86MonBrightnessUp
+  xbacklight +2
+
+alt + {XF86MonBrightnessDown,XF86MonBrightnessUp}
+  {xbacklight -10,xbacklight +10}
 
 super + {bracketleft,bracketright,backslash}
   {rhythmbox-client --previous,rhythmbox-client --next,rhythmbox-client --play-pause}

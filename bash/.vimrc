@@ -6,12 +6,22 @@
 
 "VIMRC
 
-"PATHOGEN
+"VIMPLUG
+call plug#begin()
+Plug 'junegunn/vim-easy-align'
+Plug 'tpope/vim-sensible'
+Plug 'tpope/vim-surround'
+Plug 'morhetz/gruvbox'
 
-execute pathogen#infect()
+
+call plug#end()
+
+
 syntax on
 syntax enable
 filetype plugin indent on
+colorscheme gruvbox
+set bg=dark
 set tabstop=2
 set shiftwidth=2
 set expandtab
@@ -20,10 +30,9 @@ set expandtab
 
 set t_Co=256
 "let g:sierra_Twilight= 1
-colorscheme sierra
 hi Normal guibg=NONE ctermbg=NONE
-hi Folded ctermfg=243
-hi Comment ctermfg=214
+hi Folded ctermfg=245 ctermbg=235
+hi Comment ctermfg=246
 highlight EndOfBuffer ctermfg=234
 
 "SET
@@ -185,7 +194,6 @@ hi User2 ctermfg=007 ctermbg=NONE guifg=#c0c0c0 guibg=#adadad
 hi User3 ctermfg=240 ctermbg=NONE guifg=#585858 guibg=#1c1c1c
 hi User4 ctermfg=244 ctermbg=235 guifg=#808080 guibg=NONE
 "hi User4 ctermfg=244 ctermbg=235 guifg=#808080 guibg=#262626
-
 
 "TAB COMPLETION
 

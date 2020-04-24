@@ -19,7 +19,7 @@ XTerm*selectToClipboard: true
 *pointerColorForeground:          #16A085
 
 
-Xcursor.theme: xcursor-breeze-snow
+Xcursor.theme: FossaCursors
 Xcursor.size:                     0
 
 !URxvt.font:                       xft:Noto Sans Mono:size=12
@@ -30,7 +30,7 @@ URxvt.font:                        xft:MesloLGS Nerd Font Mono:size=10
 
 URxvt.depth:                      32
 URxvt.internalBorder:             35
-URxvt.background:                 [100]#181818
+URxvt.background:                 [100]#191919
 !URxvt.background: rgba:1111/1111/1111/dddd
 URxvt*blurRadius:                 5
 URxvt*scrollBar:                  false
