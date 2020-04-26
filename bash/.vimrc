@@ -12,16 +12,20 @@ Plug 'junegunn/vim-easy-align'
 Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-surround'
 Plug 'morhetz/gruvbox'
-
-
+Plug 'arcticicestudio/nord-vim'
+Plug 'nathanaelkane/vim-indent-guides'
+Plug 'dhruvasagar/vim-table-mode'
+Plug 'preservim/nerdcommenter'
+Plug 'jiangmiao/auto-pairs'
+Plug 'flazz/vim-colorschemes'
+Plug 'godlygeek/tabular'
+Plug 'sheerun/vim-polyglot'
 call plug#end()
 
 
 syntax on
 syntax enable
 filetype plugin indent on
-colorscheme gruvbox
-set bg=dark
 set tabstop=2
 set shiftwidth=2
 set expandtab
@@ -29,7 +33,8 @@ set expandtab
 "THEME
 
 set t_Co=256
-"let g:sierra_Twilight= 1
+colorscheme gruvbox
+set bg=dark
 hi Normal guibg=NONE ctermbg=NONE
 hi Folded ctermfg=245 ctermbg=235
 hi Comment ctermfg=246
@@ -208,5 +213,6 @@ endfunction
 
 inoremap <expr> <tab> InsertTabWrapper()
 inoremap <s-tab> <c-n>
+
 
 

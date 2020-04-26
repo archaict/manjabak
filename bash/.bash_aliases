@@ -121,8 +121,8 @@ alias ltp='systemctl stop lighttpd.service'
 
 #HTML
 alias ghtml='cd ~/semicolon.project/'
-alias vindex='v ~/semicolon.project/index.html'
-alias vcss='v ~/semicolon.project/css/styles.css'
+alias vindex='sv ~/semicolon.project/index.html'
+alias vcss='sv ~/semicolon.project/css/styles.css'
 alias vin='sv /var/www/html/index.html'
 
 #I3WM

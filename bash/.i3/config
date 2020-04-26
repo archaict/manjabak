@@ -28,8 +28,6 @@ assign [class="rhythmbox"] $ws0
 for_window [class="Rhythmbox"] move to workspace $ws0
 for_window [class="Chromium"title="WhatsApp - Chromium"] move to workspace $ws3
 
-
-
 #### B O R D E R S ####
 
 gaps inner 14
@@ -40,8 +38,6 @@ smart_borders on
 default_border none
 default_floating_border normal
 hide_edge_borders none
-
-
 
 #### O P E R A N D ####
 
@@ -184,9 +180,10 @@ bar {
 	bindsym button4 nop
 	bindsym button5 nop
 
+
 # BACKGROUND,FOREGROUND,SEPARATOR
     colors {
-        background #181818
+        background #202020
         statusline #F9FAF9
         separator  #a9a9a9
 
