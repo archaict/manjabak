@@ -23,6 +23,8 @@ super + Delete
 super + {XF86AudioMute, XF86AudioRaiseVolume,XF86AudioLowerVolume}
   {rhythmbox-client --play-pause, rhythmbox-client --next, rhythmbox-client --previous}
 
+Print
+  betterlockscreen --lock blur
 
 XF86MonBrightnessDown
   xbacklight -2

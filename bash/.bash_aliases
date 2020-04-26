@@ -65,6 +65,7 @@ alias hmn='xrandr -s 1366x768'
 alias pvc='pavucontrol'
 alias brr='source ~/.bashrc'
 alias cco='cd ~/.config'
+alias vqt='v ~/.config/qtile/config.py'
 
 #LIST
 
