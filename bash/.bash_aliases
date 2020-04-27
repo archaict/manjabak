@@ -28,7 +28,7 @@ alias cl='clear'
 alias pk='pkill -x'
 alias ksx='pkill -x sxhkd'
 alias sx='sxhkd &'
-
+alias mus='mpc ls|mpc add && ncmpcpp'
 
 #PYTHON
 
@@ -131,7 +131,7 @@ alias i3conf='v ~/.i3/config'
 alias xr='v ~/.Xresources'
 alias xrs='xrdb ~/.Xresources'
 alias vcom='v ~/.config/compton.conf'
-alias mus='cd ~/Music && . xdo.sh > /dev/null 2>&1'
+#alias mus='cd ~/Music && . xdo.sh > /dev/null 2>&1'
 
 #POLYBAR
 alias pthemes='v ~/.config/polybar/config'
