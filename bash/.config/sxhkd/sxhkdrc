@@ -6,7 +6,7 @@ super + shift +semicolon
   tilda
 
 super + {i,n,r}
-  {firefox,chromium --app=http://web.whatsapp.com,rhythmbox}
+  {firefox,chromium --app=http://web.whatsapp.com,urxvt -name "ncmpcpp" -e ncmpcpp}
 
 XF86AudioMute
   pactl set-sink-mute 0 toggle
@@ -21,7 +21,8 @@ super + Delete
   betterlockscreen --lock blur
 
 super + {XF86AudioMute, XF86AudioRaiseVolume,XF86AudioLowerVolume}
-  {rhythmbox-client --play-pause, rhythmbox-client --next, rhythmbox-client --previous}
+  {mpc toggle,mpc next, mpc prev}
+#  {rhythmbox-client --play-pause, rhythmbox-client --next, rhythmbox-client --previous}
 
 Print
   betterlockscreen --lock blur
@@ -35,7 +36,7 @@ alt + {XF86MonBrightnessDown,XF86MonBrightnessUp}
   {xbacklight -10,xbacklight +10}
 
 super + {bracketleft,bracketright,backslash}
-  {rhythmbox-client --previous,rhythmbox-client --next,rhythmbox-client --play-pause}
+  {mpc prev,mpc next, mpc toggle}
 
 super + space
   rofi -show run

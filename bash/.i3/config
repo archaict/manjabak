@@ -14,7 +14,8 @@ exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec --no-startup-id nitrogen --restore
 exec --no-startup-id nm-applet
 exec --no-startup-id xfce4-power-manager
-exec --no-startup-id pulseaudio
+exec_always --no-startup-id mpd
+#exec pulseaudio
 #exec --no-startup-id pa-applet
 #exec --no-startup-id xautolock -time 15 -locker blurlock
 exec_always --no-startup-id ff-theme-util
@@ -24,9 +25,11 @@ exec --no-startup-id volumeicon
 exec --no-startup-id sxhkd
 assign [class="firefox"] $ws2
 assign [class="Chromium"] $ws3
-assign [class="rhythmbox"] $ws0
-for_window [class="Rhythmbox"] move to workspace $ws0
 for_window [class="Chromium"title="WhatsApp - Chromium"] move to workspace $ws3
+
+for_window [instance="ncmpcpp"] move to workspace $ws0
+
+
 
 #### B O R D E R S ####
 
