@@ -23,10 +23,10 @@ exec_always --no-startup-id fix_xcursor
 exec_always unclutter -idle 1
 exec --no-startup-id volumeicon
 exec --no-startup-id sxhkd
+
 assign [class="firefox"] $ws2
 assign [class="Chromium"] $ws3
 for_window [class="Chromium"title="WhatsApp - Chromium"] move to workspace $ws3
-
 for_window [instance="ncmpcpp"] move to workspace $ws0
 
 
