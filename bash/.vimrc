@@ -12,7 +12,6 @@ Plug 'junegunn/vim-easy-align'
 Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-surround'
 Plug 'morhetz/gruvbox'
-Plug 'arcticicestudio/nord-vim'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'dhruvasagar/vim-table-mode'
 Plug 'preservim/nerdcommenter'
@@ -21,9 +20,6 @@ Plug 'flazz/vim-colorschemes'
 Plug 'godlygeek/tabular'
 Plug 'sheerun/vim-polyglot'
 Plug 'zeekay/vim-beautify'
-Plug 'szymonmaszke/vimpyter'
-Plug 'jupyter-vim/jupyter-vim'
-
 call plug#end()
 
 
@@ -207,21 +203,14 @@ hi User4 ctermfg=244 ctermbg=235 guifg=#808080 guibg=NONE
 
 "TAB COMPLETION
 
-"function! InsertTabWrapper()
-"       let col = col('.') -1
-"       if !col || getline('.')[col -1] !~ '\k'
-"       return "\<tab>"
-"else
-"       return "\<c-p>"
-"       endif
-"endfunction
-"
-"inoremap <expr> <tab> InsertTabWrapper()
-"inoremap <s-tab> <c-n>
+function! InsertTabWrapper()
+       let col = col('.') -1
+       if !col || getline('.')[col -1] !~ '\k'
+       return "\<tab>"
+else
+       return "\<c-p>"
+       endif
+endfunction
 
-let g:ycm_global_ycm_extra_conf = '~/Documents/ycm_extra_conf.py'
-let g:ycm_server_python_interpreter='/usr/bin/python'
-let g:ycm_python_binary_path = 'python3'
-let g:ycm_autoclose_preview_window_after_completion = 1
-let g:ycm_min_num_of_chars_for_completion = 1
-
+inoremap <expr> <tab> InsertTabWrapper()
+inoremap <s-tab> <c-n>
