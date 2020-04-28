@@ -1,0 +1,259 @@
+<style>
+
+
+<link rel="stylesheet" 
+      href="https://fonts.googleapis.com/css?family=Tangerine">
+
+
+/*
+template{
+size && position
+float, padding, border
+text size, color, decor
+letter-spacing
+}
+
+*/
+
+/* HTML CSS */
+
+html{
+box-sizing: box-border;
+width:100%;
+height:100%;
+padding-bottom: 10%;
+font-family: 'Source Code Pro',monospace;
+}
+
+
+/* HEADER CSS */
+
+
+#header {
+/*POST*/
+float: right;
+padding:18px 0px 15px 0px;
+/*TEXT*/
+font-size: 22px;
+color: #000;
+text-align: center;
+letter-spacing: 10px;
+}
+
+#head{
+margin: auto;
+width: 97%;
+height: 60px;
+/*TEXT*/color: lightgrey;
+}
+
+/* NAVI CSS */
+
+
+#navi{
+margin: auto;
+width: 97%;
+height: 20px;
+padding: 5px;
+border-top: 1px solid grey;
+border-bottom: 1px solid grey;
+line-height: 18px;
+/*TEXT*/
+color: lightgrey;
+font-family: 'Source Code Pro', monospace;
+}
+
+.navibtn{
+float: right;
+padding: 1px 10px 0px 0px;
+/*TEXT*/
+font-size: 12px;
+text-align: right;
+word-spacing: 20px;
+}
+
+.cdname{
+float: left;
+padding: 1px 0px 0px 10px;
+/*TEXT*/
+font-size: 12px;
+color: black;
+text-align: left;
+}
+
+/* LINK CSS */
+
+a:link{
+text-decoration: none;
+color: grey;
+}
+
+a:visited{
+color: grey;
+}
+
+a:hover{
+color: dimgrey;
+}
+ 
+a:active{
+color: black;
+}
+
+
+/* SEMICOLON / WALL CSS */
+
+.sc{
+display: inline;
+float: left;
+padding:18px 0px 15px 0px;
+/*TEXT*/
+font-size: 22px;
+color: black;
+letter-spacing: 2px;
+}
+
+#wpcontainer{
+margin: auto;
+float: center;
+padding: 3% 7% 3% 7%;
+/*TEXT*/
+text-align:left;
+}
+
+.wp{
+margin: auto;
+float: center;
+background: linear-gradient(45deg, #fcfcfc 50%, #f9f9f9 0%);
+width: 100%;
+padding: 150px 0px 150px 0px;
+box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.15);
+/*TEXT*/
+font-size: 60px;
+text-align: center;
+letter-spacing: 3px;
+}
+
+p.small {
+  line-height: 0.5;
+}
+
+
+/* BODY CSS */
+
+
+body {
+margin: auto;
+float: center;
+/*TEXT*/
+font-size: 12px;
+text-align: left;
+letter-spacing: 1px;
+font-family: 'Source Code Pro', monospace;
+}
+
+
+
+
+/* CONTAINER CSS */
+
+#hcontainer{
+margin: auto;
+width: 80%;
+padding: 10px;
+/*TEXT*/
+text-align: justify;
+}
+
+#avatarcontainer{
+margin: auto;
+background: whitesmoke;
+width: 80%;
+height: 240px;
+padding: 10px 0px 10px 0px;
+/*TEXT*/
+text-align: justify;
+}
+
+
+#container{
+margin: auto;
+width: 80%;
+padding: 10px;
+/*TEXT*/
+text-align: justify;
+}
+
+.columns{
+display: table-cell;
+background: #f2f2f2;
+padding: 20px;
+/*TEXT*/
+columns: 200px 2;
+column-gap: 40px;
+color: black;
+text-align: justify;
+}
+
+.columns2{
+display: table-cell;
+padding: 20px;
+background: #f2f2f2;
+/*TEXT*/
+columns: 200px 3;
+column-gap: 25px;
+color: black;
+text-align: justify;
+}
+
+#faux-footer{
+background: white;
+opacity: 0%;
+padding: 30px;
+}
+
+#close-footer{
+background: whitesmoke;
+height: 150px;
+padding: 20px 22% 35px 22%;
+border-bottom: 80px solid white;
+color: grey;
+
+}
+
+#footer{
+float: center;
+position: fixed;
+background-color: whitesmoke;
+width: 100%;
+bottom: -1px;
+padding: 6px;
+/*TEXT*/
+color: grey;
+text-align: center;
+letter-spacing: 2px;
+}
+
+#copyright{
+position: absolute;
+bottom: 6px;
+right: 25px;
+/*TEXT*/
+font-size: 12px;
+}
+
+
+.avatar{
+margin-left: auto;
+margin-right: auto;
+display: inline-block;
+float: left;
+position: relative;
+width: 33.33%;
+padding: 20px 0px 20px 0px;
+/*TEXT*/
+text-align: center;
+}
+
+
+</style>
