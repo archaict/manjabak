@@ -12,10 +12,14 @@ XF86AudioMute
   pactl set-sink-mute 0 toggle
 
 XF86AudioRaiseVolume
-  pactl -- set-sink-volume 0 +2%; notify-send 'volume up'
+  pactl -- set-sink-volume 0 +2%
 
 XF86AudioLowerVolume
-  pactl -- set-sink-volume 0 -2%; notify-send 'volume down'
+  pactl -- set-sink-volume 0 -2%
+
+
+alt + {XF86AudioRaiseVolume,XF86AudioLowerVolume}
+  {pactl -- set-sink-volume 0 +10%, pactl -- set-sink-volume 0 -10%}
 
 super + Delete
   betterlockscreen --lock blur

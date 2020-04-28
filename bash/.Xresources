@@ -34,7 +34,7 @@ URxvt.background:                 [100]#151515
 !URxvt.background: rgba:1111/1111/1111/dddd
 !URxvt*blurRadius:                 5
 URxvt*scrollBar:                  false
-URxvt*mouseWheelScrollPage:       true
+URxvt*mouseWheelScrollPage:       false
 URxvt*cursorBlink:                true
 URxvt*background:                 black
 URxvt*foreground:                 grey
