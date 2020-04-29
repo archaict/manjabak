@@ -46,6 +46,7 @@ alias capsup='setxkbmap -option caps:super'
 alias capsctrl='setxkbmap -option caps:ctrl_modifier'
 alias spl='spotdl --song'
 alias spa='spotdl --album'
+alias vix='v .xinitrc'
 
 #DIRECTORY
 
@@ -127,7 +128,7 @@ alias vcss='sv ~/semicolon.project/css/styles.css'
 alias vin='sv /var/www/html/index.html'
 
 #I3WM
-alias i3conf='v ~/.i3/config'
+alias i3conf='v ~/.config/i3/config'
 alias xr='v ~/.Xresources'
 alias xrs='xrdb ~/.Xresources'
 alias vcom='v ~/.config/compton.conf'

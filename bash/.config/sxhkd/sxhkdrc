@@ -29,10 +29,11 @@ super + {XF86AudioMute, XF86AudioRaiseVolume,XF86AudioLowerVolume}
 #  {rhythmbox-client --play-pause, rhythmbox-client --next, rhythmbox-client --previous}
 
 alt + r
-  redshift -l 6.12:106.50 ; notify-send 'redshift on'
+  killall -s USR1 redshift
+ # redshift -l 6.12:106.50 ; notify-send 'redshift on'
 
-alt + shift + r
- pkill -x redshift ; notify-send 'redshift off'
+#alt + shift + r
+ #pkill -x redshift ; notify-send 'redshift off'
 
 Print
   betterlockscreen --lock blur
@@ -43,7 +44,7 @@ XF86MonBrightnessUp
   xbacklight +2
 
 alt + {XF86MonBrightnessDown,XF86MonBrightnessUp}
-  {xbacklight -10,xbacklight +10}
+  {sudo xbacklight -10,sudo xbacklight +10}
 
 super + {bracketleft,bracketright,backslash}
   {mpc prev,mpc next, mpc toggle}
