@@ -12,10 +12,10 @@ XF86AudioMute
   pactl set-sink-mute 0 toggle
 
 XF86AudioRaiseVolume
-  pactl -- set-sink-volume 0 +2%
+  pactl -- set-sink-volume 0 +5%
 
 XF86AudioLowerVolume
-  pactl -- set-sink-volume 0 -2%
+  pactl -- set-sink-volume 0 -5%
 
 
 alt + {XF86AudioRaiseVolume,XF86AudioLowerVolume}
@@ -30,13 +30,14 @@ super + {XF86AudioMute, XF86AudioRaiseVolume,XF86AudioLowerVolume}
 
 alt + r
   killall -s USR1 redshift
- # redshift -l 6.12:106.50 ; notify-send 'redshift on'
+# redshift -l 6.12:106.50 ; notify-send 'redshift on'
+#  redshift -l 6.12:106.50 -m randr:screen=eDPi1
 
 #alt + shift + r
  #pkill -x redshift ; notify-send 'redshift off'
 
-Print
-  betterlockscreen --lock blur
+alt + Print
+  flameshot full -p ~/Screenshot/ 
 
 XF86MonBrightnessDown
   xbacklight -2

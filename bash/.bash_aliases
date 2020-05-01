@@ -1,4 +1,3 @@
-
 ####################
 
 #     ALIASES      #
@@ -14,7 +13,8 @@ alias x='clear'
 alias q='exit'
 alias df='df -h'
 alias disk='df'
-alias install='sudo pacman -Syu'
+alias install='sudo pacman -S'
+alias ups='sudo pacman -Syu'
 alias uninstall='sudo apt-get --purge remove'
 alias rbt='sudo shutdown -r now'
 alias hm='cd ~'
@@ -47,9 +47,12 @@ alias capsctrl='setxkbmap -option caps:ctrl_modifier'
 alias spl='spotdl --song'
 alias spa='spotdl --album'
 alias vix='v .xinitrc'
+alias null='scrot'
+alias nf='clear && neofetch'
 
 #DIRECTORY
 
+alias cpr='cd ~/ProjectU'
 alias home='cd ~'
 alias aliases='vim ~/.bash_aliases'
 alias classes='cd ~/dotfiles/class'
@@ -67,6 +70,8 @@ alias pvc='pavucontrol'
 alias brr='source ~/.bashrc'
 alias cco='cd ~/.config'
 alias vqt='v ~/.config/qtile/config.py'
+alias i3st='v ~/.config/i3status/config'
+alias bye='shutdown -h now'
 
 #LIST
 

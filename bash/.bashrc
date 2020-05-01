@@ -192,7 +192,7 @@ fi
 #CHANGE TERMINAL ADDRESS
 #export PS1='\[\033[01;33m\] nullØ:\w$ \[\033[00;01m\]'
 #export PS1='\[\033[1;38;5;214m\] NULLØ \W \[\033[00;01m\]'
-export PS1='\[\033[1;38;5;214m\] ARANDELØ \W \[\033[00;01m\]'
+export PS1='\[\033[1;38;5;214m\] ARANDELØ \W \[\033[1;38;5;247m\]'
 
 #AUTO COMMAND
 
@@ -205,7 +205,7 @@ export PS1='\[\033[1;38;5;214m\] ARANDELØ \W \[\033[00;01m\]'
 #split-window -h -p 40 \; rename-window 'NULLØ' \; send-keys 'htop' C-m \; split-window -v -p 60 \;
 
 
-neofetch
-
+#neofetch
+cat ~/nf
 
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"

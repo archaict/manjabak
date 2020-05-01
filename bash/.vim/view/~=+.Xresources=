@@ -9,11 +9,11 @@ setlocal fml=1
 setlocal fdn=20
 setlocal fen
 silent! normal! zE
-let s:l = 38 - ((20 * winheight(0) + 17) / 34)
+let s:l = 11 - ((10 * winheight(0) + 16) / 33)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-38
+11
 normal! 0
 let &so = s:so_save | let &siso = s:siso_save
 nohlsearch
