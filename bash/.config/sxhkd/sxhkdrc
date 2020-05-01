@@ -36,7 +36,7 @@ alt + r
 #alt + shift + r
  #pkill -x redshift ; notify-send 'redshift off'
 
-alt + Print
+super + Print
   flameshot full -p ~/Screenshot/ 
 
 XF86MonBrightnessDown

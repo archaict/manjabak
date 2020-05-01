@@ -7,7 +7,7 @@
 
 #OPERATION
 
-alias src='sudo raspi-config'
+alias cu='reboot'
 alias suv='sudo vim'
 alias x='clear'
 alias q='exit'
@@ -29,6 +29,8 @@ alias pk='pkill -x'
 alias ksx='pkill -x sxhkd'
 alias sx='sxhkd &'
 alias mus='mpc ls|mpc add && ncmpcpp'
+alias vright='xrandr --addmode VIRTUAL1 1024x768 && xrandr --output VIRTUAL1 --mode 1024x768 --right-of eDP1 && x11vnc -clip 0+0+1024x768'
+
 
 #PYTHON
 
@@ -46,7 +48,7 @@ alias capsup='setxkbmap -option caps:super'
 alias capsctrl='setxkbmap -option caps:ctrl_modifier'
 alias spl='spotdl --song'
 alias spa='spotdl --album'
-alias vix='v .xinitrc'
+alias vix='v ~/.xinitrc'
 alias null='scrot'
 alias nf='clear && neofetch'
 
