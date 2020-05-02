@@ -30,6 +30,7 @@ alias ksx='pkill -x sxhkd'
 alias sx='sxhkd &'
 alias mus='mpc ls|mpc add && ncmpcpp'
 alias vright='xrandr --addmode VIRTUAL1 1024x768 && xrandr --output VIRTUAL1 --mode 1024x768 --right-of eDP1 && x11vnc -clip 0+0+1024x768'
+alias presto='v ~/manjabak/semicolon.project/presentation.md'
 
 
 #PYTHON

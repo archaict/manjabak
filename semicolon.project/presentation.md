@@ -280,6 +280,7 @@ Welcome to Archaict Archive!
     x Rosetta@Home (Pandemic Themed) 
     x Wyliodrin / Python code?
     x Logic -> everyone get what you want kind of Logic
+    x Dataplicity, Microsoft Azure
 
       // Projects
       -------------------
