@@ -12,6 +12,7 @@ Plug 'junegunn/vim-easy-align'
 Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-surround'
 Plug 'morhetz/gruvbox'
+Plug 'iamcco/markdown-preview.vim'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'dhruvasagar/vim-table-mode'
 Plug 'preservim/nerdcommenter'
@@ -20,6 +21,7 @@ Plug 'flazz/vim-colorschemes'
 Plug 'godlygeek/tabular'
 Plug 'sheerun/vim-polyglot'
 Plug 'zeekay/vim-beautify'
+Plug 'mzlogin/vim-markdown-toc'
 call plug#end()
 
 

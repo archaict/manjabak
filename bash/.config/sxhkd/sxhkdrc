@@ -44,7 +44,7 @@ XF86MonBrightnessDown
 XF86MonBrightnessUp
   xbacklight +2
 
-alt + {XF86MonBrightnessDown,XF86MonBrightnessUp}
+super + {XF86MonBrightnessDown,XF86MonBrightnessUp}
   {sudo xbacklight -10,sudo xbacklight +10}
 
 super + {bracketleft,bracketright,backslash}
