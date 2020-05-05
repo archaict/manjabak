@@ -32,7 +32,6 @@ alt + r
   killall -s USR1 redshift
 # redshift -l 6.12:106.50 ; notify-send 'redshift on'
 #  redshift -l 6.12:106.50 -m randr:screen=eDPi1
-
 #alt + shift + r
  #pkill -x redshift ; notify-send 'redshift off'
 

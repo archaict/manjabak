@@ -64,9 +64,13 @@ Welcome to Archaict Archive!
       --------------------
     x Zorin OS 
 
+      Docker
+      --------------------
+    x Zorin OS 
+
       Advanced Flavour
       -------------------
-    x KISS (Keep it Simple Stupid)
+    x KISS Principle (Keep it Simple Stupid)
         * Arch Linux
         * Gentoo
         * Void Linux
@@ -97,7 +101,7 @@ Welcome to Archaict Archive!
       -------------------
     x Arch Wiki (everything is here)
 
-      Hard Linux (optional)
+      Linux
       -------------------
     x Actually not that hardcore
     x More stuff to learn
@@ -105,7 +109,6 @@ Welcome to Archaict Archive!
     x Learn Programming and do everything yourself
     x Search for everything in Internet
     x Everything breaks? try everything else, GOOGLE!
-
 
       Server
       --------------------
@@ -136,7 +139,7 @@ Welcome to Archaict Archive!
     x [Elementary OS](https://www.elementary.io/)
     x [Zorin OS](https://www.zorinos.com/)
     x [Pop!_OS System76](https://www.system76.com/)
-    x [Infinitely Galactic](https://www.youtube.com/user/InfinitelyGalactic)
+    x [Infinitely Galactkc](https://www.youtube.com/user/InfinitelyGalactic)
 
 
 
@@ -357,7 +360,7 @@ Welcome to Archaict Archive!
 
 ## 07.Security & Hacking
 
-// ***Secured?***
+// ***Perimeter Secured?***
 
       Privacy
       -------------------
@@ -370,13 +373,82 @@ Welcome to Archaict Archive!
     x Cookies
     x Hosts
 
+      Privacy Practice (Virt)
+      -------------------
+    x Anonymous Surfing
+        * Change Identity often in Tor (C-S-U)
+        * if not Tor - DNS mask & VPN
+        * Firewall & Nmap (search on close port)
+
+    x Security Program
+        * Tor
+        * Firejail (Sandbox)
+        * AppArmor
+        * Firewall - iptables - ufw - gufw
+        * Noscript - No JavaScript (http)
+
+      Privacy Practice (Phys)
+      -------------------
+    x 
+
+    x 
+
       Browser Plugin
       -------------------
-    x vimium, ublock
+      You shouldn't install any plugin on your browser, most of it track
+      what you do on the internet, but for convenience, and you're only
+      using normal browser, this will be that list that you might need.
+
+    x Keyboard bindings
+        * Vimium
+        * vimperator
+
+    x Ad block
+        * Ublock Origin
+        * Adblock Plus
+        * Noscript
 
       Hacks
       -------------------
+    x Docker
+    x OWASP
+    x Webgoat - DVWA (U:admin P:password)
     x Finding Missing People
+
+      Laptop Recommendation
+      -------------------
+    x VM Labs & Pentesting
+      Basically you need more room to breath, since you share your
+      resources to all of your virtual machine, remember to put 
+      2GB minimum for each VM Labs and min. 4GB  for Kali or Parrot.
+
+        * Proccessors i3 - i5 (Hyperthread or quad core minimum)
+        * RAM 8GB - 32GB DDR4 (Depends on Processors Capability)
+        * SSD or NVMe (Space Optional)
+        * Nvidia GPU 9xx - 10xx (only for brute force testing)
+        * Virtualbox
+
+    x Portable Pentesting
+      You go to wherever you want without the need of brining obvious
+      and bulky laptop for pentesting, a portable one might help you
+      getting to those nooks and cranny.
+
+        * Preferably running Linux; Kali, Parrot, BlackArch
+        * 6-8 inch UMPC range
+        * Chuwi Minibook
+        * Gpd Pocket 1/2
+        * Gemini PDA (Hardcore)
+
+    x Sys-admin
+      You need to access or ssh server that you manage, so portablility
+      might be helping you more rather than a powerful laps, since most
+      of the performance you need is from  the server itself and the 
+      port that you're connecting with. Always have complete ports.
+
+        * Proccessors i3 - i5 (Hyperthread preferable)
+        * GPD Micro PC (Complete ports albeit it's small form factor)
+        * Ports availability
+
 
       Youtube Channels
       -------------------
@@ -389,6 +461,7 @@ Welcome to Archaict Archive!
     | [Tomorrow Unlocked](https://www.youtube.com/channel/UCJv753whZjpW22UfmaJbx4Q)
     x [Commaai Archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
     x [Null-byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+    x [Tor](torproject.org)
 
 
 ## 08.What else?
