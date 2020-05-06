@@ -1,0 +1,19 @@
+#rofi.theme: ~/.config/rofi/themes/nuked.rasi
+
+rofi.color-enabled: true
+rofi.color-window: argb:ff222222, #292d37, #222222
+rofi.color-normal: argb:00ffaf00, #ffffff, argb:00ffaf00, argb:00ffaf00, #ffaf00
+rofi.color-active: argb:00ffaf00, #ffffff, argb:00ffaf00, argb:00ffaf00, #ffffff
+rofi.color-urgent: argb:00ffaf00, #ffffff, argb:00ffaf00, argb:00ffaf00, #ffffff
+
+rofi.eh: 1
+rofi.line-margin: 1
+rofi.separator-style: solid
+rofi.hide-scrollbar: true
+rofi.lines: 3
+rofi.columns: 1
+rofi.width: 30
+rofi.padding: 20
+rofi.bw: 0
+#rofi.auto-select: true
+
