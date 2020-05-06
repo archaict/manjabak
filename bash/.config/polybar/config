@@ -24,7 +24,7 @@ fixed-center = true
 background = ${colors.background}
 foreground = ${colors.foreground}
 
-line-size = 1
+line-size = 0
 line-color = #f00
 border-size = 0
 border-color = #00000000
@@ -99,7 +99,7 @@ label-mode-foreground = #000
 label-mode-background = ${colors.primary}
 strip-wsnumbers = true
 
-label-separator = /
+label-separator = \
 label-separator-padding = 2
 label-separator-foreground = #fff
 
@@ -166,22 +166,22 @@ format-overline = ${colors.inner}
 
 [module/mpd]
 type = internal/mpd
-format-online = <bar-progress> <icon-prev> <toggle> <label-song> <toggle> <icon-next> <bar-progress>
+format-online = <icon-prev> <toggle> <label-song> <toggle> <icon-next>
 
-bar-progress-width = 9
+bar-progress-width = 3
 bar-progress-indicator = 
 bar-progress-fill = -
 bar-progress-fill-foreground = #808080
 bar-progress-empty = -
 bar-progress-empty-foreground = #404040
 
-icon-prev  = 
+icon-prev  = --
 icon-play  = 
 icon-pause = 
-icon-next  = 
+icon-next  = --
 
-label-song = %artist% %album% %title%
-;label-song-maxlen = 50
+label-song = %artist% %title%
+label-song-maxlen = 50
 label-song-ellipsis = true
 label-song-font=0
 
@@ -227,7 +227,7 @@ label-discharging = D%percentage% 
 format-full = <label-full>
 format-full-overline = ${colors.outer}
 format-full-underline = ${self.format-charging-underline}
-label-full = F%percentage% 
+label-full = %percentage% 
 
 
 
@@ -253,7 +253,7 @@ format-connected-prefix = " "
 format-connected-prefix-foreground = ${colors.foreground-alt}
 label-connected = %local_ip%
 
-format-disconnected =
+format-disconnected = 
 
 [module/pulseaudio]
 type = internal/pulseaudio
