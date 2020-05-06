@@ -33,6 +33,10 @@ alias vright='xrandr --addmode VIRTUAL1 1024x768 && xrandr --output VIRTUAL1 --m
 alias presto='v ~/manjabak/semicolon.project/presentation.md'
 alias gnite='systemctl hibernate'
 alias sleepy='systemctl suspend'
+alias vbp='v ~/.config/bspwm/bspwmrc'
+alias vply='v ~/.config/polybar/config'
+alias kply='pk polybar'
+alias ply='polybar -r example &'
 
 
 #PYTHON
@@ -44,6 +48,7 @@ alias pinstall='pip install'
 
 alias vsx='v ~/.config/sxhkd/sxhkdrc'
 alias tconf='vim ~/.tmux.conf'
+alias tfh='tmux source-file ~/.tmux.conf'
 alias vrc='vim ~/.vimrc'
 alias v='vim'
 alias ta='tmux attach -t NULLØ || tmux new-session -s NULLØ \;'

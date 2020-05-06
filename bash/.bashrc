@@ -199,7 +199,7 @@ export PS1='\[\033[1;38;5;214m\] ARANDELØ \W \[\033[1;38;5;247m\]'
 #TMUX
 
 #if [[ ! "$TERM" =~ "screen" ]]; then
-#tmux attach -t NULLØ || tmux new-session -s NULLØ \;
+#tmux attach -t Arandel || tmux new-session -s Arandel \;
 #fi
 
 #split-window -h -p 40 \; rename-window 'NULLØ' \; send-keys 'htop' C-m \; split-window -v -p 60 \;

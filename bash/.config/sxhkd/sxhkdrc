@@ -5,8 +5,11 @@ super + Return
 super + shift +semicolon
   tilda
 
-super + {i,n,r}
-  {firefox,chromium --app=http://web.whatsapp.com,urxvt -name "ncmpcpp" -e ncmpcpp}
+super + {i,n,r,m}
+  {firefox,chromium --app=http://web.whatsapp.com,urxvt -name "ncmpcpp" -e ncmpcpp, chromium --app=http://meet.google.com}
+
+super + alt + a
+  firefox & chromium --app=http://web.whatsapp.com & urxvt -name "ncmpcpp" -e ncmpcpp
 
 XF86AudioMute
   pactl set-sink-mute 0 toggle
@@ -54,3 +57,4 @@ super + space
   
 super + shift + space
   pkill -x sxhkd && sxhkd &
+
