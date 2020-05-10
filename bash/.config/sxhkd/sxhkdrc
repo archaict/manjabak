@@ -11,6 +11,13 @@ super + {i,n,r,m}
 super + alt + a
   urxvt & firefox & chromium --app=http://web.whatsapp.com & urxvt -name "ncmpcpp" -e ncmpcpp
 
+super + comma
+  xdo hide -N "Polybar"
+
+super + period
+  xdo show -N "Polybar"
+
+
 XF86AudioMute
   pactl set-sink-mute 0 toggle
 
