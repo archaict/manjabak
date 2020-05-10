@@ -1,10 +1,6 @@
 <style>
 
 
-<link rel="stylesheet" 
-      href="https://fonts.googleapis.com/css?family=Tangerine">
-
-
 /*
 template{
 size && position
@@ -28,6 +24,13 @@ font-family: 'Source Code Pro',monospace;
 
 /* HEADER CSS */
 
+#head{
+margin: auto;
+width: 97%;
+height: 60px;
+/*TEXT*/color: lightgrey;
+}
+
 
 #header {
 /*POST*/
@@ -40,11 +43,14 @@ text-align: center;
 letter-spacing: 10px;
 }
 
-#head{
-margin: auto;
-width: 97%;
-height: 60px;
-/*TEXT*/color: lightgrey;
+.sc{
+display: inline;
+float: left;
+padding:18px 0px 15px 0px;
+/*TEXT*/
+font-size: 22px;
+color: black;
+letter-spacing: 2px;
 }
 
 /* NAVI CSS */
@@ -63,6 +69,15 @@ color: lightgrey;
 font-family: 'Source Code Pro', monospace;
 }
 
+.cdname{
+float: left;
+padding: 1px 0px 0px 10px;
+/*TEXT*/
+font-size: 12px;
+color: black;
+text-align: left;
+}
+
 .navibtn{
 float: right;
 padding: 1px 10px 0px 0px;
@@ -72,14 +87,6 @@ text-align: right;
 word-spacing: 20px;
 }
 
-.cdname{
-float: left;
-padding: 1px 0px 0px 10px;
-/*TEXT*/
-font-size: 12px;
-color: black;
-text-align: left;
-}
 
 /* LINK CSS */
 
@@ -100,18 +107,14 @@ a:active{
 color: black;
 }
 
-
-/* SEMICOLON / WALL CSS */
-
-.sc{
-display: inline;
-float: left;
-padding:18px 0px 15px 0px;
-/*TEXT*/
-font-size: 22px;
-color: black;
-letter-spacing: 2px;
+p.small {
+  line-height: 0.5;
 }
+
+
+
+/* Sebentang Kain / WALL CSS */
+
 
 #wpcontainer{
 margin: auto;
@@ -134,8 +137,47 @@ text-align: center;
 letter-spacing: 3px;
 }
 
-p.small {
-  line-height: 0.5;
+
+#bgcontainer{
+margin: auto;
+float: center;
+padding: 3% 7% 3% 7%;
+
+/*TEXT*/
+text-align:left;
+}
+
+.bg{
+background-image: url("../images/membatik.jpg");
+opacity: 1;
+background-repeat: no-repeat;
+background-position: center;
+margin: auto;
+float: center;
+width: 100%;
+padding: 3px;
+box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.15);
+/*TEXT*/
+font-size: 11px;
+text-align: center;
+letter-spacing: 3px;
+}
+
+
+
+div.transbox {
+  margin: 0px;
+  background-color: #ffffff;
+  opacity: 0.94;
+  padding: 45px;
+}
+
+div.transbox p {
+  font-weight: bold;
+}
+
+div.c {
+  line-height: 50%;
 }
 
 
@@ -153,8 +195,6 @@ font-family: 'Source Code Pro', monospace;
 }
 
 
-
-
 /* CONTAINER CSS */
 
 #hcontainer{
@@ -165,20 +205,10 @@ padding: 10px;
 text-align: justify;
 }
 
-#avatarcontainer{
-margin: auto;
-background: whitesmoke;
-width: 80%;
-height: 240px;
-padding: 10px 0px 10px 0px;
-/*TEXT*/
-text-align: justify;
-}
-
 
 #container{
 margin: auto;
-width: 70%;
+width: 90%;
 padding: 10px;
 /*TEXT*/
 text-align: justify;
@@ -186,27 +216,7 @@ text-align: justify;
 
 
 
-.columns{
-display: table-cell;
-background: #f2f2f2;
-padding: 20px;
-/*TEXT*/
-columns: 200px 2;
-column-gap: 40px;
-color: black;
-text-align: justify;
-}
-
-.columns2{
-display: table-cell;
-padding: 20px;
-background: #f2f2f2;
-/*TEXT*/
-columns: 200px 3;
-column-gap: 25px;
-color: black;
-text-align: justify;
-}
+/* FOOTER CSS */
 
 #faux-footer{
 background: white;
@@ -215,11 +225,11 @@ padding: 30px;
 }
 
 #close-footer{
-background: whitesmoke;
-height: 150px;
-padding: 20px 22% 35px 22%;
-border-bottom: 80px solid white;
-color: grey;
+background-image: url("../images/membatik.jpg");
+padding: none;
+border-bottom: 0px solid white;
+color: #505050;
+font-weight: bold;
 
 }
 
@@ -236,6 +246,13 @@ text-align: center;
 letter-spacing: 2px;
 }
 
+div.footbox {
+  margin: 0px;
+  background-color: #ffffff;
+  opacity: 0.90;
+  padding: 1% 20% 1% 20%;
+}
+
 #copyright{
 position: absolute;
 bottom: 6px;
@@ -245,17 +262,32 @@ font-size: 12px;
 }
 
 
-.avatar{
-margin-left: auto;
-margin-right: auto;
-display: inline-block;
-float: left;
-position: relative;
-width: 33.33%;
-padding: 20px 0px 20px 0px;
-/*TEXT*/
-text-align: center;
+.column {
+  -ms-flex: 50%; /* IE 10 */
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
 }
 
 
+figure {
+    width: 30.3%;
+    float: left;
+    margin: auto;
+    text-align: center;
+    padding: 1.5%;
+}
+
 </style>
+
+
