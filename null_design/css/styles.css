@@ -19,7 +19,79 @@ width:100%;
 height:100%;
 padding-bottom: 10%;
 font-family: 'Source Code Pro',monospace;
+    --primary-color: #181818;
+    --secondary-color: darkgrey;
+    --tertiary-color: dimgrey;
+    --font-color: #181818;
+    --bg-color: #fff;
+    --heading-color: #fff;
 }
+
+:root {
+    --primary-color: #181818;
+    --secondary-color: darkgrey;
+    --tertiary-color: dimgrey;
+    --font-color: #181818;
+    --bg-color: #fff;
+    --heading-color: #fff;
+}
+
+
+
+
+[data-theme="dark"] {
+    --primary-color: #fff;
+    --secondary-color: #fff;
+    --font-color: #fff;
+    --bg-color: #181818;
+    --heading-color: #818cab;
+}
+
+/*SWITCHER*/
+
+.theme-switch-wrapper {
+  align-items: center;
+
+}
+.theme-switch {
+  display: inline-block;
+  height: 0px;
+  position: relative;
+  width: 0px;
+}
+
+.theme-switch input {
+  display:none;
+}
+
+.slider {
+  background-color: none;
+  cursor: pointer;
+  position: absolute;
+  transition: .4s;
+}
+
+.slider:before {
+  background-color: none;
+float: left;
+padding: 0px;
+/*TEXT*/
+font-size: 12px;
+color: var(--primary-color);
+text-align: left;
+content: "[SEBENTANG_KAIN]";
+transition: 1s;
+}
+
+input:checked + .slider {
+  background-color: none;
+}
+
+
+
+
+
+
 
 
 /* HEADER CSS */
@@ -28,7 +100,9 @@ font-family: 'Source Code Pro',monospace;
 margin: auto;
 width: 97%;
 height: 60px;
-/*TEXT*/color: lightgrey;
+/*TEXT*/
+color: var(--primary-color);
+
 }
 
 
@@ -38,7 +112,7 @@ float: right;
 padding:18px 0px 15px 0px;
 /*TEXT*/
 font-size: 22px;
-color: #000;
+color: var(--primary-color);
 text-align: center;
 letter-spacing: 10px;
 }
@@ -49,7 +123,7 @@ float: left;
 padding:18px 0px 15px 0px;
 /*TEXT*/
 font-size: 22px;
-color: black;
+color: var(--primary-color);
 letter-spacing: 2px;
 }
 
@@ -74,7 +148,7 @@ float: left;
 padding: 1px 0px 0px 10px;
 /*TEXT*/
 font-size: 12px;
-color: black;
+color: var(--primary-color);
 text-align: left;
 }
 
@@ -100,11 +174,22 @@ color: grey;
 }
 
 a:hover{
-color: dimgrey;
+color: var(--primary-color);
 }
- 
+
+#link {
+color: var(--primary--color);
+font-weight:bold;
+font-size:12px;
+} 
+
+#tahun {
+color: var(--primary--color);
+font-weight:bold;
+} 
+
 a:active{
-color: black;
+color: white;
 }
 
 p.small {
@@ -119,24 +204,37 @@ p.small {
 #wpcontainer{
 margin: auto;
 float: center;
-padding: 3% 7% 3% 7%;
+padding: 2%;
 /*TEXT*/
 text-align:left;
 }
 
 .wp{
+background-image: url("../images/membatik.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: 150%;
 margin: auto;
 float: center;
-background: linear-gradient(45deg, #fcfcfc 50%, #f9f9f9 0%);
 width: 100%;
-padding: 150px 0px 150px 0px;
+padding:0px;
 box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.15);
 /*TEXT*/
 font-size: 60px;
 text-align: center;
+color: var(--primary-color);
 letter-spacing: 3px;
 }
 
+div.wpbox {
+  margin: 0px;
+  background-color: var(--bg-color);
+  opacity: 0.95;
+  padding: 140px;
+}
+
+div.wpbox p {
+}
 
 #bgcontainer{
 margin: auto;
@@ -149,13 +247,13 @@ text-align:left;
 
 .bg{
 background-image: url("../images/membatik.jpg");
-opacity: 1;
+opacity: 0.8;
 background-repeat: no-repeat;
 background-position: center;
 margin: auto;
 float: center;
 width: 100%;
-padding: 3px;
+padding: 0px;
 box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.15);
 /*TEXT*/
 font-size: 11px;
@@ -167,17 +265,19 @@ letter-spacing: 3px;
 
 div.transbox {
   margin: 0px;
-  background-color: #ffffff;
+  background-color: var(--bg-color);
   opacity: 0.94;
   padding: 45px;
 }
 
 div.transbox p {
   font-weight: bold;
+  color: var(--primary-color);
 }
 
 div.c {
   line-height: 50%;
+  padding-top:3%;
 }
 
 
@@ -185,13 +285,20 @@ div.c {
 
 
 body {
+background-color: var(--bg-color);
 margin: auto;
 float: center;
 /*TEXT*/
 font-size: 12px;
 text-align: left;
 letter-spacing: 1px;
+color: var(--primary-color);
 font-family: 'Source Code Pro', monospace;
+}
+
+
+#texcol{
+  width=50%;
 }
 
 
@@ -205,6 +312,16 @@ padding: 10px;
 text-align: justify;
 }
 
+#xcr{
+margin: auto;
+width: 80%;
+break-inside: avoid-column;
+columns:2;
+column-gap: 40px;
+padding: 10px;
+/*TEXT*/
+text-align: justify;
+}
 
 #container{
 margin: auto;
@@ -219,7 +336,7 @@ text-align: justify;
 /* FOOTER CSS */
 
 #faux-footer{
-background: white;
+background-color: var(--bg-color);
 opacity: 0%;
 padding: 30px;
 }
@@ -228,7 +345,7 @@ padding: 30px;
 background-image: url("../images/membatik.jpg");
 padding: none;
 border-bottom: 0px solid white;
-color: #505050;
+background-color: var(--bg-color);
 font-weight: bold;
 
 }
@@ -236,19 +353,19 @@ font-weight: bold;
 #footer{
 float: center;
 position: fixed;
-background-color: whitesmoke;
+background-color: var(--bg-color);
 width: 100%;
 bottom: -1px;
 padding: 6px;
 /*TEXT*/
-color: grey;
 text-align: center;
 letter-spacing: 2px;
 }
 
 div.footbox {
   margin: 0px;
-  background-color: #ffffff;
+  background-color: var(--bg-color);
+  color: var(--tertiary-color);
   opacity: 0.90;
   padding: 1% 20% 1% 20%;
 }
@@ -287,6 +404,8 @@ figure {
     text-align: center;
     padding: 1.5%;
 }
+
+
 
 </style>
 

@@ -15,7 +15,55 @@
 
 <div id="head">
     <div class="sc">
-        [//]</div>
+        [//]
+
+<div class="theme-switch-wrapper">
+    <label class="theme-switch" for="checkbox">
+        <input type="checkbox" id="checkbox" />
+        <div class="slider round"></div>
+  </label>
+</div>
+ <script>
+
+const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
+function switchTheme(e) {
+    if (e.target.checked) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+    else {
+        document.documentElement.setAttribute('data-theme', 'light');
+    }    
+}
+
+toggleSwitch.addEventListener('change', switchTheme, false);
+
+
+function switchTheme(e) {
+    if (e.target.checked) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark'); //add this
+    }
+    else {
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light'); //add this
+    }    
+}
+
+const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+
+if (currentTheme) {
+    document.documentElement.setAttribute('data-theme', currentTheme);
+
+    if (currentTheme === 'dark') {
+        toggleSwitch.checked = true;
+    }
+}
+
+ </script>
+    </div>
+
+
+
     <div id="header">
         NULLØ
     </div>
@@ -24,13 +72,12 @@
 
 <div id="navi">
     <div class="cdname">
-        [SEBENTANG_KAIN]
     </div>
 
     <div class="navibtn">
-        <a href="../index.html">RUMAH</a>
+        <a href="index.html">RUMAH</a>
         <a href="sewarna.html">SEWARNA</a>
-        <a href="historia.html"><font color="black"><b>HISTORIA</b></font></a>
+        <a id="link" href="historia.html">HISTORIA</a>
         <a href="relasi.html">RELASI</a>
     </div>
 </div>
@@ -40,30 +87,30 @@
 
   
   <div id="hcontainer"><center>
-      <div class="c"><br>
+      <div class="c">
       <h1>MEMAYU HAYUNING BAWANA</h1>
       <h3>Menghiasi Alam Semesta</h3></center></div>
 
   <div id="hcontainer"><center>
-      <h2>1920 - 1930</h2></center>
-Rupa adalah suatu hal yang abstrak; berubah dalam maknanya ketika dibicarakan. Rupa berarti bentuk yang dapat kita rasakan dan telaah; tidak hanya dilihat, namun juga dapat disentuh, didengar, dan juga memiliki rasa taktil ketika dikenakan. Ini adalah sebuah rekonstruksi rupa, untuk mengingatkan manusia modern terhadap peradaban yang hidup sebelum keselarasan itu berubah menjadi solidaritas yang kabur seiring dengan terjadinya perkembangan zaman. Tempo berubah; tapi apakah rupa ingatan juga harus ikut berubah?
-      </div></div>
+      <h2>1920 - 1940</h2></center>
 
+    Pada tahun ini, Indonesia lampau berada di bawah kekuasaan kolonial Belanda. Oleh sebab itu, terdapat beberapa perbedaan tata busana pada orang pribumi dan orang Belanda. Orang pribumi menggunakan kebaya lengkap dengan kain dan selendang yang diselempang.
+      </div></div>
 
 
     <div id="hcontainer">
  <div class="row">
    <div class="column"> <center>
             <figure>
-                <img src="../images/1.jpg" alt="hello" width="100%">
+                <img src="../images/1.jpg" alt="hello" width="100%"><br><br>
                 <figcaption>Pajang.1 Kala </figcaption>
             </figure>
             <figure>
-                <img src="../images/10.jpg" alt="hello" width="100%">
+                <img src="../images/10.jpg" alt="hello" width="100%"><br><br>
                 <figcaption>Pajang.2 Kala </figcaption>
             </figure>
             <figure>
-                <img src="../images/1.jpg" alt="hello" width="100%">
+              <img src="../images/1.jpg" alt="hello" width="100%"><br><br>
                 <figcaption>Pajang.3 Kala </figcaption>
             </figure>
    </div> 
@@ -72,67 +119,45 @@ Rupa adalah suatu hal yang abstrak; berubah dalam maknanya ketika dibicarakan. R
 
 
 
-
-    <div id="hcontainer">
+    <div id="xcr">
         <h3>* ETIMOLOGI // IKET *</h3>
-Rupa adalah suatu hal yang abstrak; berubah dalam maknanya ketika dibicarakan. Rupa berarti bentuk yang dapat kita rasakan dan telaah; tidak hanya dilihat, namun juga dapat disentuh, didengar, dan juga memiliki rasa taktil ketika dikenakan. Ini adalah sebuah rekonstruksi rupa, untuk mengingatkan manusia modern terhadap peradaban yang hidup sebelum keselarasan itu berubah menjadi solidaritas yang kabur seiring dengan terjadinya perkembangan zaman. Tempo berubah; tapi apakah rupa ingatan juga harus ikut berubah?
-    </div>
+Bagi orang Jawa arti iket adalah agar manusia memiliki pamikir atau pemikiran yang kencang, tidak mudah terombang – ambing hanya karena factor situasi atau orang lain tanpa pertimbangan yang matang.
 
-
-    <div id="hcontainer">
         <h3>* ETIMOLOGI // UDHENG *</h3>
-Rupa adalah suatu hal yang abstrak; berubah dalam maknanya ketika dibicarakan. Rupa berarti bentuk yang dapat kita rasakan dan telaah; tidak hanya dilihat, namun juga dapat disentuh, didengar, dan juga memiliki rasa taktil ketika dikenakan. Ini adalah sebuah rekonstruksi rupa, untuk mengingatkan manusia modern terhadap peradaban yang hidup sebelum keselarasan itu berubah menjadi solidaritas yang kabur seiring dengan terjadinya perkembangan zaman. Tempo berubah; tapi apakah rupa ingatan juga harus ikut berubah?
-    </div>
+Udheng berasal dari kata mudheng artinya mengerti dengan jelas. Maknanya manusia akan memiliki pemikiran yang kukuh bila sudah mudheng atau memahami tujuan hidupnya. Manusia memiliki fitrah untuk senantiasa mencari kesejatian hidup sebagai sangkan paraning dumadi. Makna lain dari udheng ini adalah agar manusia memiliki keahlian / ketrampilan serta dapat menjalankan pekerjaannya dengan pemahaman yang memadai karena memiliki dasar pengetahuan.
 
-
-    <div id="hcontainer">
         <h3>* ETIMOLOGI // RASUKAN *</h3>
-Rupa adalah suatu hal yang abstrak; berubah dalam maknanya ketika dibicarakan. Rupa berarti bentuk yang dapat kita rasakan dan telaah; tidak hanya dilihat, namun juga dapat disentuh, didengar, dan juga memiliki rasa taktil ketika dikenakan. Ini adalah sebuah rekonstruksi rupa, untuk mengingatkan manusia modern terhadap peradaban yang hidup sebelum keselarasan itu berubah menjadi solidaritas yang kabur seiring dengan terjadinya perkembangan zaman. Tempo berubah; tapi apakah rupa ingatan juga harus ikut berubah?
-    </div>
+    Rasukan Sebagai ciptaan Yang Maha Kuasa, hendaklah manusia ngrasuk atau menganut sebuah jalan atau agama dengan kesadaran penuh menyembah Tuhan Yang Maha Esa.
 
 
-    <div id="hcontainer">
         <h3>* ETIMOLOGI // BENIK *</h3>
-Rupa adalah suatu hal yang abstrak; berubah dalam maknanya ketika dibicarakan. Rupa berarti bentuk yang dapat kita rasakan dan telaah; tidak hanya dilihat, namun juga dapat disentuh, didengar, dan juga memiliki rasa taktil ketika dikenakan. Ini adalah sebuah rekonstruksi rupa, untuk mengingatkan manusia modern terhadap peradaban yang hidup sebelum keselarasan itu berubah menjadi solidaritas yang kabur seiring dengan terjadinya perkembangan zaman. Tempo berubah; tapi apakah rupa ingatan juga harus ikut berubah?
-    </div>
+        Benik ( kancing ) disebelah kiri & kanan. Lambang dari benik itu adalah bahwa manusia dalam melakukan tindakannya dalam segala hal selalu diniknik; artinya diperhitungkan dengan cermat.
 
 
-    <div id="hcontainer">
         <h3>* ETIMOLOGI // SA-BUK *</h3>
-Rupa adalah suatu hal yang abstrak; berubah dalam maknanya ketika dibicarakan. Rupa berarti bentuk yang dapat kita rasakan dan telaah; tidak hanya dilihat, namun juga dapat disentuh, didengar, dan juga memiliki rasa taktil ketika dikenakan. Ini adalah sebuah rekonstruksi rupa, untuk mengingatkan manusia modern terhadap peradaban yang hidup sebelum keselarasan itu berubah menjadi solidaritas yang kabur seiring dengan terjadinya perkembangan zaman. Tempo berubah; tapi apakah rupa ingatan juga harus ikut berubah?
-    </div>
+        Sa-buk artinya hanya impas saja, ngga untung & ngga rugi. Makna sabuk adalah agar manusia menggunakan badannya untuk bekerja sungguh – sungguh, jangan sampai pekerjaannya tidak menghasilkan atau tidak menguntungkan ( buk )
 
+        <h3>* ETIMOLOGI // EPEK *</h3>
+Epek Persamaan Epek adalah apek; golek; mencari. Artinya dalam hidup ini, kita harus memanfaatkannya dengan mencari ilmu pengetahuan yang berguna.
 
-    <div id="hcontainer">
         <h3>* ETIMOLOGI // TIMANG *</h3>
-Rupa adalah suatu hal yang abstrak; berubah dalam maknanya ketika dibicarakan. Rupa berarti bentuk yang dapat kita rasakan dan telaah; tidak hanya dilihat, namun juga dapat disentuh, didengar, dan juga memiliki rasa taktil ketika dikenakan. Ini adalah sebuah rekonstruksi rupa, untuk mengingatkan manusia modern terhadap peradaban yang hidup sebelum keselarasan itu berubah menjadi solidaritas yang kabur seiring dengan terjadinya perkembangan zaman. Tempo berubah; tapi apakah rupa ingatan juga harus ikut berubah?
-    </div>
+        Timang  adalah pralambang bahwa ilmu yang ditempuh harus dipahami dengan jelas & gamblang, agar tidak gamang atau menimbulkan rasa kuatir.
 
-
-    <div id="hcontainer">
         <h3>* ETIMOLOGI // JARIK *</h3>
-Rupa adalah suatu hal yang abstrak; berubah dalam maknanya ketika dibicarakan. Rupa berarti bentuk yang dapat kita rasakan dan telaah; tidak hanya dilihat, namun juga dapat disentuh, didengar, dan juga memiliki rasa taktil ketika dikenakan. Ini adalah sebuah rekonstruksi rupa, untuk mengingatkan manusia modern terhadap peradaban yang hidup sebelum keselarasan itu berubah menjadi solidaritas yang kabur seiring dengan terjadinya perkembangan zaman. Tempo berubah; tapi apakah rupa ingatan juga harus ikut berubah?
-    </div>
+Jarik artinya aja serik. Jangan mudah iri terhadap orang lain, karena iri hati hanya akan menimbulkan rasa emosional, grusa – grusu dalam menanggapi segala masalah.
 
-
-    <div id="hcontainer">
         <h3>* ETIMOLOGI // WIRU *</h3>
-Rupa adalah suatu hal yang abstrak; berubah dalam maknanya ketika dibicarakan. Rupa berarti bentuk yang dapat kita rasakan dan telaah; tidak hanya dilihat, namun juga dapat disentuh, didengar, dan juga memiliki rasa taktil ketika dikenakan. Ini adalah sebuah rekonstruksi rupa, untuk mengingatkan manusia modern terhadap peradaban yang hidup sebelum keselarasan itu berubah menjadi solidaritas yang kabur seiring dengan terjadinya perkembangan zaman. Tempo berubah; tapi apakah rupa ingatan juga harus ikut berubah?
-    </div>
+Wiru atau wiron bisa terjadi dengan cara melipat – lipat ujung jari sehingga berwujud wiru. Wiru artinya wiwiren aja nganti kleru. Olahlah segala hal sedemikian rupa sehingga menumbuhkan rasa menyenangkan dan harmonis, jangan sampai menimbulkan kekeliruan dan disharmoni.
 
+        <h3>* ETIMOLOGI // BEBED *</h3>
+Bebed adalah kain atau jarik yang dikenakan laki – laki. Bebed artinya manusia harus ubed yakni tekun dan rajin dalam bekerja mencari rezeki.
 
-    <div id="hcontainer">
         <h3>* ETIMOLOGI // CANELA *</h3>
-Rupa adalah suatu hal yang abstrak; berubah dalam maknanya ketika dibicarakan. Rupa berarti bentuk yang dapat kita rasakan dan telaah; tidak hanya dilihat, namun juga dapat disentuh, didengar, dan juga memiliki rasa taktil ketika dikenakan. Ini adalah sebuah rekonstruksi rupa, untuk mengingatkan manusia modern terhadap peradaban yang hidup sebelum keselarasan itu berubah menjadi solidaritas yang kabur seiring dengan terjadinya perkembangan zaman. Tempo berubah; tapi apakah rupa ingatan juga harus ikut berubah?
-    </div>
+Canela  dijabarkan dari canthelna jroning nala, atau peganglah kuat di dalam hatimu.
 
-
-    <div id="hcontainer">
         <h3>* ETIMOLOGI // CURIGA & WARANGKA *</h3>
-Rupa adalah suatu hal yang abstrak; berubah dalam maknanya ketika dibicarakan. Rupa berarti bentuk yang dapat kita rasakan dan telaah; tidak hanya dilihat, namun juga dapat disentuh, didengar, dan juga memiliki rasa taktil ketika dikenakan. Ini adalah sebuah rekonstruksi rupa, untuk mengingatkan manusia modern terhadap peradaban yang hidup sebelum keselarasan itu berubah menjadi solidaritas yang kabur seiring dengan terjadinya perkembangan zaman. Tempo berubah; tapi apakah rupa ingatan juga harus ikut berubah?
+Curiga dan warangka adalah pralambang bahwa manusia sebagai ciptaan menyembah Tuhan sebagai penciptanya dalam sebuah hubungan kawula jumbuhing Gusti. Curiga ditempatkan di belakang artinya dalam menyembah yang Maha Kuasa hendaknya manusia bisa ngungkurake godhaning Syetan yang senantiasa mengganggu manusia ketika akan bertindak kebaikan.
     </div>
-
-
 
 
 

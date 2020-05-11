@@ -37,6 +37,7 @@ alias vbp='v ~/.config/bspwm/bspwmrc'
 alias vply='v ~/.config/polybar/config'
 alias kply='pk polybar'
 alias ply='polybar -r example &'
+alias bye='shutdown -h now'
 
 
 #PYTHON
@@ -57,7 +58,7 @@ alias capsctrl='setxkbmap -option caps:ctrl_modifier'
 alias spl='spotdl --song'
 alias spa='spotdl --album'
 alias vix='v ~/.xinitrc'
-alias null='scrot'
+alias cnu='cd ~/ProjectU/null_design'
 alias vnf='v .nf'
 alias nf='clear && cat .nf'
 
@@ -82,7 +83,7 @@ alias brr='source ~/.bashrc'
 alias cco='cd ~/.config'
 alias vqt='v ~/.config/qtile/config.py'
 alias i3st='v ~/.config/i3status/config'
-alias bye='shutdown -h now'
+
 
 #LIST
 
@@ -139,8 +140,8 @@ alias ltp='systemctl stop lighttpd.service'
 
 #HTML
 alias ghtml='cd ~/semicolon.project/'
-alias vindex='sv ~/semicolon.project/index.html'
-alias vcss='sv ~/semicolon.project/css/styles.css'
+alias vindex='v ~/ProjectU/null_design/index.html'
+alias vcss='v ~/ProjectU/null_design/css/styles.css'
 alias vin='sv /var/www/html/index.html'
 
 #I3WM
