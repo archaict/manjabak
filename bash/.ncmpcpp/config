@@ -142,5 +142,7 @@ song_window_title_format = " {%a} - {%t}"
 
 #startup_slave_screen=visualizer
 
-execute_on_song_change="notify-send "Now playing" "$(ncmpcpp -q --current-song="{%a - }{%t}|{%f}")""
+#execute_on_song_change="dunstify "Now playing" "$(ncmpcpp -q --current-song="{%a - }{%t}|{%f}")""
+execute_on_song_change="dunstify -h string:x-canonical-private-synchronous:"Now playing" "Now Playing" "$(ncmpcpp --current-song="{%a // %t}")""
+#execute_on_song_change="dunstify -h string:x-canonical-private-synchronous:"Now playing" "$(ncmpcpp --current-song="{%a // %t}")""
 

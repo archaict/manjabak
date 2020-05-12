@@ -28,6 +28,13 @@ exec --no-startup-id polybar -r example
 assign [class="firefox"] $ws2
 assign [class="Chromium"] $ws3
 #for_window [class="firefox"] move to workspace $ws2
+#
+bindsym $mod+shift+Return exec urxvt -name float_term
+for_window [class="URxvt" instance="float_term"] floating enable, resize set 900px 500px, move position center
+
+bindsym $mod+Return exec urxvt -name terminal
+#for_window [class="URxvt" instance="terminal"] 
+
 for_window [class="Chromium"title="WhatsApp - Chromium"] move to workspace $ws3
 for_window [instance="ncmpcpp"] move to workspace $ws0
 bindsym mod1+Escape exec urxvt; exec "bash -c 'sleep 0.2s;i3-msg floating enable;i3-msg resize set 400px 10px;i3-msg move position 940px 630px'"
@@ -66,7 +73,7 @@ for_window [class="URxvt" instance="floating_urxvt$"] floating toggle
 
 #### W R K S P C E ####
 
-for_window [urgent=latest] focus
+#for_window [urgent=latest] focus
 workspace_auto_back_and_forth no
 workspace_layout tabbed
 title_align center
@@ -216,25 +223,4 @@ set_from_resource $term_color15    color15
 
 
 
-#### M O V E W D W ####
-#
-bindsym $mod+z mode "move" focus floating
-mode "move" {
-    bindsym $mod+Tab focus right
-
-    bindsym Left  move left
-    bindsym Down  move down
-    bindsym Up    move up
-    bindsym Right move right
-
-    bindsym h     move left
-    bindsym j     move down
-    bindsym k     move up
-    bindsym l     move right
-
-    # back to normal: Enter or Escape
-    bindsym Return mode "default"
-    bindsym Escape mode "default"
-    bindsym $mod+z mode "default"
-}
 

@@ -1,6 +1,6 @@
 
-super + Return
-  urxvt
+#super + Return
+#  urxvt
 
 super + shift +semicolon
   tilda
@@ -11,12 +11,12 @@ super + {i,n,r,m}
 super + alt + a
   urxvt & firefox & chromium --app=http://web.whatsapp.com & urxvt -name "ncmpcpp" -e ncmpcpp
 
-super + comma
-  xdo hide -N "Polybar"
+super + {comma,period}
+  {xdo hide -N "Polybar", xdo show -N "Polybar"}
+  
 
-super + period
-  xdo show -N "Polybar"
-
+super + {minus,equal} 
+  {picom-trans -c -5, picom-trans -c +5}
 
 XF86AudioMute
   pactl set-sink-mute 0 toggle
