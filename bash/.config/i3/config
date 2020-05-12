@@ -36,7 +36,7 @@ bindsym mod1+Escape exec urxvt; exec "bash -c 'sleep 0.2s;i3-msg floating enable
 
 gaps inner 14
 gaps outer -2
-smart_gaps on
+#smart_gaps on
 smart_borders on
 
 default_border none
