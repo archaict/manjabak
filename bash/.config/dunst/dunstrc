@@ -45,7 +45,7 @@ foreground = "#fafafa"
 frame_color = "#fafafa"
 
 [urgency_normal]
-timeout = 3
+timeout = 5
 background = "#181818"
 foreground = "#fafafa"
 frame_color = "#fafafa"
