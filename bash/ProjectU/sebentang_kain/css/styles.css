@@ -1,0 +1,503 @@
+<style>
+
+
+/*
+template{
+size && position
+float, padding, border
+text size, color, decor
+letter-spacing
+}
+
+*/
+
+/* HTML CSS */
+
+html{
+box-sizing: box-border;
+width:100%;
+height:100%;
+padding-bottom: 10%;
+font-family: 'Source Code Pro',monospace;
+    --primary-color: #181818;
+    --secondary-color: darkgrey;
+    --tertiary-color: dimgrey;
+    --font-color: #181818;
+    --bg-color: #fff;
+    --heading-color: #fff;
+}
+
+:root {
+    --primary-color: #181818;
+    --secondary-color: darkgrey;
+    --tertiary-color: dimgrey;
+    --font-color: #181818;
+    --bg-color: #fff;
+    --heading-color: #fff;
+}
+
+
+
+
+[data-theme="dark"] {
+    --primary-color: #fff;
+    --secondary-color: #fff;
+    --font-color: #fff;
+    --bg-color: #181818;
+    --heading-color: #818cab;
+}
+
+/*SWITCHER*/
+
+.theme-switch-wrapper {
+  align-items: center;
+
+}
+.theme-switch {
+  display: inline-block;
+  height: 0px;
+  position: relative;
+  width: 0px;
+}
+
+.theme-switch input {
+  display:none;
+}
+
+.slider {
+  background-color: none;
+  cursor: pointer;
+  position: absolute;
+  transition: .4s;
+}
+
+.slider:before {
+  background-color: none;
+float: left;
+padding: 0px;
+/*TEXT*/
+font-size: 12px;
+color: var(--primary-color);
+text-align: left;
+content: "[SEBENTANG_KAIN]";
+transition: 1s;
+}
+
+input:checked + .slider {
+  background-color: none;
+}
+
+
+
+
+
+
+
+
+/* HEADER CSS */
+
+#head{
+margin: auto;
+width: 97%;
+height: 60px;
+/*TEXT*/
+color: var(--primary-color);
+
+}
+
+
+#header {
+/*POST*/
+float: right;
+padding:18px 0px 15px 0px;
+/*TEXT*/
+font-size: 22px;
+color: var(--primary-color);
+text-align: center;
+letter-spacing: 10px;
+}
+
+.sc{
+display: inline;
+float: left;
+padding:18px 0px 15px 0px;
+/*TEXT*/
+font-size: 22px;
+color: var(--primary-color);
+letter-spacing: 2px;
+}
+
+/* NAVI CSS */
+
+
+#navi{
+margin: auto;
+width: 97%;
+height: 20px;
+padding: 5px;
+border-top: 1px solid grey;
+border-bottom: 1px solid grey;
+line-height: 18px;
+/*TEXT*/
+color: lightgrey;
+font-family: 'Source Code Pro', monospace;
+}
+
+.cdname{
+float: left;
+padding: 1px 0px 0px 10px;
+/*TEXT*/
+font-size: 12px;
+color: var(--primary-color);
+text-align: left;
+}
+
+.navibtn{
+float: right;
+padding: 1px 10px 0px 0px;
+/*TEXT*/
+font-size: 12px;
+text-align: right;
+word-spacing: 20px;
+}
+
+
+/* LINK CSS */
+
+a:link{
+text-decoration: none;
+color: grey;
+}
+
+a:visited{
+color: grey;
+}
+
+a:hover{
+color: var(--primary-color);
+}
+
+#link {
+color: var(--primary-color);
+font-weight:bold;
+font-size:12px;
+} 
+
+#home{
+color: var(--primary-color);
+}
+
+#tahun {
+color: var(--primary--color);
+font-weight:bold;
+} 
+
+#Tahun {
+color: var(--primary--color);
+font-size:20px;
+font-weight:bold;
+} 
+
+a:active{
+color: var(--primary--color);
+}
+
+p.small {
+  line-height: 0.5;
+}
+
+
+
+/* Sebentang Kain / WALL CSS */
+
+
+#wpcontainer{
+margin: auto;
+float: center;
+padding: 2%;
+/*TEXT*/
+text-align:left;
+}
+
+.wp{
+background-image: url("../images/membatik.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: 150%;
+margin: auto;
+float: center;
+width: 100%;
+padding:0px;
+box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.15);
+/*TEXT*/
+font-size: 60px;
+text-align: center;
+color: var(--primary-color);
+letter-spacing: 3px;
+}
+
+div.wpbox {
+  margin: 0px;
+  background-color: var(--bg-color);
+  opacity: 0.95;
+  padding: 13%;
+}
+
+div.wpbox p {
+}
+
+#bgcontainer{
+margin: auto;
+float: center;
+padding: 3% 7% 3% 7%;
+
+/*TEXT*/
+text-align:left;
+}
+
+#bg2container{
+margin: auto;
+float: center;
+padding: 3% 7% 0% 7%;
+
+
+/*TEXT*/
+text-align:left;
+}
+
+.bg{
+background-image: url("../images/membatik.jpg");
+opacity: 0.8;
+background-repeat: no-repeat;
+background-position: center;
+margin: auto;
+float: center;
+width: 100%;
+padding: 0px;
+box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.15);
+/*TEXT*/
+font-size: 11px;
+text-align: center;
+letter-spacing: 3px;
+}
+
+.bg2{
+background-image: url("../images/membatik.jpg");
+background-size: 150%;
+background-repeat: no-repeat;
+background-position: center;
+opacity: 0.8;
+margin: auto;
+float: center;
+width: 100%;
+padding: 0px;
+box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.15);
+/*TEXT*/
+text-align: center;
+letter-spacing: 2px;
+}
+
+
+div.transbox {
+  margin: 0px;
+  background-color: var(--bg-color);
+  opacity: 0.94;
+  padding: 45px;
+}
+
+div.transbox2 {
+  margin: 0px;
+  background-color: var(--bg-color);
+  opacity: 0.94;
+  padding: 3%;
+  font-size:12px;
+}
+
+div.transbox2 p {
+  font-weight: bold;
+  color: var(--primary-color);
+}
+
+div.transbox p {
+  font-weight: bold;
+  color: var(--primary-color);
+}
+
+div.c {
+  line-height: 50%;
+  padding-top:3%;
+}
+
+
+/* BODY CSS */
+
+
+body {
+background-color: var(--bg-color);
+margin: auto;
+float: center;
+/*TEXT*/
+font-size: 12px;
+text-align: left;
+letter-spacing: 1px;
+color: var(--primary-color);
+font-family: 'Source Code Pro', monospace;
+}
+
+
+#texcol{
+  width=50%;
+}
+
+
+/* CONTAINER CSS */
+
+#hcontainer{
+margin: auto;
+width: 80%;
+padding: 10px;
+/*TEXT*/
+text-align: justify;
+}
+
+#xcr{
+margin: auto;
+width: 80%;
+break-inside: avoid-column;
+columns:2;
+column-gap: 40px;
+padding: 10px;
+/*TEXT*/
+text-align: justify;
+}
+
+#container{
+margin: auto;
+width: 90%;
+padding: 10px;
+/*TEXT*/
+text-align: justify;
+}
+
+
+
+/* FOOTER CSS */
+
+#faux-footer{
+background-color: var(--bg-color);
+opacity: 0%;
+padding: 30px;
+}
+
+#close-footer{
+background-image: url("../images/membatik.jpg");
+padding: none;
+border-bottom: 0px solid white;
+background-color: var(--bg-color);
+font-weight: bold;
+
+}
+
+#footer{
+float: center;
+position: fixed;
+background-color: var(--bg-color);
+width: 100%;
+bottom: -1px;
+padding: 6px;
+/*TEXT*/
+text-align: center;
+letter-spacing: 2px;
+}
+
+div.footbox {
+  margin: 0px;
+  background-color: var(--bg-color);
+  color: var(--tertiary-color);
+  opacity: 0.90;
+  padding: 1% 20% 1% 20%;
+}
+
+#copyright{
+position: absolute;
+bottom: 6px;
+right: 25px;
+/*TEXT*/
+font-size: 12px;
+}
+
+
+.column {
+  -ms-flex: 50%; /* IE 10 */
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+
+
+figure {
+    width: 30.3%;
+    float: left;
+    margin: auto;
+    text-align: center;
+    padding: 1.5%;
+}
+
+figure .a {
+    width: 50%;
+    float: left;
+    margin: auto;
+    text-align: center;
+    padding: 1.5%;
+}
+
+
+
+.rowpic {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.columnpic {
+  flex: 32%;
+  max-width: 32%;
+  padding: 0.6%;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+
+
+
+</style>
+
+
