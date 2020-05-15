@@ -23,7 +23,7 @@ font-family: 'Source Code Pro',monospace;
     --secondary-color: darkgrey;
     --tertiary-color: dimgrey;
     --font-color: #181818;
-    --bg-color: #fff;
+    --bg-color: lightgrey;
     --heading-color: #fff;
 }
 
@@ -32,7 +32,7 @@ font-family: 'Source Code Pro',monospace;
     --secondary-color: darkgrey;
     --tertiary-color: dimgrey;
     --font-color: #181818;
-    --bg-color: #fff;
+    --bg-color: lightgrey;
     --heading-color: #fff;
 }
 
@@ -122,7 +122,7 @@ display: inline;
 float: left;
 padding:18px 0px 15px 0px;
 /*TEXT*/
-font-size: 22px;
+font-size: 30px;
 color: var(--primary-color);
 letter-spacing: 2px;
 }
@@ -132,33 +132,128 @@ letter-spacing: 2px;
 
 #navi{
 margin: auto;
-width: 97%;
+width: 100%;
 height: 20px;
-padding: 5px;
+padding: 30px;
 border-top: 1px solid grey;
 border-bottom: 1px solid grey;
 line-height: 18px;
 /*TEXT*/
+
+background-color:white;
 color: lightgrey;
+/*
 font-family: 'Source Code Pro', monospace;
+*/
 }
 
-.cdname{
+.buttonnav{
 float: left;
-padding: 1px 0px 0px 10px;
+padding: 0px 20px 0px 50px;
 /*TEXT*/
-font-size: 12px;
+font-size: 30px;
 color: var(--primary-color);
 text-align: left;
+font-weight:bold;
 }
 
+#text{
+  float: right;
+}
+
+nav {
+  float: left;
+  width: 10%;
+  height: 100%;
+  background: #ccc;
+  padding: 3%;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 3%;
+  width: 78%;
+  height: 100%;
+  background-color: #f1f1f1;
+}
+
+
+section{
+padding: 3% 3% 3% 3%;
+}
+
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
 .navibtn{
-float: right;
+float: left;
 padding: 1px 10px 0px 0px;
 /*TEXT*/
-font-size: 12px;
-text-align: right;
-word-spacing: 20px;
+font-size: 14px;
+text-align: left;
+word-spacing: 30px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #e9e9e9;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 0px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #2196F3;
+  color: white;
+}
+
+.topnav .search-container {
+  float: right;
+}
+
+.topnav input[type=text] {
+  padding: 0px;
+  margin-top: 0px;
+  font-size: 17px;
+  border: none;
+}
+
+.topnav .search-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.topnav .search-container button:hover {
+  background: #ccc;
 }
 
 
@@ -186,17 +281,6 @@ font-size:12px;
 #home{
 color: var(--primary-color);
 }
-
-#tahun {
-color: var(--primary--color);
-font-weight:bold;
-} 
-
-#Tahun {
-color: var(--primary--color);
-font-size:20px;
-font-weight:bold;
-} 
 
 a:active{
 color: var(--primary--color);

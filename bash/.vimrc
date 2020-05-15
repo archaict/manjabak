@@ -63,6 +63,7 @@ set ignorecase
 set smartcase
 set incsearch
 set hlsearch
+set mouse=a
 
 "LET
 
@@ -113,6 +114,7 @@ inoremap <Right> <Nop>
 inoremap <expr> j pumvisible() ? "\<C-N>" : "j"
 inoremap <expr> k pumvisible() ? "\<C-P>" : "k"
 inoremap ii <esc>
+inoremap jj <esc>
 inoremap <c-a> <c-space>
 
 "COMMAND & VISUAL  MODE REMAP

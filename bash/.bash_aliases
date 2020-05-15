@@ -24,6 +24,7 @@ alias :q='exit'
 alias shtdwn='sudo shutdown -h now'
 alias tlpc='sv /etc/tlp.conf'
 alias ytla="cd ~/Music && youtube-dl -x -o '%(title)s.%(ext)s' --audio-format mp3 --no-overwrite"
+alias ydl=". Scripts/ytdpl.sh"
 alias cl='clear'
 alias pk='pkill -x'
 alias ksx='pkill -x sxhkd'

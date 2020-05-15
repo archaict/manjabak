@@ -13,7 +13,15 @@ super + alt + a
 
 super + {comma,period}
   {xdo hide -N "Polybar", xdo show -N "Polybar"}
-  
+
+super + e
+  . ~/Scripts/ytpl.sh
+
+super + alt + e
+  . ~/Scripts/ytdpl.sh
+
+control + m
+  . ~/Scripts/ytpl.sh
 
 super + {minus,equal} 
   {picom-trans -c -5, picom-trans -c +5}

@@ -13,9 +13,9 @@ perceptron = Perceptron(2)
 perceptron.train(training_inputs, labels)
 
 inputs = np.array([1, 1])
-perceptron.predict(inputs) 
+perceptron.predict(inputs)
 #=> 1
 
 inputs = np.array([0, 1])
-perceptron.predict(inputs) 
+perceptron.predict(inputs)
 #=> 0
