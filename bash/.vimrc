@@ -22,6 +22,7 @@ Plug 'godlygeek/tabular'
 Plug 'sheerun/vim-polyglot'
 Plug 'zeekay/vim-beautify'
 Plug 'mzlogin/vim-markdown-toc'
+Plug 'vimwiki/vimwiki'
 call plug#end()
 
 
