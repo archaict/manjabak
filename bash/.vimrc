@@ -13,7 +13,6 @@ Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-surround'
 Plug 'morhetz/gruvbox'
 Plug 'iamcco/markdown-preview.vim'
-Plug 'nathanaelkane/vim-indent-guides'
 Plug 'dhruvasagar/vim-table-mode'
 Plug 'preservim/nerdcommenter'
 Plug 'jiangmiao/auto-pairs'
@@ -70,7 +69,8 @@ set smartcase
 set incsearch
 set hlsearch
 set mouse=a
-
+set conceallevel=3
+"set concealcursor=n
 
 "LET
 
@@ -81,7 +81,25 @@ let NERDTreeShowHidden=1
 let mapleader=";"
 let g:netrw_banner = 0
 let g:qs_highlight_on_keys = ['f', 'F', 't', 'T']
-let g:vimwiki_list = [{'path':'~/archaict-archive'}]
+
+let wiki_1 = {}
+let wiki_1.path = '~/archaict-archive/'
+"let wiki_1.syntax = 'markdown'
+"let wiki_1.ext = '.md'
+
+let wiki_2 = {}
+let wiki_2.path = '~/otherwhere'
+"let wiki_2.syntax = 'markdown'
+"let wiki_2.ext = '.md'
+
+let g:vimwiki_list = [wiki_1, wiki_2]
+"let g:vimwiki_global_ext = 0
+
+
+
+
+au BufRead,BufNewFile *.md set filetype=markdown
+
 highlight QuickScopePrimary guifg='#afff5f' gui=underline ctermfg=155 cterm=underline
 highlight QuickScopeSecondary guifg='#5fffff' gui=underline ctermfg=81 cterm=underline
 
@@ -121,6 +139,7 @@ nnoremap <leader>jh :tabprevious<cr>
 nnoremap <leader>r :source ~/.vimrc<cr> 
 nnoremap <leader>hc :echo synIDattr(synID(line("."), col("."), 1), "name")<cr>
 nnoremap <leader>noh :noh<cr>
+nnoremap <leader>vrc :e ~/.vimrc<cr>
 noremap <leader>1 1gt
 noremap <leader>2 2gt
 noremap <leader>3 3gt
@@ -196,7 +215,7 @@ let g:currentmode={
     \ 'no' : 'Normal·Operator Pending',
     \ 'v'  : 'Visual',
     \ 'V'  : 'V·Line',
-    \ '^V' : 'V·Block',
+    \ '^V' : 'V·block',
     \ 's'  : 'Select',
     \ 'S'  : 'S·Line',
     \ '^S' : 'S·Block',

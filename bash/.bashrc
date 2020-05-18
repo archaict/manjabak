@@ -180,7 +180,7 @@ export EDITOR="$VISUAL"
 
 
 #CREATE STUFF
-touch .hushlogin
+#touch .hushlogin
 
 
 #ALIASES LOAD

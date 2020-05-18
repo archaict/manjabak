@@ -53,14 +53,12 @@ alias tconf='vim ~/.tmux.conf'
 alias tfh='tmux source-file ~/.tmux.conf'
 alias vrc='vim ~/.vimrc'
 alias v='vim'
-alias ta='tmux attach -t NULLØ || tmux new-session -s NULLØ \;'
 alias capsup='setxkbmap -option caps:super'
 alias capsctrl='setxkbmap -option caps:ctrl_modifier'
-alias spl='spotdl --song'
-alias spa='spotdl --album'
 alias vix='v ~/.xinitrc'
 alias cnu='cd ~/ProjectU/null_design'
 alias vnf='v .nf'
+alias vwk='v ~/archaict-archive/index.wiki'
 alias nf='clear && cat .nf'
 
 #DIRECTORY
@@ -157,4 +155,7 @@ alias vcom='v ~/.config/compton.conf'
 alias pthemes='v ~/.config/polybar/config'
 
 #ARCH REPO
-alias archpush='git add * && git commit -m "revision" && git push'
+alias archpush='cd ~/archaict-archive && git add * && git commit -m "revision" && git push'
+
+#BASH
+alias ashes='source ~/.bashrc'
