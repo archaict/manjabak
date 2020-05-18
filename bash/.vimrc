@@ -43,6 +43,11 @@ hi Folded ctermfg=245 ctermbg=235
 hi Comment ctermfg=246
 highlight EndOfBuffer ctermfg=234
 
+"highlight VimwikiHeader1 ctermfg=208
+"highlight VimwikiHeader2 ctermfg=214
+highlight VimwikiLink ctermfg=214
+highlight VimwikiListTodo ctermfg=214
+
 "SET
 
 "set omnifunc=htmlcomplete#CompleteTags
@@ -66,6 +71,7 @@ set incsearch
 set hlsearch
 set mouse=a
 
+
 "LET
 
 let g:NERDTreeWinSize=20
@@ -75,6 +81,7 @@ let NERDTreeShowHidden=1
 let mapleader=";"
 let g:netrw_banner = 0
 let g:qs_highlight_on_keys = ['f', 'F', 't', 'T']
+let g:vimwiki_list = [{'path':'~/archaict-archive'}]
 highlight QuickScopePrimary guifg='#afff5f' gui=underline ctermfg=155 cterm=underline
 highlight QuickScopeSecondary guifg='#5fffff' gui=underline ctermfg=81 cterm=underline
 
@@ -103,9 +110,29 @@ nnoremap k gk
 noremap <C-@> a
 noremap <space> za
 autocmd filetype tex noremap <space><space> :/<++><cr>knca<
+noremap <leader>o :e 
+noremap <leader>tn :tabnew<cr>
+nnoremap <leader>jj <C-W><C-J>
+nnoremap <leader>kk <C-W><C-K>
+nnoremap <leader>ll <C-W><C-L>
+nnoremap <leader>hh <C-W><C-H>
+nnoremap <leader>kl :tabNext<cr>
+nnoremap <leader>jh :tabprevious<cr>
+nnoremap <leader>r :source ~/.vimrc<cr> 
+nnoremap <leader>hc :echo synIDattr(synID(line("."), col("."), 1), "name")<cr>
+nnoremap <leader>noh :noh<cr>
 noremap <leader>1 1gt
 noremap <leader>2 2gt
 noremap <leader>3 3gt
+
+noremap <leader>vs :vsplit<cr>
+noremap <leader>hs :split<cr>
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
+nnoremap <leader>q :q<cr>
+nnoremap <leader>w :w<cr>
 
 "INPUT MODE REMAP
 inoremap <Up> <Nop>
@@ -115,8 +142,8 @@ inoremap <Right> <Nop>
 inoremap <expr> j pumvisible() ? "\<C-N>" : "j"
 inoremap <expr> k pumvisible() ? "\<C-P>" : "k"
 inoremap ii <esc>
-inoremap jj <esc>
 inoremap <c-a> <c-space>
+inoremap <c-g> <c-x><c-f>
 
 "COMMAND & VISUAL  MODE REMAP
 cnoremap <Up> <Nop>
@@ -127,6 +154,8 @@ vnoremap <Up> <Nop>
 vnoremap <Down> <Nop>
 vnoremap <Left> <Nop>
 vnoremap <Right> <Nop>
+vnoremap <S-L> w
+vnoremap <S-H> b
 map <Enter> o<esc>
 map <S-Enter> O<esc>
 map <C-n> :Goyo<CR>

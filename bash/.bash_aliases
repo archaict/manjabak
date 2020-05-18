@@ -66,6 +66,7 @@ alias nf='clear && cat .nf'
 #DIRECTORY
 
 alias cpr='cd ~/ProjectU'
+alias arc='cd ~/archaict-archive/'
 alias home='cd ~'
 alias aliases='vim ~/.bash_aliases'
 alias classes='cd ~/dotfiles/class'
@@ -154,3 +155,6 @@ alias vcom='v ~/.config/compton.conf'
 
 #POLYBAR
 alias pthemes='v ~/.config/polybar/config'
+
+#ARCH REPO
+alias archpush='git add * && git commit -m "revision" && git push'

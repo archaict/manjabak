@@ -14,6 +14,7 @@ XTerm*faceName:          Fixed
 XTerm*faceSize:          11
 XTerm*reverseVideo:      on
 XTerm*selectToClipboard: true
+xterm*metaSendsEscape: true
 
 *pointerColorBackground:          #2B2C2B
 *pointerColorForeground:          #16A085
@@ -52,8 +53,8 @@ URxvt*saveLines:                  5000
 URxvt.iso14755:                   false
 URxvt.keysym.Shift-Control-V:     eval:paste_clipboard
 URxvt.keysym.Shift-Control-C:     eval:selection_to_clipboard
-URxvt.keysym.C-Down:  resize-font:smaller
-URxvt.keysym.C-Up:    resize-font:bigger
+!URxvt.keysym.C-Down:  resize-font:smaller
+!URxvt.keysym.C-Up:    resize-font:bigger
 URxvt.keysym.C-comma:  resize-font:smaller
 URxvt.keysym.C-period:    resize-font:bigger
 
