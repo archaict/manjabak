@@ -9,6 +9,7 @@
 "VIMPLUG
 call plug#begin()
 Plug 'junegunn/vim-easy-align'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-surround'
 Plug 'morhetz/gruvbox'
@@ -22,6 +23,9 @@ Plug 'sheerun/vim-polyglot'
 Plug 'zeekay/vim-beautify'
 Plug 'mzlogin/vim-markdown-toc'
 Plug 'vimwiki/vimwiki'
+Plug 'SirVer/ultisnips'
+Plug 'honza/vim-snippets'
+Plug 'blindFS/vim-reveal'
 call plug#end()
 
 
@@ -94,6 +98,13 @@ let wiki_2.path = '~/otherwhere'
 
 let g:vimwiki_list = [wiki_1, wiki_2]
 "let g:vimwiki_global_ext = 0
+let g:vimwiki_table_mappings=0
+
+let g:UltiSnipsExpandTrigger="<c-C>"
+let g:UltiSnipsJumpForwardTrigger='<c-n>'
+let g:UltiSnipsJumpBackwardTrigger='<c-p>'
+let g:UltiSnipsEditSplit="vertical"
+
 
 
 
@@ -140,6 +151,8 @@ nnoremap <leader>r :source ~/.vimrc<cr>
 nnoremap <leader>hc :echo synIDattr(synID(line("."), col("."), 1), "name")<cr>
 nnoremap <leader>noh :noh<cr>
 nnoremap <leader>vrc :e ~/.vimrc<cr>
+nnoremap <leader>use :UltiSnipsEdit<cr>
+nnoremap <leader>qa :qa!<cr>
 noremap <leader>1 1gt
 noremap <leader>2 2gt
 noremap <leader>3 3gt
@@ -177,7 +190,6 @@ vnoremap <S-L> w
 vnoremap <S-H> b
 map <Enter> o<esc>
 map <S-Enter> O<esc>
-map <C-n> :Goyo<CR>
 map <C-\> :set rnu! nu!<CR>
 nnoremap q: <nop>
 vnoremap <S-J> 10jzz

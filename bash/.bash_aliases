@@ -60,6 +60,7 @@ alias cnu='cd ~/ProjectU/null_design'
 alias vnf='v .nf'
 alias vwk='v ~/archaict-archive/index.wiki'
 alias nf='clear && cat .nf'
+alias arcwiki='arc && v index.wiki'
 
 #DIRECTORY
 
@@ -155,7 +156,7 @@ alias vcom='v ~/.config/compton.conf'
 alias pthemes='v ~/.config/polybar/config'
 
 #ARCH REPO
-alias archpush='cd ~/archaict-archive && git add * && git commit -m "revision" && git push'
+alias arcpush='cd ~/archaict-archive && git add * && git commit -m "revision" && git push'
 
 #BASH
 alias ashes='source ~/.bashrc'

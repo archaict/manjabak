@@ -15,7 +15,7 @@ super + {comma,period}
   {xdo hide -N "Polybar", xdo show -N "Polybar"}
 
 super + e
-  . ~/Scripts/ytpl.sh
+  . ~/Scripts/ytpl
 
 super + alt + e
   . ~/Scripts/ytdpl.sh
