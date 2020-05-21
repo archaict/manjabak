@@ -21,7 +21,7 @@ super + alt + e
   . ~/Scripts/ytdpl.sh
 
 control + m
-  . ~/Scripts/ytpl.sh
+  . ~/Scripts/ytpm
 
 super + {minus,equal} 
   {picom-trans -c -5, picom-trans -c +5}
