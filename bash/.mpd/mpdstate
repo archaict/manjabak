@@ -1,0 +1,566 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 31
+time: 23.384000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Indie/Diskoria - Balada Insan Muda.mp3
+1:Indie/Amigdala - Balada Puan.mp3
+2:Indie/Amigdala - Belenggu.mp3
+3:Indie/Amigdala - Tuhan Sebut Sia-Sia.mp3
+4:Indie/Amigdala - Di Ambang Karam.mp3
+5:Indie/Amigdala - Kukira Kau Rumah.mp3
+6:Indie/Alya Zurayya - Dengarlah Rasa.mp3
+7:Indie/Payung Teduh - Berdua Saja.mp3
+8:Indie/Fourtwnty - Segelas Berdua.mp3
+9:Indie/Fourtwnty - Zona Nyaman (From Filosofi Kopi 2 Ben  Jody).mp3
+10:Indie/Fourtwnty - Kusut.mp3
+11:Indie/Fourtwnty - Nyanyian Surau.mp3
+12:Indie/Fourtwnty - Realita.mp3
+13:Indie/Fourtwnty - Trilogi.mp3
+14:Indie/Fourtwnty - Kita Pasti Tua.mp3
+15:Indie/Yura Yunita - Intuisi.mp3
+16:Indie/Fourtwnty - Aku Tenang.mp3
+17:Indie/Fourtwnty - Diam Diam Ku Bawa 1.mp3
+18:Indie/Fourtwnty - Hitam Putih.mp3
+19:Indie/Fourtwnty - Argumentasi Dimensi.mp3
+20:Indie/Fourtwnty - Iritasi Ringan.mp3
+21:Indie/Fourtwnty - Fana Merah Jambu.mp3
+22:Indie/Fourtwnty - Puisi Alam.mp3
+23:Indie/Fourtwnty - Aku Bukan Binatang.mp3
+24:Indie/Fourtwnty - Diskusi Senja.mp3
+25:Indie/Kunto Aji - Mengunci Ingatan.mp3
+26:Indie/Yura Yunita - Buka Hati.mp3
+27:Indie/Yura Yunita - Pekat.mp3
+28:Indie/Daramuda - Buka.mp3
+29:Indie/Daramuda - Mereka.mp3
+30:Indie/Daramuda - Sejauh Mata Memandang.mp3
+31:Indie/Vira Talisa - Primavera.mp3
+32:Indie/Vira Talisa - Janji Wibawa.mp3
+33:Indie/Vira Talisa - Through the Shades of Paradise.mp3
+34:Indie/Vira Talisa - He's Got Me Singing Again.mp3
+35:Indie/Vira Talisa - Bunga.mp3
+36:Indie/Vira Talisa - Down in Vieux Cannes - Remastered.mp3
+37:Indie/Vira Talisa - For the Time Being.mp3
+38:Indie/Vira Talisa - Matahari.mp3
+39:Indie/Alya Zurayya - Ruang Tanpa Rencana.mp3
+40:Indie/Daramuda - Salam Kenal.mp3
+41:Indie/Daramuda - Apati (Rara Sekar).mp3
+42:Indie/Daramuda - Growing Up (Rara Sekar).mp3
+43:Indie/Daramuda - Renjana (Danilla Riyadi).mp3
+44:Indie/Daramuda - Did You Ever Really See What's Going On (Danilla Riyadi).mp3
+45:Indie/Daramuda - Golden Dust (Sandrayati Fay).mp3
+46:Indie/Daramuda - Suara Dunia (Sandrayati Fay).mp3
+47:Indie/The Extralarge - Sayangnya.mp3
+48:Indie/Daramuda - Selamat Tinggal.mp3
+49:Indie/Vira Talisa - Selimut Kota.mp3
+50:Indie/Maliq  d'Essentials - Senja Teduh Pelita.mp3
+51:Indie/Danilla - Penutupan.mp3
+52:Indie/Danilla - Ada Di Sana.mp3
+53:Indie/Danilla - Senja Di Ambang Pilu.mp3
+54:Indie/Danilla - Buaian.mp3
+55:Indie/Danilla - Reste Avec Moi.mp3
+56:Indie/Danilla - Wahai Kau.mp3
+57:Indie/Danilla - Terpaut Oleh Waktu.mp3
+58:Indie/Danilla - Oh No (Trembling Theory).mp3
+59:Indie/Danilla - Junko Furuta.mp3
+60:Indie/Danilla - Berdistraksi.mp3
+61:Indie/Danilla - Bilur.mp3
+62:Indie/Danilla - Pendahuluan.mp3
+63:Indie/White Shoes  The Couples Company - Senandung Maaf.mp3
+64:Indie/White Shoes  The Couples Company - Kisah Dari Selatan Jakarta.mp3
+65:Indie/Banda Neira - Matahari Pagi.mp3
+66:Indie/Banda Neira - Sebagai Kawan (Menampilkan Jeremia Kimosabe).mp3
+67:Indie/Banda Neira - Pangeran Kecil.mp3
+68:Indie/Banda Neira - Pelukis Langit.mp3
+69:Indie/Banda Neira - Utarakan.mp3
+70:Indie/Banda Neira - Biru (Menampilkan Layur).mp3
+71:Indie/Banda Neira - Bunga.mp3
+72:Indie/Banda Neira - Sampai Jadi Debu (Menampilkan Gardika Gigih).mp3
+73:Indie/Banda Neira - Langit Dan Laut.mp3
+74:Indie/Banda Neira - Re Langit Dan Laut.mp3
+75:Indie/Banda Neira - Mewangi.mp3
+76:Indie/Banda Neira - Derai-Derai Cemara (1949) Musikalisasi Puisi Chairil Anwar.mp3
+77:Indie/Banda Neira - Tini Dan Yanti.mp3
+78:Indie/Banda Neira - Benderang.mp3
+79:Indie/Banda Neira - Yang Patah Tumbuh Yang Hilang Berganti.mp3
+80:Japan/Aimer - Anatani Deawanakereba Kasetsutouka.mp3
+81:Japan/Aimer - Polaris.mp3
+82:Japan/Aimer - Insane Dream.mp3
+83:Japan/Aimer - Us.mp3
+84:Japan/SawanoHiroyuki[nZk]Aimer - S-ave.mp3
+85:Japan/Luna Haruna - Dessert.mp3
+86:Japan/Luna Haruna - Yoru No Niji Wo Koete.mp3
+87:Japan/Aimer - Moon River Prologue.mp3
+88:Japan/Aimer - Kimi Wo Matsu.mp3
+89:Japan/Aimer - Noir Noir.mp3
+90:Japan/Aimer - Refar.mp3
+91:Japan/Aimer - Brave Shine.mp3
+92:Japan/Aimer - Ninelie (with chelly).mp3
+93:Japan/Aimer - Choucho Musubi.mp3
+94:Japan/Aimer - Kowairo.mp3
+95:Japan/Aimer - Closer.mp3
+96:Japan/EGOIST - Eien.mp3
+97:Japan/EGOIST - Eiyu Unmei No Uta - Instrumental.mp3
+98:Japan/supercell - Gekijyoban Anime Eiga Nerawaretagakuen Tokuho BGM By Supercell.mp3
+99:Japan/LiSA - Shirushi.mp3
+100:Japan/Migiwa Takezawa - I Like.mp3
+101:Japan/Goose house - Hikarunara.mp3
+102:Japan/supercell - My Dearest.mp3
+103:Japan/Luna Haruna - Overfly.mp3
+104:Japan/Luna Haruna - Ai Wo Utae.mp3
+105:Japan/Aimer - Hoshikuzu Venus.mp3
+106:Japan/supercell - Perfect Day.mp3
+107:Japan/SawanoHiroyuki[nZk]Aimer - Remind You.mp3
+108:Japan/DAOKO - ステップアップLOVE.mp3
+109:Japan/DAOKO - 打上花火.mp3
+110:Japan/Ikimonogakari - Kira Kira Train.mp3
+111:Japan/Ikimonogakari - Hanabi.mp3
+112:Japan/Ikimonogakari - Ryusei Miracle.mp3
+113:Japan/Ikimonogakari - Seisyunno Tobira.mp3
+114:Japan/Ikimonogakari - Natsu Koi.mp3
+115:Japan/LiSA - 雨上がりの空とキミ.mp3
+116:Korean/Younha - Rescue.mp3
+117:Korean/Younha - Parade.mp3
+118:Korean/Younha - Like Nothing.mp3
+119:Korean/Younha - Airplane mode.mp3
+120:Korean/Younha - FEEL.mp3
+121:Korean/Younha - Propose.mp3
+122:Outer/Steve Tyrell - Sunday Kind of Love.mp3
+123:Outer/Karen Souza - My One and Only Love.mp3
+124:Outer/Oren Lavie - Did You Really Say No.mp3
+125:Outer/Oren Lavie - Breathing Fine.mp3
+126:Outer/Oren Lavie - Second Hand Lovers.mp3
+127:Outer/Oren Lavie - Look At Her Go.mp3
+128:Outer/Oren Lavie - Sonata Sentimental 1 (You've Changed).mp3
+129:Outer/Oren Lavie - The Passion Song.mp3
+130:Outer/Oren Lavie - Sonata Sentimetal 2 (Bedroom Crimes).mp3
+131:Outer/Oren Lavie - Something Real (Did You feel It Too).mp3
+132:Outer/Oren Lavie - Autopsy Report.mp3
+133:Outer/Oren Lavie - Sonata Sentimental 3 (I Dream Of The Water Woman).mp3
+134:Outer/Oren Lavie - Note To Self.mp3
+135:Outer/Stacey Kent - The Ice Hotel.mp3
+136:Outer/Stacey Kent - Landslide.mp3
+137:Outer/Stacey Kent - Ces petits riens.mp3
+138:Outer/Stacey Kent - I Wish I Could Go Travelling Again.mp3
+139:Outer/Stacey Kent - So Many Stars.mp3
+140:Outer/Stacey Kent - Samba Saravah.mp3
+141:Outer/Stacey Kent - Breakfast on the Morning Tram.mp3
+142:Outer/Stacey Kent - Never Let Me Go.mp3
+143:Outer/Stacey Kent - Hard Hearted Hannah.mp3
+144:Outer/Stacey Kent - La Saison des pluies.mp3
+145:Outer/Stacey Kent - What a Wonderful World.mp3
+146:Outer/Stacey Kent - The Ice Hotel - Live.mp3
+147:Outer/Ella Fitzgerald - My Romance.mp3
+148:Outer/Nicki Parrott - I Will Wait For You.mp3
+149:Outer/Beegie Adair - Thats My Desire.mp3
+150:Outer/Catherine Russell - Don't Take Your Love from Me.mp3
+151:Outer/Katharine McPhee - All the Way.mp3
+152:Outer/Stacey Kent - Photograph.mp3
+153:Outer/Laura Fygi - La vie en rose.mp3
+154:Outer/Gregory Porter - L-O-V-E.mp3
+155:Outer/Anthony Strong - I Can't Give You Anything.mp3
+156:Outer/Nicole Henry - Moon River.mp3
+157:Outer/Gregory Porter - But Beautiful.mp3
+158:Outer/Renee Olstead - When I Fall in Love (feat Chris Botti).mp3
+159:Outer/Gregory Porter - Smile.mp3
+160:Outer/Seal - My Funny Valentine.mp3
+161:Outer/Stacey Kent - In the Wee Small Hours of the Morning.mp3
+162:Outer/Oren Lavie - Her Morning Elegance.mp3
+163:Outer/Oren Lavie - The Man Who Isn't There.mp3
+164:Outer/Oren Lavie - The Opposite Side of the Sea.mp3
+165:Outer/Oren Lavie - Locked in a Room.mp3
+166:Outer/Oren Lavie - Ruby Rises.mp3
+167:Outer/Oren Lavie - A Dream Within a Dream.mp3
+168:Outer/Oren Lavie - Trouble Don't Rhyme.mp3
+169:Outer/Oren Lavie - A Short Goodbye.mp3
+170:Outer/Oren Lavie - Don't Let Your Hair Grow Too Long.mp3
+171:Outer/Oren Lavie - Blue Smile.mp3
+172:Outer/Oren Lavie - A Quarter Past Wonderful.mp3
+173:Outer/Steve Tyrell - I've Got a Crush On You.mp3
+174:Outer/Harry Connick Jr - Mind If I Make Love To You.mp3
+175:Outer/Sachal Vasandani - Unforgettable.mp3
+176:Indie/Diskoria - Balada Insan Muda.mp3
+177:Indie/Amigdala - Balada Puan.mp3
+178:Indie/Amigdala - Belenggu.mp3
+179:Indie/Amigdala - Tuhan Sebut Sia-Sia.mp3
+180:Indie/Amigdala - Di Ambang Karam.mp3
+181:Indie/Amigdala - Kukira Kau Rumah.mp3
+182:Indie/Alya Zurayya - Dengarlah Rasa.mp3
+183:Indie/Payung Teduh - Berdua Saja.mp3
+184:Indie/Fourtwnty - Segelas Berdua.mp3
+185:Indie/Fourtwnty - Zona Nyaman (From Filosofi Kopi 2 Ben  Jody).mp3
+186:Indie/Fourtwnty - Kusut.mp3
+187:Indie/Fourtwnty - Nyanyian Surau.mp3
+188:Indie/Fourtwnty - Realita.mp3
+189:Indie/Fourtwnty - Trilogi.mp3
+190:Indie/Fourtwnty - Kita Pasti Tua.mp3
+191:Indie/Yura Yunita - Intuisi.mp3
+192:Indie/Fourtwnty - Aku Tenang.mp3
+193:Indie/Fourtwnty - Diam Diam Ku Bawa 1.mp3
+194:Indie/Fourtwnty - Hitam Putih.mp3
+195:Indie/Fourtwnty - Argumentasi Dimensi.mp3
+196:Indie/Fourtwnty - Iritasi Ringan.mp3
+197:Indie/Fourtwnty - Fana Merah Jambu.mp3
+198:Indie/Fourtwnty - Puisi Alam.mp3
+199:Indie/Fourtwnty - Aku Bukan Binatang.mp3
+200:Indie/Fourtwnty - Diskusi Senja.mp3
+201:Indie/Kunto Aji - Mengunci Ingatan.mp3
+202:Indie/Yura Yunita - Buka Hati.mp3
+203:Indie/Yura Yunita - Pekat.mp3
+204:Indie/Daramuda - Buka.mp3
+205:Indie/Daramuda - Mereka.mp3
+206:Indie/Daramuda - Sejauh Mata Memandang.mp3
+207:Indie/Vira Talisa - Primavera.mp3
+208:Indie/Vira Talisa - Janji Wibawa.mp3
+209:Indie/Vira Talisa - Through the Shades of Paradise.mp3
+210:Indie/Vira Talisa - He's Got Me Singing Again.mp3
+211:Indie/Vira Talisa - Bunga.mp3
+212:Indie/Vira Talisa - Down in Vieux Cannes - Remastered.mp3
+213:Indie/Vira Talisa - For the Time Being.mp3
+214:Indie/Vira Talisa - Matahari.mp3
+215:Indie/Alya Zurayya - Ruang Tanpa Rencana.mp3
+216:Indie/Daramuda - Salam Kenal.mp3
+217:Indie/Daramuda - Apati (Rara Sekar).mp3
+218:Indie/Daramuda - Growing Up (Rara Sekar).mp3
+219:Indie/Daramuda - Renjana (Danilla Riyadi).mp3
+220:Indie/Daramuda - Did You Ever Really See What's Going On (Danilla Riyadi).mp3
+221:Indie/Daramuda - Golden Dust (Sandrayati Fay).mp3
+222:Indie/Daramuda - Suara Dunia (Sandrayati Fay).mp3
+223:Indie/The Extralarge - Sayangnya.mp3
+224:Indie/Daramuda - Selamat Tinggal.mp3
+225:Indie/Vira Talisa - Selimut Kota.mp3
+226:Indie/Maliq  d'Essentials - Senja Teduh Pelita.mp3
+227:Indie/Danilla - Penutupan.mp3
+228:Indie/Danilla - Ada Di Sana.mp3
+229:Indie/Danilla - Senja Di Ambang Pilu.mp3
+230:Indie/Danilla - Buaian.mp3
+231:Indie/Danilla - Reste Avec Moi.mp3
+232:Indie/Danilla - Wahai Kau.mp3
+233:Indie/Danilla - Terpaut Oleh Waktu.mp3
+234:Indie/Danilla - Oh No (Trembling Theory).mp3
+235:Indie/Danilla - Junko Furuta.mp3
+236:Indie/Danilla - Berdistraksi.mp3
+237:Indie/Danilla - Bilur.mp3
+238:Indie/Danilla - Pendahuluan.mp3
+239:Indie/White Shoes  The Couples Company - Senandung Maaf.mp3
+240:Indie/White Shoes  The Couples Company - Kisah Dari Selatan Jakarta.mp3
+241:Indie/Banda Neira - Matahari Pagi.mp3
+242:Indie/Banda Neira - Sebagai Kawan (Menampilkan Jeremia Kimosabe).mp3
+243:Indie/Banda Neira - Pangeran Kecil.mp3
+244:Indie/Banda Neira - Pelukis Langit.mp3
+245:Indie/Banda Neira - Utarakan.mp3
+246:Indie/Banda Neira - Biru (Menampilkan Layur).mp3
+247:Indie/Banda Neira - Bunga.mp3
+248:Indie/Banda Neira - Sampai Jadi Debu (Menampilkan Gardika Gigih).mp3
+249:Indie/Banda Neira - Langit Dan Laut.mp3
+250:Indie/Banda Neira - Re Langit Dan Laut.mp3
+251:Indie/Banda Neira - Mewangi.mp3
+252:Indie/Banda Neira - Derai-Derai Cemara (1949) Musikalisasi Puisi Chairil Anwar.mp3
+253:Indie/Banda Neira - Tini Dan Yanti.mp3
+254:Indie/Banda Neira - Benderang.mp3
+255:Indie/Banda Neira - Yang Patah Tumbuh Yang Hilang Berganti.mp3
+256:Japan/Aimer - Akane Sasu.mp3
+257:Japan/Aimer - Anatani Deawanakereba Kasetsutouka.mp3
+258:Japan/Aimer - Polaris.mp3
+259:Japan/Aimer - Insane Dream.mp3
+260:Japan/Aimer - Us.mp3
+261:Japan/SawanoHiroyuki[nZk]Aimer - S-ave.mp3
+262:Japan/Luna Haruna - Dessert.mp3
+263:Japan/Luna Haruna - Yoru No Niji Wo Koete.mp3
+264:Japan/Aimer - Moon River Prologue.mp3
+265:Japan/Aimer - Kimi Wo Matsu.mp3
+266:Japan/Aimer - Noir Noir.mp3
+267:Japan/Aimer - Refar.mp3
+268:Japan/Aimer - Last Stardust.mp3
+269:Japan/Aimer - Brave Shine.mp3
+270:Japan/Aimer - Ninelie (with chelly).mp3
+271:Japan/Aimer - Choucho Musubi.mp3
+272:Japan/Aimer - Kataomoi.mp3
+273:Japan/Aimer - Kowairo.mp3
+274:Japan/Aimer - Closer.mp3
+275:Japan/EGOIST - Eien.mp3
+276:Japan/EGOIST - Eiyu Unmei No Uta - Instrumental.mp3
+277:Japan/EGOIST - Eien - Instrumental.mp3
+278:Japan/supercell - Gekijyoban Anime Eiga Nerawaretagakuen Tokuho BGM By Supercell.mp3
+279:Japan/LiSA - Shirushi.mp3
+280:Japan/Migiwa Takezawa - I Like.mp3
+281:Japan/Goose house - Hikarunara.mp3
+282:Japan/supercell - My Dearest.mp3
+283:Japan/Luna Haruna - Overfly.mp3
+284:Japan/Luna Haruna - Ai Wo Utae.mp3
+285:Japan/Aimer - Hoshikuzu Venus.mp3
+286:Japan/supercell - Perfect Day.mp3
+287:Japan/SawanoHiroyuki[nZk]Aimer - Remind You.mp3
+288:Japan/DAOKO - ステップアップLOVE.mp3
+289:Japan/DAOKO - 打上花火.mp3
+290:Japan/DAOKO - Forever Friends.mp3
+291:Japan/Ikimonogakari - Kira Kira Train.mp3
+292:Japan/Ikimonogakari - Hanabi.mp3
+293:Japan/Ikimonogakari - Ryusei Miracle.mp3
+294:Japan/Ikimonogakari - Seisyunno Tobira.mp3
+295:Japan/Ikimonogakari - Natsu Koi.mp3
+296:Japan/LiSA - 雨上がりの空とキミ.mp3
+297:Korean/Younha - Rescue.mp3
+298:Korean/Younha - Hello.mp3
+299:Korean/Younha - Parade.mp3
+300:Korean/Younha - Like Nothing.mp3
+301:Korean/Younha - Airplane mode.mp3
+302:Korean/Younha - Foresight dream.mp3
+303:Korean/Younha - FEEL.mp3
+304:Korean/Younha - Drive.mp3
+305:Korean/Younha - Go.mp3
+306:Korean/Younha - No answer.mp3
+307:Korean/Younha - Propose.mp3
+308:Outer/Steve Tyrell - Sunday Kind of Love.mp3
+309:Outer/Karen Souza - My One and Only Love.mp3
+310:Outer/Oren Lavie - Did You Really Say No.mp3
+311:Outer/Oren Lavie - Breathing Fine.mp3
+312:Outer/Oren Lavie - Second Hand Lovers.mp3
+313:Outer/Oren Lavie - Look At Her Go.mp3
+314:Outer/Oren Lavie - Sonata Sentimental 1 (You've Changed).mp3
+315:Outer/Oren Lavie - The Passion Song.mp3
+316:Outer/Oren Lavie - Sonata Sentimetal 2 (Bedroom Crimes).mp3
+317:Outer/Oren Lavie - Something Real (Did You feel It Too).mp3
+318:Outer/Oren Lavie - Autopsy Report.mp3
+319:Outer/Oren Lavie - Sonata Sentimental 3 (I Dream Of The Water Woman).mp3
+320:Outer/Oren Lavie - Note To Self.mp3
+321:Outer/Stacey Kent - The Ice Hotel.mp3
+322:Outer/Stacey Kent - Landslide.mp3
+323:Outer/Stacey Kent - Ces petits riens.mp3
+324:Outer/Stacey Kent - I Wish I Could Go Travelling Again.mp3
+325:Outer/Stacey Kent - So Many Stars.mp3
+326:Outer/Stacey Kent - Samba Saravah.mp3
+327:Outer/Stacey Kent - Breakfast on the Morning Tram.mp3
+328:Outer/Stacey Kent - Never Let Me Go.mp3
+329:Outer/Stacey Kent - Hard Hearted Hannah.mp3
+330:Outer/Stacey Kent - La Saison des pluies.mp3
+331:Outer/Stacey Kent - What a Wonderful World.mp3
+332:Outer/Stacey Kent - The Ice Hotel - Live.mp3
+333:Outer/Ella Fitzgerald - My Romance.mp3
+334:Outer/Nicki Parrott - I Will Wait For You.mp3
+335:Outer/Beegie Adair - Thats My Desire.mp3
+336:Outer/Catherine Russell - Don't Take Your Love from Me.mp3
+337:Outer/Katharine McPhee - All the Way.mp3
+338:Outer/Stacey Kent - Photograph.mp3
+339:Outer/Laura Fygi - La vie en rose.mp3
+340:Outer/Gregory Porter - L-O-V-E.mp3
+341:Outer/Anthony Strong - I Can't Give You Anything.mp3
+342:Outer/Nicole Henry - Moon River.mp3
+343:Outer/Gregory Porter - But Beautiful.mp3
+344:Outer/Renee Olstead - When I Fall in Love (feat Chris Botti).mp3
+345:Outer/Gregory Porter - Smile.mp3
+346:Outer/Seal - My Funny Valentine.mp3
+347:Outer/Stacey Kent - In the Wee Small Hours of the Morning.mp3
+348:Outer/Oren Lavie - Her Morning Elegance.mp3
+349:Outer/Oren Lavie - The Man Who Isn't There.mp3
+350:Outer/Oren Lavie - The Opposite Side of the Sea.mp3
+351:Outer/Oren Lavie - Locked in a Room.mp3
+352:Outer/Oren Lavie - Ruby Rises.mp3
+353:Outer/Oren Lavie - A Dream Within a Dream.mp3
+354:Outer/Oren Lavie - Trouble Don't Rhyme.mp3
+355:Outer/Oren Lavie - A Short Goodbye.mp3
+356:Outer/Oren Lavie - Don't Let Your Hair Grow Too Long.mp3
+357:Outer/Oren Lavie - Blue Smile.mp3
+358:Outer/Oren Lavie - A Quarter Past Wonderful.mp3
+359:Outer/Steve Tyrell - I've Got a Crush On You.mp3
+360:Outer/Sachal Vasandani - Unforgettable.mp3
+361:Outer/Harry Connick Jr - Mind If I Make Love To You.mp3
+362:Indie/Diskoria - Balada Insan Muda.mp3
+363:Indie/Amigdala - Balada Puan.mp3
+364:Indie/Amigdala - Belenggu.mp3
+365:Indie/Amigdala - Tuhan Sebut Sia-Sia.mp3
+366:Indie/Amigdala - Di Ambang Karam.mp3
+367:Indie/Amigdala - Kukira Kau Rumah.mp3
+368:Indie/Alya Zurayya - Dengarlah Rasa.mp3
+369:Indie/Payung Teduh - Berdua Saja.mp3
+370:Indie/Fourtwnty - Segelas Berdua.mp3
+371:Indie/Fourtwnty - Zona Nyaman (From Filosofi Kopi 2 Ben  Jody).mp3
+372:Indie/Fourtwnty - Kusut.mp3
+373:Indie/Fourtwnty - Nyanyian Surau.mp3
+374:Indie/Fourtwnty - Realita.mp3
+375:Indie/Fourtwnty - Trilogi.mp3
+376:Indie/Fourtwnty - Kita Pasti Tua.mp3
+377:Indie/Yura Yunita - Intuisi.mp3
+378:Indie/Fourtwnty - Aku Tenang.mp3
+379:Indie/Fourtwnty - Diam Diam Ku Bawa 1.mp3
+380:Indie/Fourtwnty - Hitam Putih.mp3
+381:Indie/Fourtwnty - Argumentasi Dimensi.mp3
+382:Indie/Fourtwnty - Iritasi Ringan.mp3
+383:Indie/Fourtwnty - Fana Merah Jambu.mp3
+384:Indie/Fourtwnty - Puisi Alam.mp3
+385:Indie/Fourtwnty - Aku Bukan Binatang.mp3
+386:Indie/Fourtwnty - Diskusi Senja.mp3
+387:Indie/Kunto Aji - Mengunci Ingatan.mp3
+388:Indie/Yura Yunita - Buka Hati.mp3
+389:Indie/Yura Yunita - Pekat.mp3
+390:Indie/Daramuda - Buka.mp3
+391:Indie/Daramuda - Mereka.mp3
+392:Indie/Daramuda - Sejauh Mata Memandang.mp3
+393:Indie/Vira Talisa - Primavera.mp3
+394:Indie/Vira Talisa - Janji Wibawa.mp3
+395:Indie/Vira Talisa - Through the Shades of Paradise.mp3
+396:Indie/Vira Talisa - He's Got Me Singing Again.mp3
+397:Indie/Vira Talisa - Bunga.mp3
+398:Indie/Vira Talisa - Down in Vieux Cannes - Remastered.mp3
+399:Indie/Vira Talisa - For the Time Being.mp3
+400:Indie/Vira Talisa - Matahari.mp3
+401:Indie/Alya Zurayya - Ruang Tanpa Rencana.mp3
+402:Indie/Daramuda - Salam Kenal.mp3
+403:Indie/Daramuda - Apati (Rara Sekar).mp3
+404:Indie/Daramuda - Growing Up (Rara Sekar).mp3
+405:Indie/Daramuda - Renjana (Danilla Riyadi).mp3
+406:Indie/Daramuda - Did You Ever Really See What's Going On (Danilla Riyadi).mp3
+407:Indie/Daramuda - Golden Dust (Sandrayati Fay).mp3
+408:Indie/Daramuda - Suara Dunia (Sandrayati Fay).mp3
+409:Indie/The Extralarge - Sayangnya.mp3
+410:Indie/Daramuda - Selamat Tinggal.mp3
+411:Indie/Vira Talisa - Selimut Kota.mp3
+412:Indie/Maliq  d'Essentials - Senja Teduh Pelita.mp3
+413:Indie/Danilla - Penutupan.mp3
+414:Indie/Danilla - Ada Di Sana.mp3
+415:Indie/Danilla - Senja Di Ambang Pilu.mp3
+416:Indie/Danilla - Buaian.mp3
+417:Indie/Danilla - Reste Avec Moi.mp3
+418:Indie/Danilla - Wahai Kau.mp3
+419:Indie/Danilla - Terpaut Oleh Waktu.mp3
+420:Indie/Danilla - Oh No (Trembling Theory).mp3
+421:Indie/Danilla - Junko Furuta.mp3
+422:Indie/Danilla - Berdistraksi.mp3
+423:Indie/Danilla - Bilur.mp3
+424:Indie/Danilla - Pendahuluan.mp3
+425:Indie/White Shoes  The Couples Company - Senandung Maaf.mp3
+426:Indie/White Shoes  The Couples Company - Kisah Dari Selatan Jakarta.mp3
+427:Indie/Banda Neira - Matahari Pagi.mp3
+428:Indie/Banda Neira - Sebagai Kawan (Menampilkan Jeremia Kimosabe).mp3
+429:Indie/Banda Neira - Pangeran Kecil.mp3
+430:Indie/Banda Neira - Pelukis Langit.mp3
+431:Indie/Banda Neira - Utarakan.mp3
+432:Indie/Banda Neira - Biru (Menampilkan Layur).mp3
+433:Indie/Banda Neira - Bunga.mp3
+434:Indie/Banda Neira - Sampai Jadi Debu (Menampilkan Gardika Gigih).mp3
+435:Indie/Banda Neira - Langit Dan Laut.mp3
+436:Indie/Banda Neira - Re Langit Dan Laut.mp3
+437:Indie/Banda Neira - Mewangi.mp3
+438:Indie/Banda Neira - Derai-Derai Cemara (1949) Musikalisasi Puisi Chairil Anwar.mp3
+439:Indie/Banda Neira - Tini Dan Yanti.mp3
+440:Indie/Banda Neira - Benderang.mp3
+441:Indie/Banda Neira - Yang Patah Tumbuh Yang Hilang Berganti.mp3
+442:Japan/Aimer - Akane Sasu.mp3
+443:Japan/Aimer - Anatani Deawanakereba Kasetsutouka.mp3
+444:Japan/Aimer - Polaris.mp3
+445:Japan/Aimer - Insane Dream.mp3
+446:Japan/Aimer - Us.mp3
+447:Japan/SawanoHiroyuki[nZk]Aimer - S-ave.mp3
+448:Japan/Luna Haruna - Dessert.mp3
+449:Japan/Luna Haruna - Yoru No Niji Wo Koete.mp3
+450:Japan/Aimer - Moon River Prologue.mp3
+451:Japan/Aimer - Kimi Wo Matsu.mp3
+452:Japan/Aimer - Noir Noir.mp3
+453:Japan/Aimer - Refar.mp3
+454:Japan/Aimer - Last Stardust.mp3
+455:Japan/Aimer - Brave Shine.mp3
+456:Japan/Aimer - Ninelie (with chelly).mp3
+457:Japan/Aimer - Choucho Musubi.mp3
+458:Japan/Aimer - Kataomoi.mp3
+459:Japan/Aimer - Kowairo.mp3
+460:Japan/Aimer - Closer.mp3
+461:Japan/EGOIST - Eien.mp3
+462:Japan/EGOIST - Eiyu Unmei No Uta - Instrumental.mp3
+463:Japan/EGOIST - Eien - Instrumental.mp3
+464:Japan/supercell - Gekijyoban Anime Eiga Nerawaretagakuen Tokuho BGM By Supercell.mp3
+465:Japan/LiSA - Shirushi.mp3
+466:Japan/Migiwa Takezawa - I Like.mp3
+467:Japan/Goose house - Hikarunara.mp3
+468:Japan/supercell - My Dearest.mp3
+469:Japan/Luna Haruna - Overfly.mp3
+470:Japan/Luna Haruna - Ai Wo Utae.mp3
+471:Japan/Aimer - Hoshikuzu Venus.mp3
+472:Japan/supercell - Perfect Day.mp3
+473:Japan/SawanoHiroyuki[nZk]Aimer - Remind You.mp3
+474:Japan/DAOKO - ステップアップLOVE.mp3
+475:Japan/DAOKO - 打上花火.mp3
+476:Japan/DAOKO - Forever Friends.mp3
+477:Japan/Ikimonogakari - Kira Kira Train.mp3
+478:Japan/Ikimonogakari - Hanabi.mp3
+479:Japan/Ikimonogakari - Ryusei Miracle.mp3
+480:Japan/Ikimonogakari - Seisyunno Tobira.mp3
+481:Japan/Ikimonogakari - Natsu Koi.mp3
+482:Japan/LiSA - 雨上がりの空とキミ.mp3
+483:Korean/Younha - Rescue.mp3
+484:Korean/Younha - Hello.mp3
+485:Korean/Younha - Parade.mp3
+486:Korean/Younha - Like Nothing.mp3
+487:Korean/Younha - Airplane mode.mp3
+488:Korean/Younha - Foresight dream.mp3
+489:Korean/Younha - FEEL.mp3
+490:Korean/Younha - Drive.mp3
+491:Korean/Younha - Go.mp3
+492:Korean/Younha - No answer.mp3
+493:Korean/Younha - Propose.mp3
+494:Outer/Steve Tyrell - Sunday Kind of Love.mp3
+495:Outer/Karen Souza - My One and Only Love.mp3
+496:Outer/Oren Lavie - Did You Really Say No.mp3
+497:Outer/Oren Lavie - Breathing Fine.mp3
+498:Outer/Oren Lavie - Second Hand Lovers.mp3
+499:Outer/Oren Lavie - Look At Her Go.mp3
+500:Outer/Oren Lavie - Sonata Sentimental 1 (You've Changed).mp3
+501:Outer/Oren Lavie - The Passion Song.mp3
+502:Outer/Oren Lavie - Sonata Sentimetal 2 (Bedroom Crimes).mp3
+503:Outer/Oren Lavie - Something Real (Did You feel It Too).mp3
+504:Outer/Oren Lavie - Autopsy Report.mp3
+505:Outer/Oren Lavie - Sonata Sentimental 3 (I Dream Of The Water Woman).mp3
+506:Outer/Oren Lavie - Note To Self.mp3
+507:Outer/Stacey Kent - The Ice Hotel.mp3
+508:Outer/Stacey Kent - Landslide.mp3
+509:Outer/Stacey Kent - Ces petits riens.mp3
+510:Outer/Stacey Kent - I Wish I Could Go Travelling Again.mp3
+511:Outer/Stacey Kent - So Many Stars.mp3
+512:Outer/Stacey Kent - Samba Saravah.mp3
+513:Outer/Stacey Kent - Breakfast on the Morning Tram.mp3
+514:Outer/Stacey Kent - Never Let Me Go.mp3
+515:Outer/Stacey Kent - Hard Hearted Hannah.mp3
+516:Outer/Stacey Kent - La Saison des pluies.mp3
+517:Outer/Stacey Kent - What a Wonderful World.mp3
+518:Outer/Stacey Kent - The Ice Hotel - Live.mp3
+519:Outer/Ella Fitzgerald - My Romance.mp3
+520:Outer/Nicki Parrott - I Will Wait For You.mp3
+521:Outer/Beegie Adair - Thats My Desire.mp3
+522:Outer/Catherine Russell - Don't Take Your Love from Me.mp3
+523:Outer/Katharine McPhee - All the Way.mp3
+524:Outer/Stacey Kent - Photograph.mp3
+525:Outer/Laura Fygi - La vie en rose.mp3
+526:Outer/Gregory Porter - L-O-V-E.mp3
+527:Outer/Anthony Strong - I Can't Give You Anything.mp3
+528:Outer/Nicole Henry - Moon River.mp3
+529:Outer/Gregory Porter - But Beautiful.mp3
+530:Outer/Renee Olstead - When I Fall in Love (feat Chris Botti).mp3
+531:Outer/Gregory Porter - Smile.mp3
+532:Outer/Seal - My Funny Valentine.mp3
+533:Outer/Stacey Kent - In the Wee Small Hours of the Morning.mp3
+534:Outer/Oren Lavie - Her Morning Elegance.mp3
+535:Outer/Oren Lavie - The Man Who Isn't There.mp3
+536:Outer/Oren Lavie - The Opposite Side of the Sea.mp3
+537:Outer/Oren Lavie - Locked in a Room.mp3
+538:Outer/Oren Lavie - Ruby Rises.mp3
+539:Outer/Oren Lavie - A Dream Within a Dream.mp3
+540:Outer/Oren Lavie - Trouble Don't Rhyme.mp3
+541:Outer/Oren Lavie - A Short Goodbye.mp3
+542:Outer/Oren Lavie - Don't Let Your Hair Grow Too Long.mp3
+543:Outer/Oren Lavie - Blue Smile.mp3
+544:Outer/Oren Lavie - A Quarter Past Wonderful.mp3
+545:Outer/Steve Tyrell - I've Got a Crush On You.mp3
+546:Outer/Harry Connick Jr - Mind If I Make Love To You.mp3
+547:Outer/Sachal Vasandani - Unforgettable.mp3
+548:Indie/Yura Yunita - Pekat.mp3
+549:Indie/T Rucira - Lalu.mp3
+550:Indie/Kunto Aji - Rehat.mp3
+playlist_end
