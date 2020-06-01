@@ -23,6 +23,9 @@ super + alt + e
 control + m
   . ~/Scripts/ytpm
 
+control + 5
+  echo %
+
 super + {minus,equal} 
   {picom-trans -c -5, picom-trans -c +5}
 

@@ -8080,3 +8080,260 @@ May 20 22:38 : exception: RTIOThread could not get realtime scheduling, continui
 May 20 22:38 : config: option 'device' on line 13 was not recognized
 May 20 22:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 May 20 22:38 : client: [0] opened from 127.0.0.1:55326
+May 21 16:11 : client: [1] opened from 127.0.0.1:37050
+May 21 16:11 : client: [2] opened from 127.0.0.1:37054
+May 21 16:11 : client: [2] closed
+May 21 16:11 : client: [1] closed
+May 21 16:42 : player: played "Indie/Vira Talisa - Primavera.mp3"
+May 21 16:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 21 16:42 : config: option 'device' on line 13 was not recognized
+May 21 16:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 21 16:42 : client: [0] opened from 127.0.0.1:49740
+May 21 19:42 : player: played "Indie/Vira Talisa - Primavera.mp3"
+May 21 19:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 21 19:43 : config: option 'device' on line 13 was not recognized
+May 21 19:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 21 19:43 : client: [0] opened from 127.0.0.1:46262
+May 22 01:25 : client: [1] opened from 127.0.0.1:49192
+May 22 01:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 22 01:25 : client: [1] closed
+May 22 01:26 : client: [2] opened from 127.0.0.1:49236
+May 22 01:26 : client: [2] closed
+May 22 01:30 : client: [3] opened from 127.0.0.1:49324
+May 22 01:30 : client: [3] closed
+May 22 01:33 : player: played "Indie/Vira Talisa - Primavera.mp3"
+May 22 01:37 : player: played "Indie/Vira Talisa - Janji Wibawa.mp3"
+May 22 01:42 : player: played "Indie/Vira Talisa - Through the Shades of Paradise.mp3"
+May 22 01:46 : client: [4] opened from 127.0.0.1:49546
+May 22 01:46 : client: [4] closed
+May 22 02:07 : client: [5] opened from 127.0.0.1:49894
+May 22 02:07 : client: [6] opened from 127.0.0.1:49898
+May 22 02:07 : client: [6] closed
+May 22 02:08 : exception: Failed to decode /home/arandel/Music/Indie/Yura Yunita - Pekat.mp3
+May 22 02:08 : exception: nested: Failed to open '/home/arandel/Music/Indie/Yura Yunita - Pekat.mp3': No such file or directory
+May 22 02:08 : player: played "Indie/Yura Yunita - Pekat.mp3"
+May 22 02:08 : exception: Failed to decode /home/arandel/Music/Indie/Yura Yunita - Pekat.mp3
+May 22 02:08 : exception: nested: Failed to open '/home/arandel/Music/Indie/Yura Yunita - Pekat.mp3': No such file or directory
+May 22 02:08 : client: [7] opened from 127.0.0.1:49902
+May 22 02:08 : client: [7] closed
+May 22 02:08 : client: [5] closed
+May 22 02:09 : client: [8] opened from 127.0.0.1:49908
+May 22 02:09 : client: [9] opened from 127.0.0.1:49912
+May 22 02:09 : client: [9] closed
+May 22 02:09 : client: [10] opened from 127.0.0.1:49916
+May 22 02:09 : client: [10] closed
+May 22 02:09 : client: [8] closed
+May 22 02:09 : client: [11] opened from 127.0.0.1:49920
+May 22 02:09 : client: [11] closed
+May 22 02:47 : client: [0] closed
+May 22 02:47 : client: [12] opened from 127.0.0.1:50262
+May 22 04:37 : client: [12] closed
+May 22 04:37 : player: played "Indie/Yura Yunita - Pekat.mp3"
+May 22 12:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 22 12:53 : config: option 'device' on line 13 was not recognized
+May 22 12:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 22 12:53 : client: [0] opened from 127.0.0.1:42528
+May 22 16:22 : client: [1] opened from 127.0.0.1:43342
+May 22 16:22 : client: [2] opened from 127.0.0.1:43346
+May 22 16:22 : client: [2] closed
+May 22 16:22 : client: [3] opened from 127.0.0.1:43350
+May 22 16:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 22 16:22 : client: [3] closed
+May 22 16:22 : client: [4] opened from 127.0.0.1:43354
+May 22 16:22 : client: [4] closed
+May 22 16:22 : client: [5] opened from 127.0.0.1:43358
+May 22 16:22 : client: [5] closed
+May 22 16:23 : client: [1] closed
+May 22 16:23 : client: [6] opened from 127.0.0.1:43362
+May 22 16:23 : client: [7] opened from 127.0.0.1:43366
+May 22 16:23 : client: [7] closed
+May 22 16:23 : client: [8] opened from 127.0.0.1:43370
+May 22 16:23 : client: [8] closed
+May 22 16:23 : client: [9] opened from 127.0.0.1:43374
+May 22 16:23 : client: [9] closed
+May 22 16:23 : client: [10] opened from 127.0.0.1:43378
+May 22 16:23 : client: [10] closed
+May 22 16:23 : client: [11] opened from 127.0.0.1:43382
+May 22 16:23 : client: [11] closed
+May 22 16:23 : client: [12] opened from 127.0.0.1:43386
+May 22 16:23 : client: [12] closed
+May 22 16:23 : client: [13] opened from 127.0.0.1:43390
+May 22 16:23 : client: [13] closed
+May 22 16:23 : client: [14] opened from 127.0.0.1:43394
+May 22 16:23 : client: [14] closed
+May 22 16:23 : client: [15] opened from 127.0.0.1:43398
+May 22 16:23 : client: [15] closed
+May 22 16:23 : client: [16] opened from 127.0.0.1:43402
+May 22 16:23 : client: [16] closed
+May 22 16:23 : client: [17] opened from 127.0.0.1:43406
+May 22 16:23 : client: [17] closed
+May 22 16:23 : client: [6] closed
+May 24 04:10 : client: [18] opened from 127.0.0.1:52114
+May 24 04:10 : client: [18] closed
+May 24 04:10 : client: [19] opened from 127.0.0.1:52120
+May 24 04:10 : client: [19] closed
+May 25 13:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 13:34 : config: option 'device' on line 13 was not recognized
+May 25 13:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 13:34 : client: [0] opened from 127.0.0.1:43690
+May 26 02:38 : client: [1] opened from 127.0.0.1:50438
+May 26 02:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 26 02:38 : client: [1] closed
+May 26 02:44 : player: played "Indie/Banda Neira - Yang Patah Tumbuh Yang Hilang Berganti.mp3"
+May 26 02:49 : player: played "Indie/Diskoria - Balada Insan Muda.mp3"
+May 26 02:50 : player: played "Indie/Amigdala - Balada Puan.mp3"
+May 26 02:55 : player: played "Indie/Amigdala - Belenggu.mp3"
+May 26 03:00 : player: played "Indie/Amigdala - Tuhan Sebut Sia-Sia.mp3"
+May 26 03:02 : client: [2] opened from 127.0.0.1:51058
+May 26 03:02 : client: [2] closed
+May 26 14:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 26 14:06 : config: option 'device' on line 13 was not recognized
+May 26 14:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 26 14:06 : client: [0] opened from 127.0.0.1:46054
+May 27 15:53 : client: [1] opened from 127.0.0.1:58496
+May 27 15:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 15:53 : client: [1] closed
+May 27 15:55 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+May 27 15:58 : player: played "Indie/Amigdala - Kukira Kau Rumah.mp3"
+May 27 16:03 : player: played "Indie/Alya Zurayya - Dengarlah Rasa.mp3"
+May 27 16:07 : player: played "Indie/Payung Teduh - Berdua Saja.mp3"
+May 27 16:12 : player: played "Indie/Fourtwnty - Segelas Berdua.mp3"
+May 27 16:16 : player: played "Indie/Fourtwnty - Zona Nyaman (From Filosofi Kopi 2 Ben  Jody).mp3"
+May 27 16:21 : player: played "Indie/Fourtwnty - Kusut.mp3"
+May 27 16:26 : player: played "Indie/Fourtwnty - Nyanyian Surau.mp3"
+May 27 16:29 : player: played "Indie/Fourtwnty - Realita.mp3"
+May 27 16:34 : player: played "Indie/Fourtwnty - Trilogi.mp3"
+May 27 16:34 : client: [2] opened from 127.0.0.1:58932
+May 27 16:34 : client: [2] closed
+May 27 18:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:01 : config: option 'device' on line 13 was not recognized
+May 27 18:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 18:01 : client: [0] opened from 127.0.0.1:41684
+May 27 19:54 : client: [1] opened from 127.0.0.1:43346
+May 27 19:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 19:54 : client: [1] closed
+May 27 19:58 : player: played "Indie/Fourtwnty - Kita Pasti Tua.mp3"
+May 27 20:03 : player: played "Indie/Yura Yunita - Intuisi.mp3"
+May 27 20:06 : player: played "Indie/T Rucira - Lalu.mp3"
+May 27 20:10 : player: played "Indie/Fourtwnty - Aku Tenang.mp3"
+May 27 20:14 : player: played "Indie/Fourtwnty - Diam Diam Ku Bawa 1.mp3"
+May 27 20:19 : player: played "Indie/Fourtwnty - Hitam Putih.mp3"
+May 27 20:23 : player: played "Indie/Fourtwnty - Argumentasi Dimensi.mp3"
+May 27 20:27 : player: played "Indie/Fourtwnty - Iritasi Ringan.mp3"
+May 27 20:33 : player: played "Indie/Fourtwnty - Fana Merah Jambu.mp3"
+May 27 20:39 : client: [2] opened from 127.0.0.1:43596
+May 27 20:39 : client: [2] closed
+May 28 16:51 : client: [3] opened from 127.0.0.1:47524
+May 28 16:51 : client: [3] closed
+May 28 16:51 : player: played "Indie/Fourtwnty - Puisi Alam.mp3"
+May 28 16:52 : client: [4] opened from 127.0.0.1:47530
+May 28 16:52 : client: [4] closed
+May 28 16:52 : client: [5] opened from 127.0.0.1:47536
+May 28 16:52 : client: [5] closed
+May 28 16:56 : player: played "Indie/Fourtwnty - Aku Bukan Binatang.mp3"
+May 28 16:59 : player: played "Indie/Fourtwnty - Diskusi Senja.mp3"
+May 28 17:05 : player: played "Indie/Kunto Aji - Rehat.mp3"
+May 28 17:09 : player: played "Indie/Kunto Aji - Mengunci Ingatan.mp3"
+May 28 17:13 : player: played "Indie/Yura Yunita - Buka Hati.mp3"
+May 28 17:16 : player: played "Indie/Yura Yunita - Pekat.mp3"
+May 28 17:22 : player: played "Indie/Daramuda - Buka.mp3"
+May 28 17:25 : client: [6] opened from 127.0.0.1:47816
+May 28 17:25 : client: [6] closed
+May 28 17:30 : player: played "Indie/Daramuda - Sejauh Mata Memandang.mp3"
+May 28 17:35 : player: played "Indie/Vira Talisa - Primavera.mp3"
+May 28 17:39 : player: played "Indie/Vira Talisa - Janji Wibawa.mp3"
+May 28 17:44 : player: played "Indie/Vira Talisa - Through the Shades of Paradise.mp3"
+May 28 17:48 : player: played "Indie/Vira Talisa - He's Got Me Singing Again.mp3"
+May 28 17:53 : player: played "Indie/Vira Talisa - Bunga.mp3"
+May 28 17:55 : client: [7] opened from 127.0.0.1:48030
+May 28 17:55 : client: [7] closed
+May 29 01:37 : client: [8] opened from 127.0.0.1:49896
+May 29 01:37 : client: [9] opened from 127.0.0.1:49900
+May 29 01:37 : client: [9] closed
+May 29 01:37 : client: [10] opened from 127.0.0.1:49904
+May 29 01:37 : client: [10] closed
+May 29 01:37 : client: [11] opened from 127.0.0.1:49908
+May 29 01:37 : client: [11] closed
+May 29 04:09 : client: [8] closed
+May 29 18:30 : client: [12] opened from 127.0.0.1:55184
+May 29 18:30 : client: [12] closed
+May 29 18:34 : player: played "Indie/Vira Talisa - Bunga.mp3"
+May 29 18:38 : player: played "Indie/Vira Talisa - Down in Vieux Cannes - Remastered.mp3"
+May 29 18:41 : player: played "Indie/Vira Talisa - For the Time Being.mp3"
+May 29 18:47 : player: played "Indie/Vira Talisa - Matahari.mp3"
+May 29 18:51 : player: played "Indie/Alya Zurayya - Ruang Tanpa Rencana.mp3"
+May 29 18:53 : player: played "Indie/Daramuda - Salam Kenal.mp3"
+May 29 18:58 : player: played "Indie/Daramuda - Apati (Rara Sekar).mp3"
+May 29 19:07 : player: played "Indie/Daramuda - Growing Up (Rara Sekar).mp3"
+May 29 19:10 : player: played "Indie/Daramuda - Renjana (Danilla Riyadi).mp3"
+May 29 19:14 : player: played "Indie/Daramuda - Did You Ever Really See What's Going On (Danilla Riyadi).mp3"
+May 29 19:17 : player: played "Indie/Daramuda - Golden Dust (Sandrayati Fay).mp3"
+May 29 19:21 : player: played "Indie/Daramuda - Suara Dunia (Sandrayati Fay).mp3"
+May 29 19:25 : player: played "Indie/The Extralarge - Sayangnya.mp3"
+May 29 19:29 : player: played "Indie/Daramuda - Selamat Tinggal.mp3"
+May 29 19:32 : player: played "Indie/Vira Talisa - Selimut Kota.mp3"
+May 29 19:37 : player: played "Indie/Maliq  d'Essentials - Senja Teduh Pelita.mp3"
+May 29 19:37 : player: played "Indie/Danilla - Penutupan.mp3"
+May 29 19:41 : player: played "Indie/Danilla - Ada Di Sana.mp3"
+May 29 19:45 : player: played "Indie/Danilla - Senja Di Ambang Pilu.mp3"
+May 29 19:49 : player: played "Indie/Danilla - Buaian.mp3"
+May 29 19:53 : player: played "Indie/Danilla - Reste Avec Moi.mp3"
+May 29 19:57 : player: played "Indie/Danilla - Wahai Kau.mp3"
+May 29 20:01 : player: played "Indie/Danilla - Terpaut Oleh Waktu.mp3"
+May 29 20:02 : client: [13] opened from 127.0.0.1:57012
+May 29 20:02 : client: [13] closed
+May 30 21:36 : client: [14] opened from 127.0.0.1:41788
+May 30 21:36 : client: [14] closed
+May 30 21:38 : client: [15] opened from 127.0.0.1:41798
+May 30 21:38 : client: [15] closed
+May 30 21:41 : client: [16] opened from 127.0.0.1:41842
+May 30 21:41 : client: [16] closed
+May 30 21:43 : player: played "Indie/Danilla - Oh No (Trembling Theory).mp3"
+May 30 21:47 : player: played "Indie/Danilla - Junko Furuta.mp3"
+May 30 21:51 : player: played "Indie/Danilla - Berdistraksi.mp3"
+May 30 21:56 : player: played "Indie/Danilla - Bilur.mp3"
+May 30 21:56 : player: played "Indie/Danilla - Pendahuluan.mp3"
+May 30 21:56 : client: [17] opened from 127.0.0.1:41970
+May 30 21:56 : client: [17] closed
+May 30 22:01 : player: played "Indie/White Shoes  The Couples Company - Kisah Dari Selatan Jakarta.mp3"
+May 30 22:06 : player: played "Indie/Banda Neira - Matahari Pagi.mp3"
+May 30 22:10 : player: played "Indie/Banda Neira - Sebagai Kawan (Menampilkan Jeremia Kimosabe).mp3"
+May 30 22:14 : player: played "Indie/Banda Neira - Pangeran Kecil.mp3"
+May 30 22:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 22:14 : config: option 'device' on line 13 was not recognized
+May 30 22:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 22:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 22:14 : client: [0] opened from 127.0.0.1:50460
+May 30 22:14 : client: [1] opened from 127.0.0.1:50464
+May 30 22:14 : client: [1] closed
+May 30 22:14 : client: [2] opened from 127.0.0.1:50468
+May 30 22:14 : client: [2] closed
+May 30 22:14 : client: [3] opened from 127.0.0.1:50476
+May 30 22:14 : client: [3] closed
+May 30 22:15 : client: [4] opened from 127.0.0.1:50546
+May 30 22:15 : client: [4] closed
+May 30 22:18 : client: [5] opened from 127.0.0.1:50648
+May 30 22:18 : client: [5] closed
+May 30 22:22 : client: [6] opened from 127.0.0.1:50694
+May 30 22:22 : client: [6] closed
+May 30 22:57 : client: [7] opened from 127.0.0.1:51414
+May 30 22:57 : client: [7] closed
+May 30 22:57 : client: [8] opened from 127.0.0.1:51418
+May 30 22:57 : client: [8] closed
+Jun 01 03:51 : client: [9] opened from 127.0.0.1:32894
+Jun 01 03:51 : client: [10] opened from 127.0.0.1:32898
+Jun 01 03:51 : client: [10] closed
+Jun 01 03:51 : client: [9] closed
+Jun 01 03:51 : client: [11] opened from 127.0.0.1:32906
+Jun 01 03:51 : client: [12] opened from 127.0.0.1:32910
+Jun 01 03:51 : client: [12] closed
+Jun 01 03:51 : client: [11] closed
+Jun 01 15:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 15:42 : config: option 'device' on line 13 was not recognized
+Jun 01 15:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 15:42 : client: [0] opened from 127.0.0.1:34818
+Jun 01 16:02 : player: played "Indie/Banda Neira - Biru (Menampilkan Layur).mp3"
+Jun 01 16:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 16:03 : config: option 'device' on line 13 was not recognized
+Jun 01 16:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 16:03 : client: [0] opened from 127.0.0.1:51662
