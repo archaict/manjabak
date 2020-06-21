@@ -174,7 +174,7 @@ stty -ixon
 
 
 #VI MODE BASH
-set -o vi
+#set -o vi
 export VISUAL=vim
 export EDITOR="$VISUAL"
 

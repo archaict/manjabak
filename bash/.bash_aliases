@@ -160,3 +160,10 @@ alias arcpush='cd ~/archaict-archive && git add * && git commit -m "revision" &&
 
 #BASH
 alias ashes='source ~/.bashrc'
+
+
+#FLASH
+alias qmkflash='cd ~/qmk_firmware && sudo make niu_mini:archaict:flash'
+alias qmkf='cd ~/qmk_firmware/'
+alias qmkv='vim ~/qmk_firmware/keyboards/niu_mini/keymaps/archaict/keymap.c'
+alias qmka='cd ~/qmk_firmware/keyboards/niu_mini/keymaps/archaict'

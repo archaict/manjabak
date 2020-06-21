@@ -8337,3 +8337,1059 @@ Jun 01 16:03 : exception: RTIOThread could not get realtime scheduling, continui
 Jun 01 16:03 : config: option 'device' on line 13 was not recognized
 Jun 01 16:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Jun 01 16:03 : client: [0] opened from 127.0.0.1:51662
+Jun 02 20:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 20:25 : config: option 'device' on line 13 was not recognized
+Jun 02 20:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 20:25 : client: [0] opened from 127.0.0.1:49742
+Jun 03 22:00 : client: [1] opened from 127.0.0.1:52596
+Jun 03 22:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 22:00 : client: [1] closed
+Jun 03 22:00 : client: [2] opened from 127.0.0.1:52600
+Jun 03 22:00 : client: [2] closed
+Jun 05 16:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 05 16:53 : config: option 'device' on line 13 was not recognized
+Jun 05 16:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 05 16:53 : client: [0] opened from 127.0.0.1:52586
+Jun 07 03:12 : player: played "Indie/Banda Neira - Biru (Menampilkan Layur).mp3"
+Jun 07 13:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 13:06 : config: option 'device' on line 13 was not recognized
+Jun 07 13:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 13:06 : client: [0] opened from 127.0.0.1:55592
+Jun 07 21:10 : client: [1] opened from 127.0.0.1:58142
+Jun 07 21:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 21:10 : client: [1] closed
+Jun 07 21:10 : client: [2] opened from 127.0.0.1:58146
+Jun 07 21:10 : client: [2] closed
+Jun 07 21:10 : client: [3] opened from 127.0.0.1:58150
+Jun 07 21:10 : client: [3] closed
+Jun 07 21:17 : player: played "Indie/Banda Neira - Sampai Jadi Debu (Menampilkan Gardika Gigih).mp3"
+Jun 07 21:18 : client: [4] opened from 127.0.0.1:58224
+Jun 07 21:18 : client: [4] closed
+Jun 07 21:18 : client: [5] opened from 127.0.0.1:58228
+Jun 07 21:18 : client: [5] closed
+Jun 07 21:18 : client: [6] opened from 127.0.0.1:58232
+Jun 07 21:18 : client: [6] closed
+Jun 07 21:18 : client: [7] opened from 127.0.0.1:58236
+Jun 07 21:18 : client: [7] closed
+Jun 07 21:18 : client: [8] opened from 127.0.0.1:58240
+Jun 07 21:18 : client: [8] closed
+Jun 07 21:18 : client: [9] opened from 127.0.0.1:58244
+Jun 07 21:18 : client: [9] closed
+Jun 07 21:18 : client: [10] opened from 127.0.0.1:58248
+Jun 07 21:18 : client: [10] closed
+Jun 07 21:18 : client: [11] opened from 127.0.0.1:58252
+Jun 07 21:18 : client: [11] closed
+Jun 07 21:18 : client: [12] opened from 127.0.0.1:58256
+Jun 07 21:18 : client: [12] closed
+Jun 07 21:18 : client: [13] opened from 127.0.0.1:58260
+Jun 07 21:18 : client: [13] closed
+Jun 07 21:18 : client: [14] opened from 127.0.0.1:58264
+Jun 07 21:18 : client: [14] closed
+Jun 07 21:18 : client: [15] opened from 127.0.0.1:58268
+Jun 07 21:18 : client: [15] closed
+Jun 07 21:20 : client: [16] opened from 127.0.0.1:58304
+Jun 07 21:20 : client: [16] closed
+Jun 07 22:34 : player: played "Japan/Aimer - Anatani Deawanakereba Kasetsutouka.mp3"
+Jun 07 22:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 22:34 : config: option 'device' on line 13 was not recognized
+Jun 07 22:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 22:34 : client: [0] opened from 127.0.0.1:59820
+Jun 08 01:34 : player: played "Japan/Aimer - Anatani Deawanakereba Kasetsutouka.mp3"
+Jun 08 01:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 01:40 : config: option 'device' on line 13 was not recognized
+Jun 08 01:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 01:40 : client: [0] opened from 127.0.0.1:43702
+Jun 08 01:44 : player: played "Japan/Aimer - Anatani Deawanakereba Kasetsutouka.mp3"
+Jun 08 01:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 01:45 : config: option 'device' on line 13 was not recognized
+Jun 08 01:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 01:45 : client: [0] opened from 127.0.0.1:44368
+Jun 08 18:15 : player: played "Japan/Aimer - Anatani Deawanakereba Kasetsutouka.mp3"
+Jun 08 19:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 19:51 : config: option 'device' on line 13 was not recognized
+Jun 08 19:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 19:51 : client: [0] opened from 127.0.0.1:43382
+Jun 09 01:06 : player: played "Japan/Aimer - Anatani Deawanakereba Kasetsutouka.mp3"
+Jun 09 01:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 01:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 01:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 01:52 : config: option 'device' on line 13 was not recognized
+Jun 09 01:52 : client: [0] opened from 127.0.0.1:41184
+Jun 09 02:52 : client: [0] closed
+Jun 09 02:52 : player: played "Japan/Aimer - Anatani Deawanakereba Kasetsutouka.mp3"
+Jun 09 11:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 11:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 11:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 11:26 : config: option 'device' on line 13 was not recognized
+Jun 09 11:26 : client: [0] opened from 127.0.0.1:49750
+Jun 09 12:06 : client: [1] opened from 127.0.0.1:50054
+Jun 09 12:06 : client: [1] closed
+Jun 09 12:06 : client: [2] opened from 127.0.0.1:50058
+Jun 09 12:06 : client: [2] closed
+Jun 09 12:06 : client: [3] opened from 127.0.0.1:50062
+Jun 09 12:06 : client: [3] closed
+Jun 09 12:06 : client: [4] opened from 127.0.0.1:50068
+Jun 09 12:06 : client: [4] closed
+Jun 09 12:06 : client: [5] opened from 127.0.0.1:50072
+Jun 09 12:06 : client: [5] closed
+Jun 09 12:06 : client: [6] opened from 127.0.0.1:50076
+Jun 09 12:06 : client: [6] closed
+Jun 09 12:06 : client: [7] opened from 127.0.0.1:50080
+Jun 09 12:06 : client: [7] closed
+Jun 09 12:09 : client: [8] opened from 127.0.0.1:50084
+Jun 09 12:09 : client: [8] closed
+Jun 09 12:09 : client: [9] opened from 127.0.0.1:50088
+Jun 09 12:09 : client: [9] closed
+Jun 09 12:09 : client: [10] opened from 127.0.0.1:50092
+Jun 09 12:09 : client: [10] closed
+Jun 09 12:14 : player: played "Japan/Aimer - Akane Sasu.mp3"
+Jun 09 12:20 : player: played "Japan/Aimer - Anatani Deawanakereba Kasetsutouka.mp3"
+Jun 09 12:26 : player: played "Japan/Aimer - Polaris.mp3"
+Jun 09 12:30 : player: played "Japan/Aimer - Insane Dream.mp3"
+Jun 09 12:35 : player: played "Japan/Aimer - Us.mp3"
+Jun 09 12:39 : client: [11] opened from 127.0.0.1:50274
+Jun 09 12:39 : client: [11] closed
+Jun 09 12:39 : client: [12] opened from 127.0.0.1:50278
+Jun 09 12:39 : client: [12] closed
+Jun 09 12:39 : client: [13] opened from 127.0.0.1:50282
+Jun 09 12:39 : client: [13] closed
+Jun 09 12:39 : client: [14] opened from 127.0.0.1:50286
+Jun 09 12:39 : client: [14] closed
+Jun 09 12:39 : client: [15] opened from 127.0.0.1:50290
+Jun 09 12:39 : client: [15] closed
+Jun 09 12:39 : client: [16] opened from 127.0.0.1:50294
+Jun 09 12:39 : client: [16] closed
+Jun 09 12:44 : player: played "Japan/SawanoHiroyuki[nZk]Aimer - S-ave.mp3"
+Jun 09 12:44 : client: [17] opened from 127.0.0.1:50304
+Jun 09 12:44 : client: [17] closed
+Jun 09 12:44 : client: [18] opened from 127.0.0.1:50308
+Jun 09 12:44 : client: [18] closed
+Jun 09 12:44 : client: [19] opened from 127.0.0.1:50312
+Jun 09 12:44 : client: [19] closed
+Jun 09 12:44 : client: [20] opened from 127.0.0.1:50316
+Jun 09 12:44 : client: [20] closed
+Jun 09 12:44 : client: [21] opened from 127.0.0.1:50320
+Jun 09 12:44 : client: [21] closed
+Jun 09 12:44 : client: [22] opened from 127.0.0.1:50324
+Jun 09 12:44 : client: [22] closed
+Jun 09 12:44 : client: [23] opened from 127.0.0.1:50328
+Jun 09 12:44 : client: [23] closed
+Jun 09 12:49 : player: played "Japan/Aimer - Kimi Wo Matsu.mp3"
+Jun 09 12:52 : client: [24] opened from 127.0.0.1:50480
+Jun 09 12:52 : client: [25] opened from 127.0.0.1:50484
+Jun 09 12:52 : client: [25] closed
+Jun 09 12:53 : player: played "Japan/Aimer - Noir Noir.mp3"
+Jun 09 12:53 : client: [26] opened from 127.0.0.1:50488
+Jun 09 12:53 : client: [26] closed
+Jun 09 12:57 : player: played "Japan/Aimer - Refar.mp3"
+Jun 09 12:57 : client: [27] opened from 127.0.0.1:50508
+Jun 09 12:57 : client: [27] closed
+Jun 09 12:59 : client: [28] opened from 127.0.0.1:50514
+Jun 09 12:59 : client: [28] closed
+Jun 09 12:59 : client: [29] opened from 127.0.0.1:50518
+Jun 09 12:59 : client: [29] closed
+Jun 09 12:59 : client: [30] opened from 127.0.0.1:50522
+Jun 09 12:59 : client: [30] closed
+Jun 09 12:59 : client: [31] opened from 127.0.0.1:50526
+Jun 09 12:59 : client: [31] closed
+Jun 09 12:59 : client: [32] opened from 127.0.0.1:50530
+Jun 09 12:59 : client: [32] closed
+Jun 09 12:59 : client: [33] opened from 127.0.0.1:50534
+Jun 09 12:59 : client: [33] closed
+Jun 09 13:02 : player: played "Japan/Aimer - Last Stardust.mp3"
+Jun 09 13:02 : client: [34] opened from 127.0.0.1:50548
+Jun 09 13:02 : client: [34] closed
+Jun 09 13:06 : player: played "Japan/Aimer - Brave Shine.mp3"
+Jun 09 13:06 : client: [35] opened from 127.0.0.1:50560
+Jun 09 13:06 : client: [35] closed
+Jun 09 13:10 : player: played "Japan/Aimer - Ninelie (with chelly).mp3"
+Jun 09 13:10 : client: [36] opened from 127.0.0.1:50662
+Jun 09 13:10 : client: [36] closed
+Jun 09 13:16 : player: played "Japan/Aimer - Choucho Musubi.mp3"
+Jun 09 13:16 : client: [37] opened from 127.0.0.1:50670
+Jun 09 13:16 : client: [37] closed
+Jun 09 13:19 : player: played "Japan/Aimer - Kataomoi.mp3"
+Jun 09 13:19 : client: [38] opened from 127.0.0.1:50680
+Jun 09 13:19 : client: [38] closed
+Jun 09 13:24 : player: played "Japan/Aimer - Kowairo.mp3"
+Jun 09 13:24 : client: [39] opened from 127.0.0.1:50692
+Jun 09 13:24 : client: [39] closed
+Jun 09 13:28 : player: played "Japan/Aimer - Closer.mp3"
+Jun 09 13:28 : client: [40] opened from 127.0.0.1:50700
+Jun 09 13:28 : client: [40] closed
+Jun 09 13:32 : player: played "Japan/EGOIST - Eien.mp3"
+Jun 09 13:32 : client: [41] opened from 127.0.0.1:50730
+Jun 09 13:32 : client: [41] closed
+Jun 09 13:36 : player: played "Japan/EGOIST - Eiyu Unmei No Uta - Instrumental.mp3"
+Jun 09 13:36 : client: [42] opened from 127.0.0.1:50742
+Jun 09 13:36 : client: [42] closed
+Jun 09 13:38 : player: played "Japan/EGOIST - Eien - Instrumental.mp3"
+Jun 09 17:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 17:47 : config: option 'device' on line 13 was not recognized
+Jun 09 17:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 17:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 17:47 : client: [0] opened from 127.0.0.1:50476
+Jun 09 17:47 : client: [1] opened from 127.0.0.1:50480
+Jun 09 17:47 : client: [1] closed
+Jun 09 17:47 : client: [2] opened from 127.0.0.1:50484
+Jun 09 17:47 : client: [2] closed
+Jun 09 17:50 : player: played "Japan/EGOIST - Eien - Instrumental.mp3"
+Jun 09 17:52 : client: [3] opened from 127.0.0.1:50500
+Jun 09 17:52 : client: [3] closed
+Jun 09 17:57 : player: played "Japan/LiSA - Shirushi.mp3"
+Jun 09 18:01 : player: played "Japan/Migiwa Takezawa - I Like.mp3"
+Jun 09 18:06 : player: played "Japan/Goose house - Hikarunara.mp3"
+Jun 09 18:11 : player: played "Japan/supercell - My Dearest.mp3"
+Jun 09 18:13 : client: [4] opened from 127.0.0.1:50664
+Jun 09 18:13 : client: [4] closed
+Jun 09 18:34 : client: [5] opened from 127.0.0.1:51194
+Jun 09 18:34 : client: [5] closed
+Jun 09 18:37 : player: played "Japan/Luna Haruna - Overfly.mp3"
+Jun 09 18:41 : player: played "Japan/Luna Haruna - Ai Wo Utae.mp3"
+Jun 09 18:45 : player: played "Japan/Aimer - Hoshikuzu Venus.mp3"
+Jun 09 18:50 : player: played "Japan/supercell - Perfect Day.mp3"
+Jun 09 18:55 : player: played "Japan/SawanoHiroyuki[nZk]Aimer - Remind You.mp3"
+Jun 09 18:55 : client: [6] opened from 127.0.0.1:51230
+Jun 09 18:55 : client: [6] closed
+Jun 09 19:00 : player: played "Japan/DAOKO - 打上花火.mp3"
+Jun 09 19:04 : player: played "Japan/DAOKO - Forever Friends.mp3"
+Jun 09 19:09 : player: played "Japan/Ikimonogakari - Kira Kira Train.mp3"
+Jun 09 19:14 : player: played "Japan/Ikimonogakari - Hanabi.mp3"
+Jun 09 19:16 : client: [7] opened from 127.0.0.1:51270
+Jun 09 19:16 : client: [7] closed
+Jun 09 20:59 : client: [8] opened from 127.0.0.1:52516
+Jun 09 20:59 : client: [8] closed
+Jun 09 20:59 : client: [9] opened from 127.0.0.1:52520
+Jun 09 20:59 : client: [9] closed
+Jun 09 20:59 : client: [10] opened from 127.0.0.1:52524
+Jun 09 20:59 : client: [10] closed
+Jun 09 20:59 : client: [11] opened from 127.0.0.1:52528
+Jun 09 20:59 : client: [12] opened from 127.0.0.1:52532
+Jun 09 20:59 : client: [11] closed
+Jun 09 20:59 : client: [12] closed
+Jun 09 20:59 : client: [13] opened from 127.0.0.1:52536
+Jun 09 20:59 : client: [13] closed
+Jun 09 20:59 : client: [14] opened from 127.0.0.1:52540
+Jun 09 20:59 : client: [14] closed
+Jun 09 20:59 : client: [15] opened from 127.0.0.1:52544
+Jun 09 20:59 : client: [15] closed
+Jun 09 21:00 : client: [16] opened from 127.0.0.1:52550
+Jun 09 21:00 : client: [16] closed
+Jun 09 21:00 : client: [17] opened from 127.0.0.1:52554
+Jun 09 21:00 : client: [17] closed
+Jun 09 21:08 : client: [18] opened from 127.0.0.1:52738
+Jun 09 21:08 : client: [18] closed
+Jun 09 21:08 : client: [19] opened from 127.0.0.1:52742
+Jun 09 21:08 : client: [19] closed
+Jun 09 22:31 : client: [20] opened from 127.0.0.1:53242
+Jun 09 22:31 : client: [21] opened from 127.0.0.1:53246
+Jun 09 22:31 : client: [21] closed
+Jun 09 22:32 : player: played "Japan/supercell - Perfect Day.mp3"
+Jun 10 02:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 02:53 : config: option 'device' on line 13 was not recognized
+Jun 10 02:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 02:53 : client: [0] opened from 127.0.0.1:46368
+Jun 10 03:52 : client: [0] closed
+Jun 10 03:52 : player: played "Japan/supercell - Perfect Day.mp3"
+Jun 10 04:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 04:39 : config: option 'device' on line 13 was not recognized
+Jun 10 04:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 04:39 : client: [0] opened from 127.0.0.1:41812
+Jun 10 05:44 : client: [0] closed
+Jun 10 05:44 : player: played "Japan/supercell - Perfect Day.mp3"
+Jun 10 09:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 09:38 : config: option 'device' on line 13 was not recognized
+Jun 10 09:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 09:38 : client: [0] opened from 127.0.0.1:59404
+Jun 10 11:41 : client: [1] opened from 127.0.0.1:32840
+Jun 10 11:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 11:41 : client: [1] closed
+Jun 10 11:41 : client: [2] opened from 127.0.0.1:32848
+Jun 10 11:41 : client: [2] closed
+Jun 10 11:41 : client: [3] opened from 127.0.0.1:32852
+Jun 10 11:41 : client: [3] closed
+Jun 10 11:41 : client: [4] opened from 127.0.0.1:32866
+Jun 10 11:41 : client: [4] closed
+Jun 10 11:41 : client: [5] opened from 127.0.0.1:32870
+Jun 10 11:41 : client: [5] closed
+Jun 10 11:41 : client: [6] opened from 127.0.0.1:32874
+Jun 10 11:41 : client: [6] closed
+Jun 10 11:42 : client: [7] opened from 127.0.0.1:32878
+Jun 10 11:42 : client: [7] closed
+Jun 10 11:42 : client: [8] opened from 127.0.0.1:32882
+Jun 10 11:42 : client: [8] closed
+Jun 10 11:42 : client: [9] opened from 127.0.0.1:32886
+Jun 10 11:42 : client: [9] closed
+Jun 10 11:42 : client: [10] opened from 127.0.0.1:32890
+Jun 10 11:42 : client: [10] closed
+Jun 10 11:46 : player: played "Japan/DAOKO - ステップアップLOVE.mp3"
+Jun 10 11:48 : client: [11] opened from 127.0.0.1:32942
+Jun 10 11:48 : client: [11] closed
+Jun 10 11:48 : client: [12] opened from 127.0.0.1:32946
+Jun 10 11:48 : client: [12] closed
+Jun 10 11:48 : client: [13] opened from 127.0.0.1:32950
+Jun 10 11:48 : client: [13] closed
+Jun 10 11:53 : player: played "Japan/Ikimonogakari - Hanabi.mp3"
+Jun 10 11:57 : player: played "Japan/Ikimonogakari - Ryusei Miracle.mp3"
+Jun 10 12:00 : player: played "Japan/Ikimonogakari - Seisyunno Tobira.mp3"
+Jun 10 12:06 : player: played "Japan/Ikimonogakari - Natsu Koi.mp3"
+Jun 10 12:10 : player: played "Japan/LiSA - 雨上がりの空とキミ.mp3"
+Jun 10 12:13 : player: played "Korean/Younha - Rescue.mp3"
+Jun 10 12:17 : player: played "Korean/Younha - Hello.mp3"
+Jun 10 12:20 : player: played "Korean/Younha - Parade.mp3"
+Jun 10 12:24 : player: played "Korean/Younha - Like Nothing.mp3"
+Jun 10 12:28 : player: played "Korean/Younha - Airplane mode.mp3"
+Jun 10 12:32 : player: played "Korean/Younha - Foresight dream.mp3"
+Jun 10 12:35 : player: played "Korean/Younha - FEEL.mp3"
+Jun 10 12:38 : player: played "Korean/Younha - Drive.mp3"
+Jun 10 12:41 : player: played "Korean/Younha - Go.mp3"
+Jun 10 12:45 : player: played "Korean/Younha - No answer.mp3"
+Jun 10 12:48 : player: played "Korean/Younha - Propose.mp3"
+Jun 10 12:52 : player: played "Outer/Steve Tyrell - Sunday Kind of Love.mp3"
+Jun 10 12:56 : player: played "Outer/Karen Souza - My One and Only Love.mp3"
+Jun 10 13:01 : player: played "Outer/Oren Lavie - Did You Really Say No.mp3"
+Jun 10 13:05 : player: played "Outer/Oren Lavie - Breathing Fine.mp3"
+Jun 10 13:09 : player: played "Outer/Oren Lavie - Second Hand Lovers.mp3"
+Jun 10 13:13 : player: played "Outer/Oren Lavie - Look At Her Go.mp3"
+Jun 10 13:15 : player: played "Outer/Oren Lavie - Sonata Sentimental 1 (You've Changed).mp3"
+Jun 10 13:19 : client: [14] opened from 127.0.0.1:33318
+Jun 10 13:19 : client: [14] closed
+Jun 10 13:26 : client: [15] opened from 127.0.0.1:33352
+Jun 10 13:26 : client: [15] closed
+Jun 10 13:26 : client: [16] opened from 127.0.0.1:33356
+Jun 10 13:26 : client: [16] closed
+Jun 10 13:26 : client: [17] opened from 127.0.0.1:33360
+Jun 10 13:26 : client: [17] closed
+Jun 10 13:26 : client: [18] opened from 127.0.0.1:33364
+Jun 10 13:26 : client: [18] closed
+Jun 10 13:26 : client: [19] opened from 127.0.0.1:33368
+Jun 10 13:26 : client: [19] closed
+Jun 10 13:26 : client: [20] opened from 127.0.0.1:33372
+Jun 10 13:26 : client: [20] closed
+Jun 10 22:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 22:20 : config: option 'device' on line 13 was not recognized
+Jun 10 22:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 22:20 : client: [0] opened from 127.0.0.1:33972
+Jun 10 22:25 : client: [1] opened from 127.0.0.1:34138
+Jun 10 22:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 22:25 : client: [1] closed
+Jun 10 22:25 : client: [2] opened from 127.0.0.1:34142
+Jun 10 22:25 : client: [2] closed
+Jun 11 12:08 : client: [3] opened from 127.0.0.1:40376
+Jun 11 12:08 : client: [3] closed
+Jun 11 12:08 : client: [4] opened from 127.0.0.1:40380
+Jun 11 12:08 : client: [4] closed
+Jun 11 12:08 : client: [5] opened from 127.0.0.1:40384
+Jun 11 12:08 : client: [5] closed
+Jun 11 12:08 : client: [6] opened from 127.0.0.1:40388
+Jun 11 12:08 : client: [6] closed
+Jun 11 12:11 : player: played "Outer/Oren Lavie - Sonata Sentimetal 2 (Bedroom Crimes).mp3"
+Jun 11 12:15 : player: played "Outer/Oren Lavie - Something Real (Did You feel It Too).mp3"
+Jun 11 12:19 : player: played "Outer/Oren Lavie - Autopsy Report.mp3"
+Jun 11 12:22 : player: played "Outer/Oren Lavie - Sonata Sentimental 3 (I Dream Of The Water Woman).mp3"
+Jun 11 12:27 : player: played "Outer/Oren Lavie - Note To Self.mp3"
+Jun 11 12:33 : player: played "Outer/Stacey Kent - The Ice Hotel.mp3"
+Jun 11 12:36 : player: played "Outer/Stacey Kent - Landslide.mp3"
+Jun 11 12:40 : player: played "Outer/Stacey Kent - Ces petits riens.mp3"
+Jun 11 12:44 : player: played "Outer/Stacey Kent - I Wish I Could Go Travelling Again.mp3"
+Jun 11 12:48 : player: played "Outer/Stacey Kent - So Many Stars.mp3"
+Jun 11 12:52 : player: played "Outer/Stacey Kent - Samba Saravah.mp3"
+Jun 11 12:58 : player: played "Outer/Stacey Kent - Breakfast on the Morning Tram.mp3"
+Jun 11 13:02 : player: played "Outer/Stacey Kent - Never Let Me Go.mp3"
+Jun 11 13:02 : client: [7] opened from 127.0.0.1:41166
+Jun 11 13:02 : client: [7] closed
+Jun 11 13:05 : player: played "Outer/Stacey Kent - La Saison des pluies.mp3"
+Jun 11 13:10 : player: played "Outer/Stacey Kent - What a Wonderful World.mp3"
+Jun 11 13:15 : player: played "Outer/Stacey Kent - The Ice Hotel - Live.mp3"
+Jun 11 13:19 : player: played "Outer/Ella Fitzgerald - My Romance.mp3"
+Jun 11 13:24 : player: played "Outer/Nicki Parrott - I Will Wait For You.mp3"
+Jun 11 13:29 : player: played "Outer/Beegie Adair - Thats My Desire.mp3"
+Jun 11 13:33 : client: [8] opened from 127.0.0.1:41760
+Jun 11 13:33 : client: [8] closed
+Jun 11 13:36 : client: [9] opened from 127.0.0.1:41862
+Jun 11 13:36 : client: [9] closed
+Jun 12 03:58 : player: played "Outer/Katharine McPhee - All the Way.mp3"
+Jun 12 15:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 12 15:44 : config: option 'device' on line 13 was not recognized
+Jun 12 15:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 12 15:44 : client: [0] opened from 127.0.0.1:55800
+Jun 12 19:22 : client: [1] opened from 127.0.0.1:56854
+Jun 12 19:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 12 19:22 : client: [1] closed
+Jun 12 19:22 : client: [2] opened from 127.0.0.1:56858
+Jun 12 19:22 : client: [2] closed
+Jun 12 20:50 : client: [3] opened from 127.0.0.1:57038
+Jun 12 20:50 : client: [3] closed
+Jun 12 20:50 : client: [4] opened from 127.0.0.1:57042
+Jun 12 20:50 : client: [4] closed
+Jun 12 20:50 : client: [5] opened from 127.0.0.1:57046
+Jun 12 20:50 : client: [5] closed
+Jun 12 20:50 : player: played "Outer/Katharine McPhee - All the Way.mp3"
+Jun 12 20:56 : player: played "Outer/Stacey Kent - Photograph.mp3"
+Jun 12 21:00 : player: played "Outer/Laura Fygi - La vie en rose.mp3"
+Jun 12 21:02 : player: played "Outer/Gregory Porter - L-O-V-E.mp3"
+Jun 12 21:08 : player: played "Outer/Anthony Strong - I Can't Give You Anything.mp3"
+Jun 12 21:13 : player: played "Outer/Nicole Henry - Moon River.mp3"
+Jun 12 21:17 : client: [6] opened from 127.0.0.1:57114
+Jun 12 21:17 : client: [6] closed
+Jun 12 21:17 : client: [7] opened from 127.0.0.1:57118
+Jun 12 21:17 : client: [7] closed
+Jun 12 21:17 : client: [8] opened from 127.0.0.1:57122
+Jun 12 21:17 : client: [8] closed
+Jun 12 21:22 : client: [9] opened from 127.0.0.1:57134
+Jun 12 21:22 : client: [9] closed
+Jun 12 21:22 : player: played "Outer/Gregory Porter - But Beautiful.mp3"
+Jun 12 21:26 : client: [10] opened from 127.0.0.1:57146
+Jun 12 21:26 : client: [10] closed
+Jun 12 21:26 : client: [11] opened from 127.0.0.1:57150
+Jun 12 21:26 : client: [11] closed
+Jun 12 21:26 : client: [12] opened from 127.0.0.1:57154
+Jun 12 21:26 : client: [12] closed
+Jun 12 21:26 : client: [13] opened from 127.0.0.1:57158
+Jun 12 21:26 : client: [13] closed
+Jun 12 21:26 : client: [14] opened from 127.0.0.1:57162
+Jun 12 21:26 : client: [15] opened from 127.0.0.1:57166
+Jun 12 21:26 : client: [14] closed
+Jun 12 21:26 : client: [15] closed
+Jun 12 21:26 : client: [16] opened from 127.0.0.1:57170
+Jun 12 21:26 : client: [16] closed
+Jun 12 21:26 : client: [17] opened from 127.0.0.1:57174
+Jun 12 21:26 : client: [18] opened from 127.0.0.1:57178
+Jun 12 21:26 : client: [17] closed
+Jun 12 21:26 : client: [18] closed
+Jun 12 21:26 : client: [19] opened from 127.0.0.1:57182
+Jun 12 21:26 : client: [19] closed
+Jun 12 21:26 : client: [20] opened from 127.0.0.1:57186
+Jun 12 21:26 : client: [21] opened from 127.0.0.1:57190
+Jun 12 21:26 : client: [20] closed
+Jun 12 21:26 : client: [21] closed
+Jun 12 21:26 : client: [22] opened from 127.0.0.1:57194
+Jun 12 21:26 : client: [22] closed
+Jun 12 21:26 : client: [23] opened from 127.0.0.1:57198
+Jun 12 21:26 : client: [23] closed
+Jun 12 21:26 : client: [24] opened from 127.0.0.1:57202
+Jun 12 21:26 : client: [25] opened from 127.0.0.1:57206
+Jun 12 21:26 : client: [26] opened from 127.0.0.1:57210
+Jun 12 21:26 : client: [27] opened from 127.0.0.1:57214
+Jun 12 21:26 : client: [24] closed
+Jun 12 21:26 : client: [28] opened from 127.0.0.1:57218
+Jun 12 21:26 : client: [29] opened from 127.0.0.1:57222
+Jun 12 21:26 : client: [25] closed
+Jun 12 21:26 : client: [26] closed
+Jun 12 21:26 : client: [30] opened from 127.0.0.1:57226
+Jun 12 21:26 : client: [27] closed
+Jun 12 21:26 : client: [28] closed
+Jun 12 21:26 : client: [29] closed
+Jun 12 21:26 : client: [30] closed
+Jun 12 21:26 : client: [31] opened from 127.0.0.1:57230
+Jun 12 21:26 : client: [32] opened from 127.0.0.1:57234
+Jun 12 21:26 : client: [33] opened from 127.0.0.1:57238
+Jun 12 21:26 : client: [34] opened from 127.0.0.1:57242
+Jun 12 21:26 : client: [31] closed
+Jun 12 21:26 : client: [35] opened from 127.0.0.1:57246
+Jun 12 21:26 : client: [36] opened from 127.0.0.1:57250
+Jun 12 21:26 : client: [32] closed
+Jun 12 21:26 : client: [37] opened from 127.0.0.1:57254
+Jun 12 21:26 : client: [33] closed
+Jun 12 21:26 : client: [38] opened from 127.0.0.1:57258
+Jun 12 21:26 : client: [34] closed
+Jun 12 21:26 : client: [39] opened from 127.0.0.1:57262
+Jun 12 21:26 : client: [35] closed
+Jun 12 21:26 : client: [40] opened from 127.0.0.1:57266
+Jun 12 21:26 : client: [36] closed
+Jun 12 21:26 : client: [41] opened from 127.0.0.1:57270
+Jun 12 21:26 : client: [37] closed
+Jun 12 21:26 : client: [38] closed
+Jun 12 21:26 : client: [39] closed
+Jun 12 21:26 : client: [40] closed
+Jun 12 21:26 : client: [42] opened from 127.0.0.1:57274
+Jun 12 21:26 : client: [41] closed
+Jun 12 21:26 : client: [42] closed
+Jun 12 21:26 : client: [43] opened from 127.0.0.1:57278
+Jun 12 21:26 : client: [43] closed
+Jun 12 21:26 : client: [44] opened from 127.0.0.1:57282
+Jun 12 21:26 : client: [44] closed
+Jun 12 21:26 : client: [45] opened from 127.0.0.1:57286
+Jun 12 21:26 : client: [45] closed
+Jun 12 21:26 : client: [46] opened from 127.0.0.1:57290
+Jun 12 21:26 : client: [46] closed
+Jun 12 21:26 : client: [47] opened from 127.0.0.1:57294
+Jun 12 21:26 : client: [48] opened from 127.0.0.1:57298
+Jun 12 21:26 : client: [47] closed
+Jun 12 21:26 : client: [48] closed
+Jun 12 21:26 : client: [49] opened from 127.0.0.1:57302
+Jun 12 21:26 : client: [49] closed
+Jun 12 21:26 : client: [50] opened from 127.0.0.1:57306
+Jun 12 21:26 : client: [50] closed
+Jun 12 21:26 : client: [51] opened from 127.0.0.1:57310
+Jun 12 21:26 : client: [52] opened from 127.0.0.1:57314
+Jun 12 21:26 : client: [51] closed
+Jun 12 21:26 : client: [52] closed
+Jun 12 21:26 : client: [53] opened from 127.0.0.1:57318
+Jun 12 21:26 : client: [54] opened from 127.0.0.1:57322
+Jun 12 21:26 : client: [53] closed
+Jun 12 21:26 : client: [54] closed
+Jun 12 21:26 : client: [55] opened from 127.0.0.1:57326
+Jun 12 21:26 : client: [55] closed
+Jun 12 21:26 : client: [56] opened from 127.0.0.1:57330
+Jun 12 21:26 : client: [56] closed
+Jun 12 21:30 : player: played "Indie/Kunto Aji - Mengunci Ingatan.mp3"
+Jun 12 21:31 : client: [57] opened from 127.0.0.1:57348
+Jun 12 21:31 : client: [57] closed
+Jun 12 21:35 : player: played "Indie/Yura Yunita - Pekat.mp3"
+Jun 12 21:36 : client: [58] opened from 127.0.0.1:57360
+Jun 12 21:36 : client: [58] closed
+Jun 12 21:36 : client: [59] opened from 127.0.0.1:57364
+Jun 12 21:36 : client: [59] closed
+Jun 12 21:36 : client: [60] opened from 127.0.0.1:57368
+Jun 12 21:36 : client: [61] opened from 127.0.0.1:57372
+Jun 12 21:36 : client: [60] closed
+Jun 12 21:36 : client: [61] closed
+Jun 12 21:36 : client: [62] opened from 127.0.0.1:57376
+Jun 12 21:36 : client: [62] closed
+Jun 12 21:36 : client: [63] opened from 127.0.0.1:57380
+Jun 12 21:36 : client: [63] closed
+Jun 12 21:36 : client: [64] opened from 127.0.0.1:57384
+Jun 12 21:36 : client: [65] opened from 127.0.0.1:57388
+Jun 12 21:36 : client: [64] closed
+Jun 12 21:36 : client: [65] closed
+Jun 12 21:36 : client: [66] opened from 127.0.0.1:57392
+Jun 12 21:36 : client: [66] closed
+Jun 12 21:36 : client: [67] opened from 127.0.0.1:57396
+Jun 12 21:36 : client: [67] closed
+Jun 12 21:36 : client: [68] opened from 127.0.0.1:57400
+Jun 12 21:36 : client: [68] closed
+Jun 12 21:36 : client: [69] opened from 127.0.0.1:57404
+Jun 12 21:36 : client: [69] closed
+Jun 12 21:36 : client: [70] opened from 127.0.0.1:57408
+Jun 12 21:36 : client: [70] closed
+Jun 12 21:41 : player: played "Indie/Vira Talisa - Primavera.mp3"
+Jun 12 21:42 : client: [71] opened from 127.0.0.1:57546
+Jun 12 21:42 : client: [71] closed
+Jun 12 21:42 : client: [72] opened from 127.0.0.1:57550
+Jun 12 21:42 : client: [72] closed
+Jun 12 21:42 : client: [73] opened from 127.0.0.1:57554
+Jun 12 21:42 : client: [73] closed
+Jun 12 21:42 : client: [74] opened from 127.0.0.1:57558
+Jun 12 21:42 : client: [74] closed
+Jun 12 21:42 : client: [75] opened from 127.0.0.1:57562
+Jun 12 21:42 : client: [75] closed
+Jun 13 12:42 : client: [76] opened from 127.0.0.1:58150
+Jun 13 12:42 : client: [77] opened from 127.0.0.1:58154
+Jun 13 12:42 : client: [77] closed
+Jun 13 13:01 : client: [76] closed
+Jun 13 14:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 13 14:12 : config: option 'device' on line 13 was not recognized
+Jun 13 14:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 13 14:12 : client: [0] opened from 127.0.0.1:58454
+Jun 13 14:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 13 14:13 : config: option 'device' on line 13 was not recognized
+Jun 13 14:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 13 14:13 : client: [0] opened from 127.0.0.1:34716
+Jun 13 14:13 : client: [1] opened from 127.0.0.1:34722
+Jun 13 14:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 13 14:13 : client: [1] closed
+Jun 13 14:13 : client: [2] opened from 127.0.0.1:34728
+Jun 13 14:13 : client: [2] closed
+Jun 13 14:18 : player: played "Indie/Vira Talisa - Primavera.mp3"
+Jun 13 14:22 : player: played "Indie/Vira Talisa - Janji Wibawa.mp3"
+Jun 13 14:27 : player: played "Indie/Vira Talisa - Through the Shades of Paradise.mp3"
+Jun 13 14:32 : player: played "Indie/Vira Talisa - He's Got Me Singing Again.mp3"
+Jun 13 14:36 : player: played "Indie/Vira Talisa - Bunga.mp3"
+Jun 13 14:39 : player: played "Indie/Vira Talisa - Down in Vieux Cannes - Remastered.mp3"
+Jun 13 14:43 : player: played "Indie/Vira Talisa - For the Time Being.mp3"
+Jun 13 14:48 : player: played "Indie/Vira Talisa - Matahari.mp3"
+Jun 13 14:53 : player: played "Indie/Alya Zurayya - Ruang Tanpa Rencana.mp3"
+Jun 13 14:53 : client: [3] opened from 127.0.0.1:34876
+Jun 13 14:53 : client: [3] closed
+Jun 13 14:53 : client: [4] opened from 127.0.0.1:34880
+Jun 13 14:53 : client: [4] closed
+Jun 13 14:53 : client: [5] opened from 127.0.0.1:34884
+Jun 13 14:53 : client: [5] closed
+Jun 13 14:53 : client: [6] opened from 127.0.0.1:34888
+Jun 13 14:53 : client: [6] closed
+Jun 13 14:53 : client: [7] opened from 127.0.0.1:34892
+Jun 13 14:53 : client: [8] opened from 127.0.0.1:34896
+Jun 13 14:53 : client: [7] closed
+Jun 13 14:53 : client: [8] closed
+Jun 13 14:53 : client: [9] opened from 127.0.0.1:34900
+Jun 13 14:53 : client: [9] closed
+Jun 13 14:53 : client: [10] opened from 127.0.0.1:34904
+Jun 13 14:53 : client: [10] closed
+Jun 13 14:53 : client: [11] opened from 127.0.0.1:34908
+Jun 13 14:53 : client: [11] closed
+Jun 13 14:57 : player: played "Indie/The Extralarge - Sayangnya.mp3"
+Jun 13 15:01 : player: played "Indie/Daramuda - Selamat Tinggal.mp3"
+Jun 13 15:04 : player: played "Indie/Vira Talisa - Selimut Kota.mp3"
+Jun 13 15:09 : player: played "Indie/Maliq  d'Essentials - Senja Teduh Pelita.mp3"
+Jun 13 15:09 : player: played "Indie/Danilla - Penutupan.mp3"
+Jun 13 15:13 : player: played "Indie/Danilla - Ada Di Sana.mp3"
+Jun 13 15:18 : player: played "Indie/Danilla - Senja Di Ambang Pilu.mp3"
+Jun 13 15:19 : client: [12] opened from 127.0.0.1:34944
+Jun 13 15:19 : client: [12] closed
+Jun 13 16:27 : client: [13] opened from 127.0.0.1:35020
+Jun 13 16:27 : client: [13] closed
+Jun 13 16:29 : player: played "Indie/Danilla - Buaian.mp3"
+Jun 13 16:33 : player: played "Indie/Danilla - Reste Avec Moi.mp3"
+Jun 13 16:37 : player: played "Indie/Danilla - Wahai Kau.mp3"
+Jun 13 16:41 : player: played "Indie/Danilla - Terpaut Oleh Waktu.mp3"
+Jun 13 16:46 : player: played "Indie/Danilla - Oh No (Trembling Theory).mp3"
+Jun 13 16:48 : client: [14] opened from 127.0.0.1:35138
+Jun 13 16:48 : client: [14] closed
+Jun 13 16:51 : player: played "Indie/Danilla - Berdistraksi.mp3"
+Jun 13 16:56 : player: played "Indie/Danilla - Bilur.mp3"
+Jun 13 16:56 : player: played "Indie/Danilla - Pendahuluan.mp3"
+Jun 13 16:57 : client: [15] opened from 127.0.0.1:35148
+Jun 13 16:57 : client: [15] closed
+Jun 13 17:01 : player: played "Indie/White Shoes  The Couples Company - Kisah Dari Selatan Jakarta.mp3"
+Jun 13 17:06 : player: played "Indie/Banda Neira - Matahari Pagi.mp3"
+Jun 13 17:11 : player: played "Indie/Banda Neira - Sebagai Kawan (Menampilkan Jeremia Kimosabe).mp3"
+Jun 13 17:17 : player: played "Indie/Banda Neira - Pangeran Kecil.mp3"
+Jun 13 17:24 : client: [16] opened from 127.0.0.1:35190
+Jun 13 17:24 : client: [16] closed
+Jun 13 17:28 : player: played "Indie/Banda Neira - Utarakan.mp3"
+Jun 13 17:33 : player: played "Indie/Banda Neira - Biru (Menampilkan Layur).mp3"
+Jun 13 17:40 : player: played "Indie/Banda Neira - Bunga.mp3"
+Jun 13 17:47 : player: played "Indie/Banda Neira - Sampai Jadi Debu (Menampilkan Gardika Gigih).mp3"
+Jun 13 17:53 : player: played "Indie/Banda Neira - Langit Dan Laut.mp3"
+Jun 13 17:58 : player: played "Indie/Banda Neira - Re Langit Dan Laut.mp3"
+Jun 13 18:04 : player: played "Indie/Banda Neira - Mewangi.mp3"
+Jun 13 18:09 : client: [17] opened from 127.0.0.1:35402
+Jun 13 18:09 : client: [17] closed
+Jun 13 18:30 : client: [18] opened from 127.0.0.1:35436
+Jun 13 18:30 : client: [18] closed
+Jun 13 18:30 : client: [19] opened from 127.0.0.1:35440
+Jun 13 18:30 : client: [19] closed
+Jun 13 18:30 : client: [20] opened from 127.0.0.1:35444
+Jun 13 18:30 : client: [20] closed
+Jun 13 18:30 : client: [21] opened from 127.0.0.1:35448
+Jun 13 18:30 : client: [21] closed
+Jun 13 18:30 : client: [22] opened from 127.0.0.1:35452
+Jun 13 18:30 : client: [22] closed
+Jun 13 18:30 : client: [23] opened from 127.0.0.1:35456
+Jun 13 18:30 : client: [23] closed
+Jun 13 18:30 : client: [24] opened from 127.0.0.1:35460
+Jun 13 18:30 : client: [24] closed
+Jun 13 18:30 : client: [25] opened from 127.0.0.1:35464
+Jun 13 18:30 : client: [25] closed
+Jun 13 18:30 : client: [26] opened from 127.0.0.1:35468
+Jun 13 18:30 : client: [26] closed
+Jun 13 18:30 : client: [27] opened from 127.0.0.1:35472
+Jun 13 18:30 : client: [27] closed
+Jun 13 18:35 : player: played "Japan/SawanoHiroyuki[nZk]Aimer - S-ave.mp3"
+Jun 13 18:51 : player: played "Japan/Luna Haruna - Dessert.mp3"
+Jun 13 18:56 : player: played "Japan/Luna Haruna - Yoru No Niji Wo Koete.mp3"
+Jun 13 18:58 : player: played "Japan/Aimer - Moon River Prologue.mp3"
+Jun 13 19:02 : player: played "Japan/Aimer - Kimi Wo Matsu.mp3"
+Jun 13 19:06 : player: played "Japan/Aimer - Noir Noir.mp3"
+Jun 13 19:10 : player: played "Japan/Aimer - Refar.mp3"
+Jun 13 19:14 : player: played "Japan/Aimer - Brave Shine.mp3"
+Jun 13 19:18 : player: played "Japan/Aimer - Ninelie (with chelly).mp3"
+Jun 13 19:23 : player: played "Japan/Aimer - Choucho Musubi.mp3"
+Jun 13 19:28 : client: [28] opened from 127.0.0.1:35964
+Jun 13 19:28 : client: [28] closed
+Jun 13 19:28 : client: [29] opened from 127.0.0.1:35968
+Jun 13 19:28 : client: [29] closed
+Jun 14 23:04 : player: played "Japan/Aimer - Closer.mp3"
+Jun 15 03:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 03:12 : config: option 'device' on line 13 was not recognized
+Jun 15 03:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 03:12 : client: [0] opened from 127.0.0.1:60946
+Jun 15 15:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 15:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 15:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 15:41 : config: option 'device' on line 13 was not recognized
+Jun 15 15:41 : client: [0] opened from 127.0.0.1:33200
+Jun 15 15:54 : client: [1] opened from 127.0.0.1:33350
+Jun 15 15:54 : client: [2] opened from 127.0.0.1:33354
+Jun 15 15:54 : client: [2] closed
+Jun 15 16:01 : client: [1] closed
+Jun 15 16:02 : client: [3] opened from 127.0.0.1:33370
+Jun 15 16:02 : client: [3] closed
+Jun 15 16:05 : client: [4] opened from 127.0.0.1:33402
+Jun 15 16:05 : client: [4] closed
+Jun 15 16:05 : client: [5] opened from 127.0.0.1:33404
+Jun 15 16:05 : client: [5] closed
+Jun 15 16:05 : client: [6] opened from 127.0.0.1:33406
+Jun 15 16:05 : client: [6] closed
+Jun 15 16:05 : client: [7] opened from 127.0.0.1:33408
+Jun 15 16:05 : client: [7] closed
+Jun 15 16:08 : client: [8] opened from 127.0.0.1:33414
+Jun 15 16:08 : client: [8] closed
+Jun 15 23:15 : client: [9] opened from 127.0.0.1:34600
+Jun 15 23:15 : client: [9] closed
+Jun 15 23:15 : client: [10] opened from 127.0.0.1:34604
+Jun 15 23:15 : client: [10] closed
+Jun 15 23:42 : player: played "Japan/EGOIST - Eiyu Unmei No Uta - Instrumental.mp3"
+Jun 16 02:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 02:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 02:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 02:11 : config: option 'device' on line 13 was not recognized
+Jun 16 02:11 : client: [0] opened from 127.0.0.1:40514
+Jun 16 05:19 : player: played "Japan/EGOIST - Eiyu Unmei No Uta - Instrumental.mp3"
+Jun 16 12:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 12:18 : config: option 'device' on line 13 was not recognized
+Jun 16 12:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 12:18 : client: [0] opened from 127.0.0.1:43710
+Jun 16 15:20 : player: played "Japan/EGOIST - Eiyu Unmei No Uta - Instrumental.mp3"
+Jun 16 15:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 15:20 : config: option 'device' on line 13 was not recognized
+Jun 16 15:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 15:20 : client: [0] opened from 127.0.0.1:59876
+Jun 16 15:30 : client: [1] opened from 127.0.0.1:60210
+Jun 16 15:30 : client: [2] opened from 127.0.0.1:60214
+Jun 16 15:30 : client: [2] closed
+Jun 16 15:31 : client: [3] opened from 127.0.0.1:60218
+Jun 16 15:31 : client: [4] opened from 127.0.0.1:60222
+Jun 16 15:31 : client: [4] closed
+Jun 16 15:31 : client: [3] closed
+Jun 16 15:31 : client: [1] closed
+Jun 16 15:37 : client: [0] closed
+Jun 16 15:37 : player: played "Japan/EGOIST - Eiyu Unmei No Uta - Instrumental.mp3"
+Jun 16 15:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 15:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 15:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 15:38 : config: option 'device' on line 13 was not recognized
+Jun 16 15:38 : client: [0] opened from 127.0.0.1:38248
+Jun 16 15:40 : client: [1] opened from 127.0.0.1:38294
+Jun 16 15:40 : client: [2] opened from 127.0.0.1:38298
+Jun 16 15:40 : client: [2] closed
+Jun 16 15:41 : client: [3] opened from 127.0.0.1:38338
+Jun 16 15:41 : client: [3] closed
+Jun 16 15:41 : client: [4] opened from 127.0.0.1:38372
+Jun 16 15:41 : client: [4] closed
+Jun 16 15:41 : client: [5] opened from 127.0.0.1:38376
+Jun 16 15:41 : client: [5] closed
+Jun 16 15:41 : client: [6] opened from 127.0.0.1:38380
+Jun 16 15:41 : client: [6] closed
+Jun 16 15:41 : client: [7] opened from 127.0.0.1:38384
+Jun 16 15:41 : client: [7] closed
+Jun 16 15:41 : client: [8] opened from 127.0.0.1:38388
+Jun 16 15:41 : client: [8] closed
+Jun 16 15:41 : client: [9] opened from 127.0.0.1:38392
+Jun 16 15:41 : client: [9] closed
+Jun 16 15:41 : client: [10] opened from 127.0.0.1:38396
+Jun 16 15:41 : client: [10] closed
+Jun 16 15:41 : client: [11] opened from 127.0.0.1:38400
+Jun 16 15:41 : client: [11] closed
+Jun 16 15:41 : client: [12] opened from 127.0.0.1:38404
+Jun 16 15:41 : client: [12] closed
+Jun 16 15:41 : client: [13] opened from 127.0.0.1:38408
+Jun 16 15:41 : client: [13] closed
+Jun 16 15:42 : client: [14] opened from 127.0.0.1:38416
+Jun 16 15:42 : client: [14] closed
+Jun 16 15:42 : client: [15] opened from 127.0.0.1:38420
+Jun 16 15:42 : client: [15] closed
+Jun 16 15:45 : client: [16] opened from 127.0.0.1:38430
+Jun 16 15:45 : client: [16] closed
+Jun 16 15:45 : client: [17] opened from 127.0.0.1:38434
+Jun 16 15:45 : client: [17] closed
+Jun 16 15:46 : player: played "Japan/LiSA - Shirushi.mp3"
+Jun 16 15:46 : client: [18] opened from 127.0.0.1:38604
+Jun 16 15:46 : client: [18] closed
+Jun 16 15:51 : player: played "Japan/Migiwa Takezawa - I Like.mp3"
+Jun 16 15:51 : client: [19] opened from 127.0.0.1:38652
+Jun 16 15:51 : client: [19] closed
+Jun 16 15:55 : player: played "Japan/Goose house - Hikarunara.mp3"
+Jun 16 15:55 : client: [20] opened from 127.0.0.1:38682
+Jun 16 15:55 : client: [20] closed
+Jun 16 15:56 : client: [21] opened from 127.0.0.1:38686
+Jun 16 15:56 : client: [22] opened from 127.0.0.1:38690
+Jun 16 15:56 : client: [22] closed
+Jun 16 15:56 : client: [23] opened from 127.0.0.1:38694
+Jun 16 15:56 : client: [23] closed
+Jun 16 16:19 : client: [21] closed
+Jun 16 16:19 : client: [1] closed
+Jun 16 17:01 : client: [24] opened from 127.0.0.1:39278
+Jun 16 17:01 : client: [24] closed
+Jun 16 17:04 : client: [25] opened from 127.0.0.1:39370
+Jun 16 17:04 : client: [26] opened from 127.0.0.1:39374
+Jun 16 17:04 : client: [26] closed
+Jun 16 17:05 : client: [27] opened from 127.0.0.1:39402
+Jun 16 17:05 : client: [27] closed
+Jun 16 17:05 : client: [28] opened from 127.0.0.1:39406
+Jun 16 17:05 : client: [28] closed
+Jun 16 17:06 : client: [29] opened from 127.0.0.1:39464
+Jun 16 17:06 : client: [29] closed
+Jun 16 19:47 : client: [25] closed
+Jun 16 23:02 : player: played "Japan/Aimer - Polaris.mp3"
+Jun 17 14:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 14:38 : config: option 'device' on line 13 was not recognized
+Jun 17 14:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 14:38 : client: [0] opened from 127.0.0.1:47846
+Jun 17 15:52 : client: [1] opened from 127.0.0.1:48630
+Jun 17 15:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 15:52 : client: [1] closed
+Jun 17 15:52 : client: [2] opened from 127.0.0.1:48634
+Jun 17 15:52 : client: [2] closed
+Jun 17 15:52 : client: [3] opened from 127.0.0.1:48638
+Jun 17 15:52 : client: [3] closed
+Jun 17 15:52 : client: [4] opened from 127.0.0.1:48642
+Jun 17 15:52 : client: [4] closed
+Jun 17 15:54 : client: [5] opened from 127.0.0.1:48648
+Jun 17 15:54 : client: [5] closed
+Jun 17 15:54 : client: [6] opened from 127.0.0.1:48652
+Jun 17 15:54 : client: [6] closed
+Jun 17 15:59 : player: played "Japan/Aimer - Insane Dream.mp3"
+Jun 17 16:00 : client: [7] opened from 127.0.0.1:48702
+Jun 17 16:00 : client: [7] closed
+Jun 17 16:04 : player: played "Japan/SawanoHiroyuki[nZk]Aimer - S-ave.mp3"
+Jun 17 16:08 : player: played "Japan/Luna Haruna - Dessert.mp3"
+Jun 17 16:13 : player: played "Japan/Luna Haruna - Yoru No Niji Wo Koete.mp3"
+Jun 17 16:15 : player: played "Japan/Aimer - Moon River Prologue.mp3"
+Jun 17 16:19 : player: played "Japan/Aimer - Kimi Wo Matsu.mp3"
+Jun 17 16:23 : player: played "Japan/Aimer - Noir Noir.mp3"
+Jun 17 16:27 : client: [8] opened from 127.0.0.1:48830
+Jun 17 16:27 : client: [8] closed
+Jun 17 16:27 : client: [9] opened from 127.0.0.1:48834
+Jun 17 16:27 : client: [9] closed
+Jun 17 16:31 : player: played "Japan/Aimer - Refar.mp3"
+Jun 17 16:35 : player: played "Japan/Aimer - Brave Shine.mp3"
+Jun 17 16:39 : player: played "Japan/Aimer - Ninelie (with chelly).mp3"
+Jun 17 16:44 : player: played "Japan/Aimer - Choucho Musubi.mp3"
+Jun 17 16:49 : player: played "Japan/Aimer - Kowairo.mp3"
+Jun 17 16:53 : player: played "Japan/Aimer - Closer.mp3"
+Jun 17 16:57 : player: played "Japan/EGOIST - Eien.mp3"
+Jun 17 17:01 : client: [10] opened from 127.0.0.1:49028
+Jun 17 17:01 : client: [11] opened from 127.0.0.1:49032
+Jun 17 17:01 : client: [11] closed
+Jun 17 17:01 : client: [10] closed
+Jun 17 17:01 : client: [12] opened from 127.0.0.1:49036
+Jun 17 17:01 : client: [12] closed
+Jun 17 17:01 : client: [13] opened from 127.0.0.1:49040
+Jun 17 17:01 : client: [13] closed
+Jun 17 17:01 : client: [14] opened from 127.0.0.1:49044
+Jun 17 17:01 : client: [14] closed
+Jun 17 17:01 : client: [15] opened from 127.0.0.1:49048
+Jun 17 17:01 : client: [15] closed
+Jun 17 17:01 : client: [16] opened from 127.0.0.1:49052
+Jun 17 17:01 : client: [16] closed
+Jun 17 17:01 : client: [17] opened from 127.0.0.1:49056
+Jun 17 17:01 : client: [17] closed
+Jun 17 17:01 : client: [18] opened from 127.0.0.1:49060
+Jun 17 17:01 : client: [18] closed
+Jun 17 17:06 : player: played "Japan/Migiwa Takezawa - I Like.mp3"
+Jun 17 17:10 : player: played "Japan/Goose house - Hikarunara.mp3"
+Jun 17 17:16 : player: played "Japan/supercell - My Dearest.mp3"
+Jun 17 17:20 : player: played "Japan/Luna Haruna - Overfly.mp3"
+Jun 17 17:24 : player: played "Japan/Luna Haruna - Ai Wo Utae.mp3"
+Jun 17 17:28 : player: played "Japan/Aimer - Hoshikuzu Venus.mp3"
+Jun 17 17:30 : client: [19] opened from 127.0.0.1:49094
+Jun 17 17:30 : client: [19] closed
+Jun 17 19:43 : client: [20] opened from 127.0.0.1:49358
+Jun 17 19:43 : client: [21] opened from 127.0.0.1:49362
+Jun 17 19:43 : client: [21] closed
+Jun 17 19:57 : client: [22] opened from 127.0.0.1:49394
+Jun 17 19:57 : client: [22] closed
+Jun 17 19:57 : client: [23] opened from 127.0.0.1:49398
+Jun 17 19:57 : client: [23] closed
+Jun 17 20:02 : player: played "Japan/SawanoHiroyuki[nZk]Aimer - Remind You.mp3"
+Jun 17 20:02 : client: [24] opened from 127.0.0.1:49410
+Jun 17 20:02 : client: [24] closed
+Jun 17 20:04 : client: [25] opened from 127.0.0.1:49416
+Jun 17 20:04 : client: [25] closed
+Jun 17 20:04 : client: [26] opened from 127.0.0.1:49420
+Jun 17 20:04 : client: [26] closed
+Jun 17 20:04 : client: [27] opened from 127.0.0.1:49424
+Jun 17 20:04 : client: [27] closed
+Jun 17 20:05 : client: [28] opened from 127.0.0.1:49428
+Jun 17 20:05 : client: [28] closed
+Jun 17 20:05 : client: [29] opened from 127.0.0.1:49432
+Jun 17 20:05 : client: [29] closed
+Jun 17 20:05 : client: [30] opened from 127.0.0.1:49436
+Jun 17 20:05 : client: [30] closed
+Jun 17 20:05 : client: [31] opened from 127.0.0.1:49440
+Jun 17 20:05 : client: [31] closed
+Jun 17 20:05 : client: [32] opened from 127.0.0.1:49444
+Jun 17 20:05 : client: [32] closed
+Jun 17 20:05 : player: played "Japan/DAOKO - 打上花火.mp3"
+Jun 17 20:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 20:06 : config: option 'device' on line 13 was not recognized
+Jun 17 20:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 20:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 20:06 : client: [0] opened from 127.0.0.1:47060
+Jun 17 20:09 : client: [1] opened from 127.0.0.1:47132
+Jun 17 20:09 : client: [1] closed
+Jun 17 20:15 : player: played "Japan/Ikimonogakari - Kira Kira Train.mp3"
+Jun 17 20:19 : player: played "Japan/Ikimonogakari - Hanabi.mp3"
+Jun 17 20:23 : player: played "Japan/Ikimonogakari - Ryusei Miracle.mp3"
+Jun 17 20:26 : player: played "Japan/Ikimonogakari - Seisyunno Tobira.mp3"
+Jun 17 20:28 : client: [2] opened from 127.0.0.1:47200
+Jun 17 20:28 : client: [2] closed
+Jun 17 20:28 : client: [3] opened from 127.0.0.1:47204
+Jun 17 20:28 : client: [3] closed
+Jun 17 20:32 : player: played "Korean/Younha - Rescue.mp3"
+Jun 17 20:35 : player: played "Korean/Younha - Parade.mp3"
+Jun 17 20:35 : client: [4] opened from 127.0.0.1:47216
+Jun 17 20:35 : client: [4] closed
+Jun 17 20:42 : client: [5] opened from 127.0.0.1:47454
+Jun 17 20:42 : client: [5] closed
+Jun 17 20:45 : player: played "Korean/Younha - Like Nothing.mp3"
+Jun 17 20:50 : player: played "Korean/Younha - Airplane mode.mp3"
+Jun 17 20:53 : player: played "Korean/Younha - FEEL.mp3"
+Jun 17 20:56 : player: played "Korean/Younha - Propose.mp3"
+Jun 17 21:00 : player: played "Outer/Steve Tyrell - Sunday Kind of Love.mp3"
+Jun 17 21:04 : player: played "Outer/Karen Souza - My One and Only Love.mp3"
+Jun 17 21:09 : player: played "Outer/Oren Lavie - Did You Really Say No.mp3"
+Jun 17 21:13 : player: played "Outer/Oren Lavie - Breathing Fine.mp3"
+Jun 17 21:17 : player: played "Outer/Oren Lavie - Second Hand Lovers.mp3"
+Jun 17 21:21 : player: played "Outer/Oren Lavie - Look At Her Go.mp3"
+Jun 17 21:23 : player: played "Outer/Oren Lavie - Sonata Sentimental 1 (You've Changed).mp3"
+Jun 17 21:28 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Jun 17 21:31 : player: played "Outer/Oren Lavie - Sonata Sentimetal 2 (Bedroom Crimes).mp3"
+Jun 17 21:32 : client: [6] opened from 127.0.0.1:47644
+Jun 17 21:32 : client: [7] opened from 127.0.0.1:47648
+Jun 17 21:32 : client: [7] closed
+Jun 17 21:32 : client: [8] opened from 127.0.0.1:47652
+Jun 17 21:32 : client: [9] opened from 127.0.0.1:47656
+Jun 17 21:32 : client: [9] closed
+Jun 17 21:32 : client: [10] opened from 127.0.0.1:47660
+Jun 17 21:32 : client: [11] opened from 127.0.0.1:47664
+Jun 17 21:32 : client: [11] closed
+Jun 17 21:32 : client: [12] opened from 127.0.0.1:47668
+Jun 17 21:32 : client: [13] opened from 127.0.0.1:47672
+Jun 17 21:32 : client: [13] closed
+Jun 17 21:33 : client: [12] closed
+Jun 17 21:33 : client: [10] closed
+Jun 17 21:33 : client: [8] closed
+Jun 17 21:33 : client: [14] opened from 127.0.0.1:47676
+Jun 17 21:33 : client: [15] opened from 127.0.0.1:47680
+Jun 17 21:33 : client: [15] closed
+Jun 17 21:33 : client: [14] closed
+Jun 17 21:35 : player: played "Outer/Oren Lavie - Something Real (Did You feel It Too).mp3"
+Jun 17 21:35 : client: [16] opened from 127.0.0.1:47688
+Jun 17 21:35 : client: [16] closed
+Jun 17 21:39 : player: played "Outer/Oren Lavie - Autopsy Report.mp3"
+Jun 17 21:39 : client: [17] opened from 127.0.0.1:47698
+Jun 17 21:39 : client: [17] closed
+Jun 17 21:42 : player: played "Outer/Oren Lavie - Sonata Sentimental 3 (I Dream Of The Water Woman).mp3"
+Jun 17 21:42 : client: [18] opened from 127.0.0.1:47710
+Jun 17 21:42 : client: [18] closed
+Jun 17 21:46 : client: [19] opened from 127.0.0.1:47720
+Jun 17 21:46 : client: [19] closed
+Jun 18 00:42 : client: [20] opened from 127.0.0.1:48252
+Jun 18 00:42 : client: [21] opened from 127.0.0.1:48256
+Jun 18 00:42 : client: [21] closed
+Jun 18 00:42 : client: [22] opened from 127.0.0.1:48260
+Jun 18 00:42 : client: [22] closed
+Jun 18 00:42 : client: [23] opened from 127.0.0.1:48264
+Jun 18 00:42 : client: [23] closed
+Jun 18 00:47 : player: played "Outer/Stacey Kent - The Ice Hotel.mp3"
+Jun 18 00:47 : client: [24] opened from 127.0.0.1:48272
+Jun 18 00:47 : client: [24] closed
+Jun 18 00:47 : client: [25] opened from 127.0.0.1:48276
+Jun 18 00:47 : client: [25] closed
+Jun 18 00:51 : player: played "Outer/Stacey Kent - Landslide.mp3"
+Jun 18 00:51 : client: [26] opened from 127.0.0.1:48462
+Jun 18 00:51 : client: [26] closed
+Jun 18 00:51 : client: [27] opened from 127.0.0.1:48466
+Jun 18 00:51 : client: [27] closed
+Jun 18 00:54 : player: played "Outer/Stacey Kent - Ces petits riens.mp3"
+Jun 18 00:54 : client: [28] opened from 127.0.0.1:48544
+Jun 18 00:54 : client: [28] closed
+Jun 18 00:54 : client: [29] opened from 127.0.0.1:48548
+Jun 18 00:54 : client: [29] closed
+Jun 18 00:59 : player: played "Outer/Stacey Kent - I Wish I Could Go Travelling Again.mp3"
+Jun 18 00:59 : client: [30] opened from 127.0.0.1:48582
+Jun 18 00:59 : client: [30] closed
+Jun 18 00:59 : client: [31] opened from 127.0.0.1:48586
+Jun 18 00:59 : client: [31] closed
+Jun 18 01:03 : player: played "Outer/Stacey Kent - So Many Stars.mp3"
+Jun 18 01:03 : client: [32] opened from 127.0.0.1:48596
+Jun 18 01:03 : client: [32] closed
+Jun 18 01:03 : client: [33] opened from 127.0.0.1:48600
+Jun 18 01:03 : client: [33] closed
+Jun 18 01:06 : player: played "Outer/Stacey Kent - Samba Saravah.mp3"
+Jun 18 01:06 : client: [34] opened from 127.0.0.1:48612
+Jun 18 01:06 : client: [35] opened from 127.0.0.1:48614
+Jun 18 01:06 : client: [34] closed
+Jun 18 01:06 : client: [35] closed
+Jun 18 01:12 : player: played "Outer/Stacey Kent - Breakfast on the Morning Tram.mp3"
+Jun 18 01:12 : client: [36] opened from 127.0.0.1:48634
+Jun 18 01:12 : client: [37] opened from 127.0.0.1:48636
+Jun 18 01:12 : client: [36] closed
+Jun 18 01:12 : client: [37] closed
+Jun 18 01:17 : player: played "Outer/Stacey Kent - Never Let Me Go.mp3"
+Jun 18 01:17 : client: [38] opened from 127.0.0.1:48646
+Jun 18 01:17 : client: [38] closed
+Jun 18 01:17 : client: [39] opened from 127.0.0.1:48650
+Jun 18 01:17 : client: [39] closed
+Jun 18 01:17 : client: [40] opened from 127.0.0.1:48654
+Jun 18 01:17 : client: [40] closed
+Jun 18 01:17 : client: [41] opened from 127.0.0.1:48658
+Jun 18 01:17 : client: [41] closed
+Jun 18 01:17 : client: [42] opened from 127.0.0.1:48662
+Jun 18 01:17 : client: [42] closed
+Jun 18 01:17 : client: [43] opened from 127.0.0.1:48672
+Jun 18 01:17 : client: [44] opened from 127.0.0.1:48670
+Jun 18 01:17 : client: [43] closed
+Jun 18 01:17 : client: [44] closed
+Jun 18 01:20 : player: played "Outer/Stacey Kent - La Saison des pluies.mp3"
+Jun 18 01:20 : client: [45] opened from 127.0.0.1:48686
+Jun 18 01:20 : client: [46] opened from 127.0.0.1:48684
+Jun 18 01:20 : client: [45] closed
+Jun 18 01:20 : client: [46] closed
+Jun 18 01:24 : player: played "Outer/Stacey Kent - What a Wonderful World.mp3"
+Jun 18 01:24 : client: [47] opened from 127.0.0.1:48698
+Jun 18 01:24 : client: [48] opened from 127.0.0.1:48700
+Jun 18 01:24 : client: [47] closed
+Jun 18 01:24 : client: [48] closed
+Jun 18 01:29 : player: played "Outer/Stacey Kent - The Ice Hotel - Live.mp3"
+Jun 18 01:29 : client: [49] opened from 127.0.0.1:48712
+Jun 18 01:29 : client: [50] opened from 127.0.0.1:48714
+Jun 18 01:29 : client: [49] closed
+Jun 18 01:29 : client: [50] closed
+Jun 18 01:33 : player: played "Outer/Ella Fitzgerald - My Romance.mp3"
+Jun 18 01:33 : client: [51] opened from 127.0.0.1:48724
+Jun 18 01:33 : client: [52] opened from 127.0.0.1:48726
+Jun 18 01:33 : client: [51] closed
+Jun 18 01:33 : client: [52] closed
+Jun 18 01:39 : player: played "Outer/Nicki Parrott - I Will Wait For You.mp3"
+Jun 18 01:39 : client: [53] opened from 127.0.0.1:48738
+Jun 18 01:39 : client: [54] opened from 127.0.0.1:48740
+Jun 18 01:39 : client: [53] closed
+Jun 18 01:39 : client: [54] closed
+Jun 18 01:44 : player: played "Outer/Beegie Adair - Thats My Desire.mp3"
+Jun 18 01:44 : client: [55] opened from 127.0.0.1:48752
+Jun 18 01:44 : client: [55] closed
+Jun 18 01:44 : client: [56] opened from 127.0.0.1:48756
+Jun 18 01:44 : client: [56] closed
+Jun 18 01:45 : client: [57] opened from 127.0.0.1:48826
+Jun 18 01:45 : client: [57] closed
+Jun 18 02:38 : player: played "Outer/Catherine Russell - Don't Take Your Love from Me.mp3"
+Jun 18 03:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 03:26 : config: option 'device' on line 13 was not recognized
+Jun 18 03:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 03:26 : client: [0] opened from 127.0.0.1:56566
+Jun 18 03:29 : client: [1] opened from 127.0.0.1:56728
+Jun 18 03:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 03:29 : client: [1] closed
+Jun 18 03:29 : client: [2] opened from 127.0.0.1:56732
+Jun 18 03:29 : client: [2] closed
+Jun 18 05:54 : player: played "Outer/Katharine McPhee - All the Way.mp3"
+Jun 18 13:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 13:43 : config: option 'device' on line 13 was not recognized
+Jun 18 13:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 13:43 : client: [0] opened from 127.0.0.1:47866
+Jun 18 20:42 : client: [0] closed
+Jun 18 20:42 : player: played "Outer/Katharine McPhee - All the Way.mp3"
+Jun 18 21:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 21:29 : config: option 'device' on line 13 was not recognized
+Jun 18 21:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 21:29 : client: [0] opened from 127.0.0.1:58352
+Jun 18 21:50 : player: played "Outer/Katharine McPhee - All the Way.mp3"
+Jun 19 01:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 01:30 : config: option 'device' on line 13 was not recognized
+Jun 19 01:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 01:30 : client: [0] opened from 127.0.0.1:52306
+Jun 19 04:17 : client: [0] closed
+Jun 19 04:17 : player: played "Outer/Katharine McPhee - All the Way.mp3"
+Jun 20 06:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 06:19 : config: option 'device' on line 13 was not recognized
+Jun 20 06:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 06:19 : client: [0] opened from 127.0.0.1:43262
+Jun 20 21:43 : player: played "Outer/Katharine McPhee - All the Way.mp3"
+Jun 21 11:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 11:45 : config: option 'device' on line 13 was not recognized
+Jun 21 11:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 11:45 : client: [0] opened from 127.0.0.1:56368

@@ -37,7 +37,7 @@ for_window [class="URxvt" instance="float_term"] floating enable, resize set 900
 bindsym mod1+Escape exec urxvt -name sys-mode
 for_window [class="URxvt" instance="sys-mode"] floating enable, resize set 300px 50px, move position center
 
-bindsym $mod+Return exec cool-retro-term -name term
+bindsym $mod+Return exec urxvt -name term
 #for_window [class="URxvt" instance="term"] floating enable, resize set 1000px 500px, move position center
 
 bindsym $mod+v exec urxvt -e vim
@@ -49,6 +49,7 @@ for_window [instance="ncmpcpp"] move to workspace $ws0
 
 gaps inner 14
 gaps outer -2
+
 #smart_gaps on
 smart_borders on
 
@@ -68,12 +69,12 @@ bindsym $mod+f fullscreen toggle
 bindsym $mod+t layout toggle tabbed split
 
 bindsym $mod+w kill 
-bindsym mod1+Tab focus next
-bindsym mod1+Shift+Tab focus prev
+bindsym mod1+Right focus next
+bindsym mod1+Left focus prev
 
-bindsym $mod+Tab workspace next
-bindsym $mod+Shift+Tab workspace prev
-
+bindsym $mod+Right workspace next
+bindsym $mod+Left workspace prev
+bindsym $mod+b exec '.vim-anywhere/bin/run' 
 
 #### W R K S P C E ####
 
@@ -133,6 +134,23 @@ bindsym $mod+8 workspace $ws8
 bindsym $mod+9 workspace $ws0
 bindsym $mod+0 workspace $ws0
 
+
+bindsym $mod+a workspace $ws1
+bindsym $mod+s workspace $ws2
+bindsym $mod+d workspace $ws3
+bindsym $mod+p workspace $ws0
+
+#bindsym $mod+1 workspace $ws1
+#bindsym $mod+2 workspace $ws2
+#bindsym $mod+3 workspace $ws3
+#bindsym $mod+4 workspace $ws4
+#bindsym $mod+5 workspace $ws5
+#bindsym $mod+6 workspace $ws6
+#bindsym $mod+7 workspace $ws7
+#bindsym $mod+8 workspace $ws8
+#bindsym $mod+9 workspace $ws0
+#bindsym $mod+0 workspace $ws0
+
 bindsym $mod+mod1+1 move container to workspace $ws1; workspace $ws1
 bindsym $mod+mod1+2 move container to workspace $ws2; workspace $ws2
 bindsym $mod+mod1+3 move container to workspace $ws3; workspace $ws3
@@ -171,7 +189,7 @@ bindsym $mod+mod1+0 move container to workspace $ws0; workspace $ws0
 
 #### F L O A T ####
 
-bindsym $mod+a floating toggle, resize set 1100px 650px, move position center
+#bindsym $mod+a floating toggle, resize set 1100px 650px, move position center
 
 
 ### C O L O R I Z E ###

@@ -26,6 +26,7 @@ Plug 'vimwiki/vimwiki'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 Plug 'blindFS/vim-reveal'
+Plug 'junegunn/goyo.vim'
 call plug#end()
 
 
@@ -41,7 +42,7 @@ set expandtab
 set t_Co=256
 colorscheme gruvbox
 set bg=dark
-hi Normal guibg=NONE ctermbg=NONE
+hi Normal guibg=#222222 ctermbg=NONE
 hi Folded ctermfg=245 ctermbg=235
 hi Comment ctermfg=246
 highlight EndOfBuffer ctermfg=234
@@ -78,11 +79,7 @@ set conceallevel=3
 
 "LET
 
-let g:NERDTreeWinSize=20
-let NERDTreeMinimalUI = 1
-let NERDTreeDirArrows = 1
-let NERDTreeShowHidden=1
-let mapleader=";"
+let mapleader=" "
 let g:netrw_banner = 0
 let g:qs_highlight_on_keys = ['f', 'F', 't', 'T']
 
@@ -119,11 +116,6 @@ highlight QuickScopeSecondary guifg='#5fffff' gui=underline ctermfg=81 cterm=und
 "NORMAL MODE REMAP
 nnoremap <C-K> 10k
 nnoremap <C-J> 10j
-nnoremap Q :
-noremap <Up> <Nop>
-noremap <Down> <Nop>
-noremap <Left> <Nop>
-noremap <Right> <Nop>
 nnoremap <C--> <C-W><C-J>
 nnoremap <C-=> <C-W><C-K>
 nnoremap <c-9> :m -2<CR>
@@ -137,22 +129,26 @@ nnoremap <S-H> b
 nnoremap j gj
 nnoremap k gk
 noremap <C-@> a
-noremap <space> za
+"noremap <space> za
 autocmd filetype tex noremap <space><space> :/<++><cr>knca<
+nnoremap Q :qa!
 noremap <leader>o :e 
 noremap <leader>tn :tabnew<cr>
 nnoremap <leader>jj <C-W><C-J>
 nnoremap <leader>kk <C-W><C-K>
 nnoremap <leader>ll <C-W><C-L>
 nnoremap <leader>hh <C-W><C-H>
+nnoremap <leader>vs :vsplit<cr>
+nnoremap <leader>e :e 
 nnoremap <leader>kl :tabNext<cr>
 nnoremap <leader>jh :tabprevious<cr>
 nnoremap <leader>r :source ~/.vimrc<cr> 
 nnoremap <leader>hc :echo synIDattr(synID(line("."), col("."), 1), "name")<cr>
 nnoremap <leader>noh :noh<cr>
-nnoremap <leader>vrc :e ~/.vimrc<cr>
+nnoremap <leader>vv :e ~/.vimrc<cr>
 nnoremap <leader>use :UltiSnipsEdit<cr>
-nnoremap <leader>qa :qa!<cr>
+nnoremap <leader>qq :qa!<cr>
+nnoremap <leader>go :Goyo<cr>
 noremap <leader>1 1gt
 noremap <leader>2 2gt
 noremap <leader>3 3gt
@@ -167,10 +163,6 @@ nnoremap <leader>q :q<cr>
 nnoremap <leader>w :w<cr>
 
 "INPUT MODE REMAP
-inoremap <Up> <Nop>
-inoremap <Down> <Nop>
-inoremap <Left> <Nop>
-inoremap <Right> <Nop>
 inoremap <expr> j pumvisible() ? "\<C-N>" : "j"
 inoremap <expr> k pumvisible() ? "\<C-P>" : "k"
 inoremap ii <esc>
@@ -178,14 +170,6 @@ inoremap <c-a> <c-space>
 inoremap <c-g> <c-x><c-f>
 
 "COMMAND & VISUAL  MODE REMAP
-cnoremap <Up> <Nop>
-cnoremap <Down> <Nop>
-cnoremap <Left> <Nop>
-cnoremap <Right> <Nop>
-vnoremap <Up> <Nop>
-vnoremap <Down> <Nop>
-vnoremap <Left> <Nop>
-vnoremap <Right> <Nop>
 vnoremap <S-L> w
 vnoremap <S-H> b
 map <Enter> o<esc>
@@ -223,25 +207,25 @@ endfunction
 "MODE
 
 let g:currentmode={
-    \ 'n'  : 'Normal',
-    \ 'no' : 'Normal·Operator Pending',
-    \ 'v'  : 'Visual',
-    \ 'V'  : 'V·Line',
-    \ '^V' : 'V·block',
-    \ 's'  : 'Select',
-    \ 'S'  : 'S·Line',
-    \ '^S' : 'S·Block',
-    \ 'i'  : 'Insert',
-    \ 'R'  : 'Replace',
-    \ 'Rv' : 'V·Replace',
-    \ 'c'  : 'Command',
-    \ 'cv' : 'Vim Ex',
-    \ 'ce' : 'Ex',
-    \ 'r'  : 'Prompt',
-    \ 'rm' : 'More',
-    \ 'r?' : 'Confirm',
-    \ '!'  : 'Shell',
-    \ 't'  : 'Terminal'
+    \ 'n'      : 'Normal',
+    \ 'no'     : 'Normal·Operator Pending',
+    \ 'v'      : 'Visual',
+    \ 'V'      : 'V·Line',
+    \ "\<C-V>" : 'V·block',
+    \ 's'      : 'Select',
+    \ 'S'      : 'S·Line',
+    \ '^S'     : 'S·Block',
+    \ 'i'      : 'Insert',
+    \ 'R'      : 'Replace',
+    \ 'Rv'     : 'V·Replace',
+    \ 'c'      : 'Command',
+    \ 'cv'     : 'Vim Ex',
+    \ 'ce'     : 'Ex',
+    \ 'r'      : 'Prompt',
+    \ 'rm'     : 'More',
+    \ 'r?'     : 'Confirm',
+    \ '!'      : 'Shell',
+    \ 't'      : 'Terminal'
     \}
 
 "//STATUSLINE!

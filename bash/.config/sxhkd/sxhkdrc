@@ -14,11 +14,11 @@ super + alt + a
 super + {comma,period}
   {xdo hide -N "Polybar", xdo show -N "Polybar"}
 
-super + e
-  . ~/Scripts/ytpl
-
-super + alt + e
-  . ~/Scripts/ytdpl.sh
+#super + e
+#  . ~/Scripts/ytpl
+#
+#super + alt + e
+#  . ~/Scripts/ytdpl.sh
 
 control + m
   . ~/Scripts/ytpm
