@@ -9393,3 +9393,411 @@ Jun 21 11:45 : exception: RTIOThread could not get realtime scheduling, continui
 Jun 21 11:45 : config: option 'device' on line 13 was not recognized
 Jun 21 11:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Jun 21 11:45 : client: [0] opened from 127.0.0.1:56368
+Jun 21 12:21 : player: played "Outer/Katharine McPhee - All the Way.mp3"
+Jun 21 16:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 16:12 : config: option 'device' on line 13 was not recognized
+Jun 21 16:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 16:12 : client: [0] opened from 127.0.0.1:37962
+Jun 21 16:20 : client: [1] opened from 127.0.0.1:38154
+Jun 21 16:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 16:20 : client: [1] closed
+Jun 21 16:20 : client: [2] opened from 127.0.0.1:38158
+Jun 21 16:20 : client: [2] closed
+Jun 21 16:32 : client: [3] opened from 127.0.0.1:38276
+Jun 21 16:32 : client: [3] closed
+Jun 21 16:32 : client: [4] opened from 127.0.0.1:38282
+Jun 21 16:32 : client: [4] closed
+Jun 21 17:29 : client: [0] closed
+Jun 21 17:29 : player: played "Outer/Laura Fygi - La vie en rose.mp3"
+Jun 21 18:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 18:35 : config: option 'device' on line 13 was not recognized
+Jun 21 18:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 18:35 : client: [0] opened from 127.0.0.1:57546
+Jun 21 18:42 : client: [1] opened from 127.0.0.1:57704
+Jun 21 18:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 21 18:42 : client: [1] closed
+Jun 21 18:42 : client: [2] opened from 127.0.0.1:57708
+Jun 21 18:42 : client: [2] closed
+Jun 21 18:57 : client: [3] opened from 127.0.0.1:58026
+Jun 21 18:57 : client: [3] closed
+Jun 21 18:57 : client: [4] opened from 127.0.0.1:58038
+Jun 21 18:57 : client: [4] closed
+Jun 21 18:57 : client: [5] opened from 127.0.0.1:58042
+Jun 21 18:57 : client: [5] closed
+Jun 21 18:59 : client: [6] opened from 127.0.0.1:58176
+Jun 21 18:59 : client: [6] closed
+Jun 21 19:08 : client: [7] opened from 127.0.0.1:59624
+Jun 21 19:08 : client: [7] closed
+Jun 21 19:12 : player: played "Outer/Anthony Strong - I Can't Give You Anything.mp3"
+Jun 21 19:18 : player: played "Outer/Nicole Henry - Moon River.mp3"
+Jun 21 19:22 : player: played "Outer/Gregory Porter - But Beautiful.mp3"
+Jun 21 19:27 : player: played "Outer/Renee Olstead - When I Fall in Love (feat Chris Botti).mp3"
+Jun 21 19:31 : player: played "Outer/Gregory Porter - Smile.mp3"
+Jun 21 19:36 : player: played "Outer/Seal - My Funny Valentine.mp3"
+Jun 21 19:38 : client: [8] opened from 127.0.0.1:60336
+Jun 21 19:38 : client: [8] closed
+Jun 21 20:17 : client: [9] opened from 127.0.0.1:35992
+Jun 21 20:17 : client: [9] closed
+Jun 21 20:18 : player: played "Outer/Stacey Kent - In the Wee Small Hours of the Morning.mp3"
+Jun 21 20:22 : player: played "Outer/Oren Lavie - Her Morning Elegance.mp3"
+Jun 21 20:25 : player: played "Outer/Oren Lavie - The Man Who Isn't There.mp3"
+Jun 21 20:29 : player: played "Outer/Oren Lavie - The Opposite Side of the Sea.mp3"
+Jun 21 20:33 : player: played "Outer/Oren Lavie - Locked in a Room.mp3"
+Jun 21 20:37 : player: played "Outer/Oren Lavie - Ruby Rises.mp3"
+Jun 21 20:41 : player: played "Outer/Oren Lavie - A Dream Within a Dream.mp3"
+Jun 21 20:44 : player: played "Outer/Oren Lavie - Trouble Don't Rhyme.mp3"
+Jun 21 20:47 : player: played "Outer/Oren Lavie - A Short Goodbye.mp3"
+Jun 21 20:50 : player: played "Outer/Oren Lavie - Don't Let Your Hair Grow Too Long.mp3"
+Jun 21 20:54 : player: played "Outer/Oren Lavie - Blue Smile.mp3"
+Jun 21 20:56 : client: [10] opened from 127.0.0.1:39362
+Jun 21 20:56 : client: [10] closed
+Jun 21 20:56 : client: [11] opened from 127.0.0.1:39368
+Jun 21 20:56 : client: [11] closed
+Jun 21 20:56 : client: [12] opened from 127.0.0.1:39370
+Jun 21 20:56 : client: [12] closed
+Jun 21 20:56 : client: [13] opened from 127.0.0.1:39376
+Jun 21 20:56 : client: [13] closed
+Jun 21 20:56 : client: [14] opened from 127.0.0.1:39378
+Jun 21 20:56 : client: [14] closed
+Jun 21 20:56 : client: [15] opened from 127.0.0.1:39384
+Jun 21 20:56 : client: [15] closed
+Jun 21 20:56 : client: [16] opened from 127.0.0.1:39386
+Jun 21 20:56 : client: [16] closed
+Jun 21 20:56 : client: [17] opened from 127.0.0.1:39388
+Jun 21 20:56 : client: [17] closed
+Jun 21 20:56 : client: [18] opened from 127.0.0.1:39394
+Jun 21 20:56 : client: [18] closed
+Jun 21 20:56 : client: [19] opened from 127.0.0.1:39398
+Jun 21 20:56 : client: [19] closed
+Jun 21 20:56 : client: [20] opened from 127.0.0.1:39402
+Jun 21 20:56 : client: [20] closed
+Jun 21 20:56 : client: [21] opened from 127.0.0.1:39404
+Jun 21 20:56 : client: [21] closed
+Jun 21 20:56 : client: [22] opened from 127.0.0.1:39408
+Jun 21 20:56 : client: [22] closed
+Jun 21 20:56 : client: [23] opened from 127.0.0.1:39412
+Jun 21 20:56 : client: [23] closed
+Jun 21 20:56 : client: [24] opened from 127.0.0.1:39416
+Jun 21 20:56 : client: [24] closed
+Jun 21 20:56 : client: [25] opened from 127.0.0.1:39420
+Jun 21 20:56 : client: [25] closed
+Jun 21 20:56 : client: [26] opened from 127.0.0.1:39424
+Jun 21 20:56 : client: [26] closed
+Jun 21 20:56 : client: [27] opened from 127.0.0.1:39428
+Jun 21 20:56 : client: [27] closed
+Jun 21 20:56 : client: [28] opened from 127.0.0.1:39432
+Jun 21 20:56 : client: [28] closed
+Jun 21 20:56 : client: [29] opened from 127.0.0.1:39438
+Jun 21 20:56 : client: [29] closed
+Jun 21 20:56 : client: [30] opened from 127.0.0.1:39442
+Jun 21 20:56 : client: [30] closed
+Jun 21 20:56 : client: [31] opened from 127.0.0.1:39446
+Jun 21 20:56 : client: [31] closed
+Jun 21 21:00 : player: played "Outer/Oren Lavie - Her Morning Elegance.mp3"
+Jun 21 21:04 : player: played "Outer/Oren Lavie - The Man Who Isn't There.mp3"
+Jun 21 21:04 : client: [32] opened from 127.0.0.1:40534
+Jun 21 21:04 : client: [32] closed
+Jun 22 00:10 : player: played "Outer/Oren Lavie - The Opposite Side of the Sea.mp3"
+Jun 22 14:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 22 14:54 : config: option 'device' on line 13 was not recognized
+Jun 22 14:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 22 14:54 : client: [0] opened from 127.0.0.1:46762
+Jun 22 15:34 : client: [1] opened from 127.0.0.1:47348
+Jun 22 15:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 22 15:34 : client: [1] closed
+Jun 22 15:34 : client: [2] opened from 127.0.0.1:47352
+Jun 22 15:34 : client: [2] closed
+Jun 22 15:35 : player: played "Outer/Oren Lavie - The Opposite Side of the Sea.mp3"
+Jun 23 18:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 23 18:28 : config: option 'device' on line 13 was not recognized
+Jun 23 18:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 23 18:28 : client: [0] opened from 127.0.0.1:53536
+Jun 23 21:16 : client: [1] opened from 127.0.0.1:42096
+Jun 23 21:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 23 21:17 : client: [1] closed
+Jun 23 21:18 : client: [2] opened from 127.0.0.1:42142
+Jun 23 21:18 : client: [2] closed
+Jun 23 21:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 23 21:20 : config: option 'device' on line 13 was not recognized
+Jun 23 21:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 23 21:20 : client: [0] opened from 127.0.0.1:52252
+Jun 24 03:09 : player: played "Outer/Oren Lavie - The Opposite Side of the Sea.mp3"
+Jun 25 16:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 25 16:02 : config: option 'device' on line 13 was not recognized
+Jun 25 16:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 25 16:02 : client: [0] opened from 127.0.0.1:36680
+Jun 25 16:42 : client: [0] closed
+Jun 25 16:42 : player: played "Outer/Oren Lavie - The Opposite Side of the Sea.mp3"
+Jun 26 17:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 17:00 : config: option 'device' on line 13 was not recognized
+Jun 26 17:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 17:00 : client: [0] opened from 127.0.0.1:52722
+Jun 26 17:09 : client: [0] closed
+Jun 26 17:09 : player: played "Outer/Oren Lavie - The Opposite Side of the Sea.mp3"
+Jun 27 12:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 27 12:45 : config: option 'device' on line 13 was not recognized
+Jun 27 12:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 27 12:45 : client: [0] opened from 127.0.0.1:40404
+Jun 28 18:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 18:57 : config: option 'device' on line 13 was not recognized
+Jun 28 18:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 18:57 : client: [0] opened from 127.0.0.1:52544
+Jun 28 19:06 : player: played "Outer/Oren Lavie - The Opposite Side of the Sea.mp3"
+Jun 30 18:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 30 18:04 : config: option 'device' on line 13 was not recognized
+Jun 30 18:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 30 18:04 : client: [0] opened from 127.0.0.1:40718
+Jun 30 22:38 : client: [1] opened from 127.0.0.1:48690
+Jun 30 22:38 : client: [2] opened from 127.0.0.1:48694
+Jun 30 22:38 : client: [2] closed
+Jun 30 22:38 : client: [1] closed
+Jun 30 22:38 : client: [3] opened from 127.0.0.1:48698
+Jun 30 22:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 30 22:38 : client: [3] closed
+Jun 30 22:38 : client: [4] opened from 127.0.0.1:48702
+Jun 30 22:38 : client: [4] closed
+Jul 02 15:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 02 15:25 : config: option 'device' on line 13 was not recognized
+Jul 02 15:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 02 15:25 : client: [0] opened from 127.0.0.1:33760
+Jul 03 16:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 16:52 : config: option 'device' on line 13 was not recognized
+Jul 03 16:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 16:52 : client: [0] opened from 127.0.0.1:40234
+Jul 03 17:42 : player: played "Outer/Oren Lavie - The Opposite Side of the Sea.mp3"
+Jul 03 20:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 20:16 : config: option 'device' on line 13 was not recognized
+Jul 03 20:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 20:16 : client: [0] opened from 127.0.0.1:42118
+Jul 04 00:25 : player: played "Outer/Oren Lavie - The Opposite Side of the Sea.mp3"
+Jul 04 12:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 04 12:28 : config: option 'device' on line 13 was not recognized
+Jul 04 12:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 04 12:28 : client: [0] opened from 127.0.0.1:40032
+Jul 04 13:37 : client: [1] opened from 127.0.0.1:41244
+Jul 04 13:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 04 13:37 : client: [1] closed
+Jul 04 13:41 : player: played "Outer/Oren Lavie - The Man Who Isn't There.mp3"
+Jul 04 13:44 : player: played "Outer/Oren Lavie - The Opposite Side of the Sea.mp3"
+Jul 04 13:49 : player: played "Outer/Oren Lavie - Locked in a Room.mp3"
+Jul 04 13:52 : player: played "Outer/Oren Lavie - Ruby Rises.mp3"
+Jul 04 13:56 : player: played "Outer/Oren Lavie - A Dream Within a Dream.mp3"
+Jul 04 14:00 : player: played "Outer/Oren Lavie - Trouble Don't Rhyme.mp3"
+Jul 04 14:03 : player: played "Outer/Oren Lavie - A Short Goodbye.mp3"
+Jul 04 14:06 : player: played "Outer/Oren Lavie - Don't Let Your Hair Grow Too Long.mp3"
+Jul 04 14:09 : player: played "Outer/Oren Lavie - Blue Smile.mp3"
+Jul 04 14:12 : player: played "Outer/Oren Lavie - A Quarter Past Wonderful.mp3"
+Jul 04 14:14 : player: played "Outer/Steve Tyrell - I've Got a Crush On You.mp3"
+Jul 04 14:18 : player: played "Outer/Harry Connick Jr - Mind If I Make Love To You.mp3"
+Jul 04 14:21 : player: played "Outer/Sachal Vasandani - Unforgettable.mp3"
+Jul 04 14:26 : player: played "Indie/Diskoria - Balada Insan Muda.mp3"
+Jul 04 14:27 : player: played "Indie/Amigdala - Balada Puan.mp3"
+Jul 04 14:27 : player: played "Indie/Amigdala - Belenggu.mp3"
+Jul 04 18:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 04 18:24 : config: option 'device' on line 13 was not recognized
+Jul 04 18:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 04 18:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 04 18:24 : client: [0] opened from 127.0.0.1:48774
+Jul 04 18:29 : player: played "Indie/Amigdala - Belenggu.mp3"
+Jul 04 18:30 : client: [1] opened from 127.0.0.1:49130
+Jul 04 18:30 : client: [1] closed
+Jul 04 18:33 : client: [2] opened from 127.0.0.1:49232
+Jul 04 18:33 : client: [2] closed
+Jul 07 20:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 07 20:44 : config: option 'device' on line 13 was not recognized
+Jul 07 20:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 07 20:44 : client: [0] opened from 127.0.0.1:46846
+Jul 10 12:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 10 12:41 : config: option 'device' on line 13 was not recognized
+Jul 10 12:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 10 12:41 : client: [0] opened from 127.0.0.1:55072
+Jul 10 12:45 : client: [0] closed
+Jul 10 12:45 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+Jul 11 07:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 11 07:21 : config: option 'device' on line 13 was not recognized
+Jul 11 07:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 11 07:21 : client: [0] opened from 127.0.0.1:56386
+Jul 13 14:58 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+Jul 14 00:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 14 00:55 : config: option 'device' on line 13 was not recognized
+Jul 14 00:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 14 00:55 : client: [0] opened from 127.0.0.1:42874
+Jul 14 00:55 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+Aug 10 19:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 19:04 : config: option 'device' on line 13 was not recognized
+Aug 10 19:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 19:04 : client: [0] opened from 127.0.0.1:35006
+Aug 10 22:51 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+Aug 11 11:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 11:37 : config: option 'device' on line 13 was not recognized
+Aug 11 11:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 11:37 : client: [0] opened from 127.0.0.1:42086
+Aug 11 23:34 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+Aug 11 23:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 23:34 : config: option 'device' on line 13 was not recognized
+Aug 11 23:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 23:34 : client: [0] opened from 127.0.0.1:57788
+Aug 11 23:38 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+Aug 12 02:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 02:11 : config: option 'device' on line 13 was not recognized
+Aug 12 02:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 02:11 : client: [0] opened from 127.0.0.1:49842
+Aug 12 03:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 03:56 : config: option 'device' on line 13 was not recognized
+Aug 12 03:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 03:56 : client: [0] opened from 127.0.0.1:47588
+Aug 12 04:09 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+Aug 12 04:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 04:23 : config: option 'device' on line 13 was not recognized
+Aug 12 04:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 04:23 : client: [0] opened from 127.0.0.1:33376
+Aug 15 20:58 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+Aug 19 21:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 21:55 : config: option 'device' on line 13 was not recognized
+Aug 19 21:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 21:55 : client: [0] opened from 127.0.0.1:39332
+Aug 19 22:35 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+Aug 20 23:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 23:53 : config: option 'device' on line 13 was not recognized
+Aug 20 23:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 23:53 : client: [0] opened from 127.0.0.1:37382
+Aug 21 00:06 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+Aug 21 00:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 00:10 : config: option 'device' on line 13 was not recognized
+Aug 21 00:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 00:10 : client: [0] opened from 127.0.0.1:54074
+Aug 21 00:40 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+Aug 21 00:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 00:41 : config: option 'device' on line 13 was not recognized
+Aug 21 00:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 00:41 : client: [0] opened from 127.0.0.1:52270
+Aug 21 01:28 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+Aug 23 16:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 16:04 : config: option 'device' on line 13 was not recognized
+Aug 23 16:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 16:04 : client: [0] opened from 127.0.0.1:53934
+Aug 23 16:36 : player: played "Indie/Amigdala - Di Ambang Karam.mp3"
+Aug 23 18:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 18:01 : config: option 'device' on line 13 was not recognized
+Aug 23 18:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 18:01 : client: [0] opened from 127.0.0.1:33058
+Aug 23 21:24 : client: [1] opened from 127.0.0.1:36184
+Aug 23 21:24 : client: [2] opened from 127.0.0.1:36188
+Aug 23 21:24 : client: [2] closed
+Aug 23 21:24 : client: [3] opened from 127.0.0.1:36190
+Aug 23 21:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 21:24 : client: [3] closed
+Aug 23 21:24 : client: [4] opened from 127.0.0.1:36194
+Aug 23 21:24 : client: [4] closed
+Aug 23 21:25 : client: [5] opened from 127.0.0.1:36198
+Aug 23 21:25 : client: [5] closed
+Aug 23 21:25 : client: [1] closed
+Aug 23 21:25 : client: [6] opened from 127.0.0.1:36200
+Aug 23 21:25 : client: [6] closed
+Aug 25 17:39 : player: played "Outer/Oren Lavie - Did You Really Say No.mp3"
+Aug 25 19:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 19:47 : config: option 'device' on line 13 was not recognized
+Aug 25 19:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 19:47 : client: [0] opened from 127.0.0.1:57212
+Aug 26 00:44 : player: played "Outer/Oren Lavie - Did You Really Say No.mp3"
+Aug 26 20:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 20:20 : config: option 'device' on line 13 was not recognized
+Aug 26 20:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 20:20 : client: [0] opened from 127.0.0.1:59086
+Aug 26 20:55 : client: [0] closed
+Aug 26 20:55 : player: played "Outer/Oren Lavie - Did You Really Say No.mp3"
+Aug 26 21:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 21:45 : config: option 'device' on line 13 was not recognized
+Aug 26 21:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 21:45 : client: [0] opened from 127.0.0.1:58040
+Aug 27 13:53 : player: played "Outer/Oren Lavie - Did You Really Say No.mp3"
+Aug 27 18:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 18:34 : config: option 'device' on line 13 was not recognized
+Aug 27 18:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 18:34 : client: [0] opened from 127.0.0.1:35820
+Aug 28 02:40 : client: [1] opened from 127.0.0.1:39724
+Aug 28 02:40 : client: [2] opened from 127.0.0.1:39728
+Aug 28 02:40 : client: [2] closed
+Aug 28 02:40 : client: [3] opened from 127.0.0.1:39732
+Aug 28 02:40 : client: [4] opened from 127.0.0.1:39736
+Aug 28 02:40 : client: [4] closed
+Aug 28 02:41 : client: [3] closed
+Aug 28 02:41 : client: [1] closed
+Aug 28 02:41 : client: [5] opened from 127.0.0.1:39738
+Aug 28 02:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 02:41 : client: [5] closed
+Aug 28 02:45 : player: played "Outer/Oren Lavie - Did You Really Say No.mp3"
+Aug 28 02:49 : player: played "Outer/Oren Lavie - Breathing Fine.mp3"
+Aug 28 02:52 : player: played "Outer/Oren Lavie - Second Hand Lovers.mp3"
+Aug 28 07:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 07:47 : config: option 'device' on line 13 was not recognized
+Aug 28 07:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 07:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 07:47 : client: [0] opened from 127.0.0.1:57924
+Aug 28 07:48 : player: played "Outer/Oren Lavie - Second Hand Lovers.mp3"
+Aug 28 07:52 : player: played "Outer/Oren Lavie - Look At Her Go.mp3"
+Aug 28 07:54 : player: played "Outer/Oren Lavie - Sonata Sentimental 1 (You've Changed).mp3"
+Aug 28 07:55 : client: [1] opened from 127.0.0.1:58090
+Aug 28 07:55 : client: [1] closed
+Aug 28 10:09 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Aug 28 15:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 15:51 : config: option 'device' on line 13 was not recognized
+Aug 28 15:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 15:51 : client: [0] opened from 127.0.0.1:44526
+Sep 07 07:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 07 07:24 : config: option 'device' on line 13 was not recognized
+Sep 07 07:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 07 07:24 : client: [0] opened from 127.0.0.1:49636
+Sep 07 15:19 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Sep 11 17:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 17:31 : config: option 'device' on line 13 was not recognized
+Sep 11 17:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 17:31 : client: [0] opened from 127.0.0.1:42882
+Sep 11 19:49 : client: [0] closed
+Sep 11 19:49 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Sep 11 22:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 22:15 : config: option 'device' on line 13 was not recognized
+Sep 11 22:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 22:15 : client: [0] opened from 127.0.0.1:53618
+Sep 11 23:47 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Sep 12 16:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 16:37 : config: option 'device' on line 13 was not recognized
+Sep 12 16:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 16:37 : client: [0] opened from 127.0.0.1:55604
+Sep 12 16:54 : client: [0] closed
+Sep 12 16:54 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Sep 13 15:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 15:12 : config: option 'device' on line 13 was not recognized
+Sep 13 15:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 15:12 : client: [0] opened from 127.0.0.1:40868
+Sep 13 16:31 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Sep 15 13:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 13:17 : config: option 'device' on line 13 was not recognized
+Sep 15 13:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 13:17 : client: [0] opened from 127.0.0.1:59824
+Sep 15 16:20 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Sep 15 19:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 19:09 : config: option 'device' on line 13 was not recognized
+Sep 15 19:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 19:09 : client: [0] opened from 127.0.0.1:56542
+Sep 15 20:28 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Sep 19 14:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 19 14:29 : config: option 'device' on line 13 was not recognized
+Sep 19 14:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 19 14:29 : client: [0] opened from 127.0.0.1:42872
+Sep 19 14:49 : client: [0] closed
+Sep 19 14:49 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Sep 22 05:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 05:51 : config: option 'device' on line 13 was not recognized
+Sep 22 05:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 05:51 : client: [0] opened from 127.0.0.1:47744
+Sep 22 06:36 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Sep 22 10:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 10:13 : config: option 'device' on line 13 was not recognized
+Sep 22 10:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 10:13 : client: [0] opened from 127.0.0.1:55680
+Sep 22 14:08 : client: [1] opened from 127.0.0.1:57648
+Sep 22 14:08 : client: [2] opened from 127.0.0.1:57652
+Sep 22 14:08 : client: [2] closed
+Sep 22 14:08 : client: [1] closed
+Sep 22 14:34 : player: played "Outer/Oren Lavie - The Passion Song.mp3"

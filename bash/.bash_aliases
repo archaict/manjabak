@@ -48,6 +48,7 @@ alias pinstall='pip install'
 
 #APPLICATION
 
+alias news='newsboat -r'
 alias vsx='v ~/.config/sxhkd/sxhkdrc'
 alias tconf='vim ~/.tmux.conf'
 alias tfh='tmux source-file ~/.tmux.conf'
@@ -61,6 +62,7 @@ alias vnf='v .nf'
 alias vwk='v ~/archaict-archive/index.wiki'
 alias nf='clear && cat .nf'
 alias arcwiki='arc && v index.wiki'
+alias anstu='cd /home/arandel/download/android-studio/bin/ && ./studio.sh'
 
 #DIRECTORY
 
@@ -167,3 +169,5 @@ alias qmkflash='cd ~/qmk_firmware && sudo make niu_mini:archaict:flash'
 alias qmkf='cd ~/qmk_firmware/'
 alias qmkv='vim ~/qmk_firmware/keyboards/niu_mini/keymaps/archaict/keymap.c'
 alias qmka='cd ~/qmk_firmware/keyboards/niu_mini/keymaps/archaict'
+
+

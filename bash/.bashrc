@@ -208,3 +208,4 @@ export PS1='\[\033[1;38;5;214m\] ARANDELØ \W \[\033[1;38;5;247m\]'
 #cat ~/.nf
 
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+#export PATH={PATH}:/home/arandel/Android/sdk/platform-tools/

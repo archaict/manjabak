@@ -7,7 +7,7 @@ Xft.autohint:  false
 Xft.hintstyle: hintslight
 Xft.lcdfilter: lcddefault
 
-XTerm*background:        #222D31
+XTerm*background:        #282828
 XTerm*foreground:        #d8d8d8
 XTerm*pointerColor:      #1ABB9B
 XTerm*faceName:          Fixed
@@ -29,7 +29,7 @@ Xcursor.size: 16
 !URxvt.font:                       xft:mononoki Nerd Font:size=11
 !URxvt.font:                       xft:Inconsolata Nerd Font Mono:size=12
 !URxvt.font:                       xft:Sauce CodePro Nerd Font Mono
-URxvt.font:                       xft:MesloLGS Nerd Font Mono:size=10
+URxvt.font:                       xft:MesloLGS Nerd Font Mono:size=11
 !URxvt.font:                       xft:FonFont Awesome 5 Brands Regular:size=10
 
 
@@ -71,7 +71,7 @@ URxvt.keysym.C-period:    resize-font:bigger
 ! soft contrast: *background: #32302f
 *foreground: #ebdbb2
 ! Black + DarkGrey
-*color0:  #282828
+*color0:  #181818
 *color8:  #928374
 ! DarkRed + Red
 *color1:  #cc241d
