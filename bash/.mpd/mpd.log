@@ -9801,3 +9801,55 @@ Sep 22 14:08 : client: [2] opened from 127.0.0.1:57652
 Sep 22 14:08 : client: [2] closed
 Sep 22 14:08 : client: [1] closed
 Sep 22 14:34 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Oct 05 07:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 05 07:49 : config: option 'device' on line 13 was not recognized
+Oct 05 07:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 05 07:49 : client: [0] opened from 127.0.0.1:59946
+Oct 05 11:29 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Oct 05 11:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 05 11:30 : config: option 'device' on line 13 was not recognized
+Oct 05 11:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 05 11:30 : client: [0] opened from 127.0.0.1:36568
+Oct 05 15:56 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Oct 07 06:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 06:46 : config: option 'device' on line 13 was not recognized
+Oct 07 06:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 06:46 : client: [0] opened from 127.0.0.1:36808
+Oct 07 12:43 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Oct 08 08:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 08 08:26 : config: option 'device' on line 13 was not recognized
+Oct 08 08:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 08 08:26 : client: [0] opened from 127.0.0.1:35056
+Oct 08 13:41 : client: [1] opened from 127.0.0.1:39332
+Oct 08 13:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 08 13:41 : client: [1] closed
+Oct 08 13:41 : client: [2] opened from 127.0.0.1:39334
+Oct 08 13:41 : client: [2] closed
+Oct 08 14:27 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Oct 08 14:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 08 14:48 : config: option 'device' on line 13 was not recognized
+Oct 08 14:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 08 14:48 : client: [0] opened from 127.0.0.1:57742
+Oct 08 15:09 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Oct 08 15:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 08 15:11 : config: option 'device' on line 13 was not recognized
+Oct 08 15:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 08 15:11 : client: [0] opened from 127.0.0.1:47516
+Oct 08 15:59 : client: [1] opened from 127.0.0.1:49638
+Oct 08 15:59 : client: [2] opened from 127.0.0.1:49642
+Oct 08 15:59 : client: [2] closed
+Oct 08 15:59 : client: [1] closed
+Oct 08 15:59 : client: [3] opened from 127.0.0.1:49706
+Oct 08 15:59 : client: [4] opened from 127.0.0.1:49710
+Oct 08 15:59 : client: [4] closed
+Oct 08 15:59 : client: [3] closed
+Oct 08 16:43 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Oct 08 17:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 08 17:23 : config: option 'device' on line 13 was not recognized
+Oct 08 17:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 08 17:23 : client: [0] opened from 127.0.0.1:60806
+Oct 08 17:59 : player: played "Outer/Oren Lavie - The Passion Song.mp3"
+Oct 09 08:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 09 08:50 : config: option 'device' on line 13 was not recognized
+Oct 09 08:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 09 08:50 : client: [0] opened from 127.0.0.1:41166
